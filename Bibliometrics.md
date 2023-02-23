@@ -2,280 +2,96 @@ The following table lists all authors with the number of contributions to the BP
 
 | Author | Paper (Total) | Paper (BPM) |  Paper (ER)  | Paper (MODELS) 
 |-------|:--------:|:--------:|:--------:|:--------:|
+| Wil M. P. van der Aalst | 54 | 44 | 8 | 2
 | John Mylopoulos | 46 | 1 | 43 | 2
 | Giancarlo Guizzardi | 35 | 1 | 33 | 1
-| Paolo Giorgini | 18 | 1 | 16 | 1
-| Michael Schrefl | 14 | 2 | 10 | 2
-| Wil M. P. van der Aalst | 54 | 44 | 8 | 2
-| Daniel Amyot | 10 | 1 | 5 | 4
-| Markus Stumptner | 10 | 2 | 5 | 3
-| Vicente Pelechano | 9 | 1 | 5 | 3
-| Mario Piattini | 5 | 1 | 3 | 1
-| Georg Grossmann | 7 | 2 | 2 | 3
-| Gregor Engels | 11 | 2 | 1 | 8
-| Marten van Sinderen | 4 | 1 | 1 | 2
-| Remco M. Dijkman | 11 | 9 | 1 | 1
-| Rik Eshuis | 5 | 3 | 1 | 1
-| Steffen Staab | 3 | 1 | 1 | 1
-| Jordi Cabot | 29 | 0 | 13 | 16
-| Iris Reinhartz-Berger | 13 | 0 | 12 | 1
-| Mathias Weske | 31 | 19 | 12 | 0
-| Arthur H. M. ter Hofstede | 21 | 11 | 10 | 0
-| Jo&atilde;o Paulo A. Almeida | 11 | 1 | 10 | 0
-| Ernest Teniente | 10 | 0 | 9 | 1
-| Yair Wand | 10 | 1 | 9 | 0
-| Nicola Guarino | 10 | 1 | 9 | 0
-| Dolors Costal | 9 | 0 | 8 | 1
 | Jan Mendling | 33 | 26 | 7 | 0
-| Avigdor Gal | 16 | 9 | 7 | 0
-| Stefanie Rinderle-Ma | 12 | 5 | 7 | 0
-| Martin Gogolla | 15 | 0 | 6 | 9
-| Gerti Kappel | 11 | 0 | 6 | 5
-| Gerd Wagner  | 7 | 0 | 6 | 1
-| Brian Henderson-Sellers | 7 | 0 | 6 | 1
-| Manfred Reichert | 19 | 13 | 6 | 0
-| Marcello La Rosa | 17 | 11 | 6 | 0
-| Geert Poels | 7 | 1 | 6 | 0
-| Petia Wohed | 7 | 1 | 6 | 0
-| Marlon Dumas | 30 | 25 | 5 | 0
-| Michael Rosemann | 11 | 6 | 5 | 0
-| Fabio Casati | 9 | 4 | 5 | 0
-| Johann Eder | 7 | 2 | 5 | 0
-| Umeshwar Dayal | 6 | 1 | 5 | 0
-| Shawn Bowers | 6 | 1 | 5 | 0
-| Aditya Ghose | 6 | 1 | 5 | 0
-| Roel J. Wieringa | 6 | 1 | 5 | 0
-| Cristina G&oacute;mez | 6 | 0 | 4 | 2
-| Jo&atilde;o Ara&uacute;jo  | 5 | 0 | 4 | 1
-| Cesar Gonzalez-Perez | 5 | 0 | 4 | 1
+| Mathias Weske | 31 | 19 | 12 | 0
 | Hajo A. Reijers | 31 | 27 | 4 | 0
-| Barbara Weber | 10 | 6 | 4 | 0
-| Diego Calvanese | 7 | 3 | 4 | 0
-| Boualem Benatallah | 8 | 4 | 4 | 0
-| Dov Dori | 6 | 2 | 4 | 0
-| Alessandro Artale | 5 | 1 | 4 | 0
-| Khanh Hoa Dam | 5 | 1 | 4 | 0
-| Werner Retschitzegger | 7 | 0 | 3 | 4
-| Jes&uacute;s Pardillo | 4 | 0 | 3 | 1
-| Matt Selway | 4 | 0 | 3 | 1
-| Dominik Bork | 4 | 0 | 3 | 1
-| Matthias Weidlich | 16 | 13 | 3 | 0
-| Boudewijn F. van Dongen | 13 | 10 | 3 | 0
-| Fernanda Araujo Bai&atilde;o | 7 | 4 | 3 | 0
-| Artem Polyvyanyy | 7 | 4 | 3 | 0
-| Carlo Combi | 6 | 3 | 3 | 0
-| David Knuplesch | 5 | 2 | 3 | 0
-| Marta Indulska | 5 | 2 | 3 | 0
-| Aditya K. Ghose | 4 | 1 | 3 | 0
-| Farouk Toumani | 4 | 1 | 3 | 0
-| Alexei Lapouchnian | 4 | 1 | 3 | 0
-| Peter F. Green | 4 | 1 | 3 | 0
-| Andreas Meyer  | 4 | 1 | 3 | 0
-| Maria E. Orlowska | 4 | 1 | 3 | 0
-| Jan L. G. Dietz | 4 | 1 | 3 | 0
-| Horst Pichler | 4 | 1 | 3 | 0
-| Manuel Wimmer | 15 | 0 | 2 | 13
-| Javier Luis C&aacute;novas Izquierdo | 4 | 0 | 2 | 2
-| Jes&uacute;s Garc&iacute;a Molina | 4 | 0 | 2 | 2
-| Anna Queralt | 3 | 0 | 2 | 1
-| Guttorm Sindre | 3 | 0 | 2 | 1
-| Valerio Cosentino | 3 | 0 | 2 | 1
-| Jose Luis de la Vara | 3 | 0 | 2 | 1
-| Marco Brambilla  | 3 | 0 | 2 | 1
-| Miguel Goul&atilde;o | 3 | 0 | 2 | 1
-| Esperanza Marcos | 3 | 0 | 2 | 1
-| Thomas Polacsek | 3 | 0 | 2 | 1
-| Tijs Slaats | 12 | 10 | 2 | 0
-| Claudio Di Ciccio | 9 | 7 | 2 | 0
-| Giuseppe De Giacomo | 6 | 4 | 2 | 0
-| Pnina Soffer | 5 | 3 | 2 | 0
-| Jan Recker | 4 | 2 | 2 | 0
-| Chun Ouyang | 5 | 3 | 2 | 0
-| Mokrane Bouzeghoub | 3 | 1 | 2 | 0
-| Eran Toch | 3 | 1 | 2 | 0
-| Eduardo Fern&aacute;ndez-Medina | 3 | 1 | 2 | 0
-| Bertram Lud&auml;scher | 3 | 1 | 2 | 0
-| J&ouml;rg Becker  | 3 | 1 | 2 | 0
-| Matthias Kunze  | 3 | 1 | 2 | 0
-| David Edmond | 3 | 1 | 2 | 0
-| Nick Russell | 3 | 1 | 2 | 0
-| Linh Thao Ly | 3 | 1 | 2 | 0
-| Shazia W. Sadiq | 3 | 1 | 2 | 0
-| Anton Yeshchenko | 3 | 1 | 2 | 0
+| Marlon Dumas | 30 | 25 | 5 | 0
+| Jordi Cabot | 29 | 0 | 13 | 16
 | Lionel C. Briand | 25 | 0 | 1 | 24
-| Richard F. Paige | 18 | 0 | 1 | 17
-| Esther Guerra | 18 | 0 | 1 | 17
-| Juan de Lara | 18 | 0 | 1 | 17
-| S&eacute;bastien G&eacute;rard | 12 | 0 | 1 | 11
-| Bernhard Rumpe | 12 | 0 | 1 | 11
-| Vinay Kulkarni | 10 | 0 | 1 | 9
-| Mehrdad Sabetzadeh | 10 | 0 | 1 | 9
-| Rick Salay | 8 | 0 | 1 | 7
-| Silvia Abrah&atilde;o | 7 | 0 | 1 | 6
-| Emilio Insfr&aacute;n | 7 | 0 | 1 | 6
-| Loli Burgue&ntilde;o | 6 | 0 | 1 | 5
-| Marcela Genero | 5 | 0 | 1 | 4
-| James R. Cordy | 5 | 0 | 1 | 4
-| Mira Balaban | 5 | 0 | 1 | 4
-| Salvador Mart&iacute;nez | 5 | 0 | 1 | 4
-| Wieland Schwinger | 5 | 0 | 1 | 4
-| Gunter Mussbacher | 5 | 0 | 1 | 4
-| Carlos Cetina | 5 | 0 | 1 | 4
-| Sagar Sunkle | 4 | 0 | 1 | 3
-| Vasco Amaral | 4 | 0 | 1 | 3
-| Philip Langer | 4 | 0 | 1 | 3
-| Ana Moreira  | 3 | 0 | 1 | 2
-| Elisabeth Kapsammer | 3 | 0 | 1 | 2
-| Robert Claris&oacute; | 3 | 0 | 1 | 2
-| Marek Hatala | 3 | 0 | 1 | 2
-| Dragan Gasevic | 3 | 0 | 1 | 2
-| Jaime G&oacute;mez | 3 | 0 | 1 | 2
-| Gwendal Daniel | 3 | 0 | 1 | 2
-| Rubby Casallas | 3 | 0 | 1 | 2
-| Hugo Bruneli&egrave;re | 3 | 0 | 1 | 2
-| Xavier Le Pallec | 3 | 0 | 1 | 2
-| Andreas Wortmann | 3 | 0 | 1 | 2
-| Ruth Ravent&oacute;s | 2 | 0 | 1 | 1
-| Maritta Heisel | 2 | 0 | 1 | 1
-| Tor St&aring;lhane | 2 | 0 | 1 | 1
-| Maristella Matera | 2 | 0 | 1 | 1
-| Rajwinder Kaur Panesar-Walawege | 2 | 0 | 1 | 1
-| Mois&eacute;s Castelo Branco | 2 | 0 | 1 | 1
-| Pieter Van Gorp | 2 | 0 | 1 | 1
-| Alexis Fouche | 2 | 0 | 1 | 1
-| Deepali Kholkar | 2 | 0 | 1 | 1
-| Fernando Mac&iacute;as | 2 | 0 | 1 | 1
-| Gerson Suny&eacute; | 2 | 0 | 1 | 1
-| Fernando Silva Parreiras | 2 | 0 | 1 | 1
-| Gilles Perrouin | 2 | 0 | 1 | 1
-| Ana Cristina Marc&eacute;n | 2 | 0 | 1 | 1
-| Kathrin Figl | 2 | 0 | 1 | 1
-| Michael Grossniklaus | 2 | 0 | 1 | 1
-| J&uuml;rgen Ebert | 2 | 0 | 1 | 1
-| Gena&iacute;na Nunes Rodrigues | 2 | 0 | 1 | 1
-| Anthony Fernandes Pires | 2 | 0 | 1 | 1
-| Anna A. Kalenkova | 2 | 0 | 1 | 1
-| Fabrizio Maria Maggi | 19 | 18 | 1 | 0
-| Josep Carmona | 16 | 15 | 1 | 0
-| Marco Montali | 18 | 17 | 1 | 0
-| Dirk Fahland | 13 | 12 | 1 | 0
-| Schahram Dustdar | 9 | 8 | 1 | 0
-| Massimiliano de Leoni | 8 | 7 | 1 | 0
-| Maximilian R&ouml;glinger | 7 | 6 | 1 | 0
-| Henrik Leopold | 7 | 6 | 1 | 0
-| Gero Decker | 7 | 6 | 1 | 0
-| Akhil Kumar  | 6 | 5 | 1 | 0
-| Chengfei Liu | 6 | 5 | 1 | 0
-| Peter Dadam | 6 | 5 | 1 | 0
-| Han van der Aa | 6 | 5 | 1 | 0
-| Shazia Wasim Sadiq | 5 | 4 | 1 | 0
-| Thomas T. Hildebrandt | 6 | 5 | 1 | 0
-| Raffaele Conforti | 5 | 4 | 1 | 0
-| Florian Daniel | 5 | 4 | 1 | 0
-| Hamid R. Motahari Nezhad | 5 | 4 | 1 | 0
-| Moe Thandar Wynn | 5 | 4 | 1 | 0
-| Fl&aacute;via Maria Santoro | 4 | 3 | 1 | 0
-| Pedro H. Piccoli Richetti | 4 | 3 | 1 | 0
-| H. M. W. Verbeek | 4 | 3 | 1 | 0
-| Jianwen Su | 4 | 3 | 1 | 0
-| Roman Vacul&iacute;n | 4 | 3 | 1 | 0
-| Simon Moser | 4 | 3 | 1 | 0
-| Jochen De Weerdt | 5 | 4 | 1 | 0
-| Sebastiaan J. van Zelst | 5 | 4 | 1 | 0
-| Adriano Augusto | 3 | 2 | 1 | 0
-| Walid Gaaloul | 4 | 3 | 1 | 0
-| Maya Lincoln | 3 | 2 | 1 | 0
-| Gustaf Neumann | 3 | 2 | 1 | 0
-| Volker Gruhn | 3 | 2 | 1 | 0
-| Paul W. P. J. Grefen | 3 | 2 | 1 | 0
-| Jan Martijn E. M. van der Werf | 3 | 2 | 1 | 0
-| Juhnyoung Lee | 3 | 2 | 1 | 0
-| Walid Fdhila | 3 | 2 | 1 | 0
-| Andreas Wombacher | 3 | 2 | 1 | 0
-| August-Wilhelm Scheer | 3 | 2 | 1 | 0
-| Jan Ladleif | 2 | 1 | 1 | 0
-| Ernesto Damiani | 2 | 1 | 1 | 0
-| Stephan K&uuml;hnel | 2 | 1 | 1 | 0
-| Francesca Zerbato | 3 | 2 | 1 | 0
-| Yang Yu 0027 | 2 | 1 | 1 | 0
-| Alireza Ostovar | 2 | 1 | 1 | 0
-| Abderrahmane Maaradji | 2 | 1 | 1 | 0
-| Peter Loos | 2 | 1 | 1 | 0
-| Sami Bhiri | 3 | 2 | 1 | 0
-| Eric Andonoff | 2 | 1 | 1 | 0
-| Gianluigi Greco | 2 | 1 | 1 | 0
-| Heiner Stuckenschmidt | 2 | 1 | 1 | 0
-| Jakob Pinggera | 2 | 1 | 1 | 0
-| Stefan Zugal | 2 | 1 | 1 | 0
-| Nicola Zannone | 2 | 1 | 1 | 0
-| Florian Gottschalk | 2 | 1 | 1 | 0
-| Matteo Magnani | 2 | 1 | 1 | 0
-| Danilo Montesi | 2 | 1 | 1 | 0
-| Hagen Overdick | 2 | 1 | 1 | 0
-| Ahmed Awad  | 2 | 1 | 1 | 0
-| Simone Kriglstein | 2 | 1 | 1 | 0
-| Joos C. A. M. Buijs | 2 | 1 | 1 | 0
-| Tomer Sagi | 2 | 1 | 1 | 0
-| Mark H. Linehan | 2 | 1 | 1 | 0
-| Chen Li 0012 | 2 | 1 | 1 | 0
-| Sergey Smirnov 0002 | 2 | 1 | 1 | 0
-| Calton Pu | 2 | 1 | 1 | 0
-| Stefan Jablonski | 2 | 1 | 1 | 0
-| Mike P. Papazoglou | 2 | 1 | 1 | 0
-| Sherif Sakr | 2 | 1 | 1 | 0
-| Paolo Felli | 4 | 3 | 1 | 0
-| Martin Schultz | 2 | 1 | 1 | 0
-| Yi Chen  | 2 | 1 | 1 | 0
-| Murray Spork | 2 | 1 | 1 | 0
-| Ruopeng Lu | 2 | 1 | 1 | 0
-| Victoria Torres | 2 | 1 | 1 | 0
-| Thomas Chatain | 3 | 2 | 1 | 0
-| J. Leon Zhao | 2 | 1 | 1 | 0
-| Johannes De Smedt | 2 | 1 | 1 | 0
-| Peter Fettke | 2 | 1 | 1 | 0
-| Michel R. V. Chaudron | 8 | 1 | 0 | 7
-| Jochen Malte K&uuml;ster | 8 | 3 | 0 | 5
-| Christian Gerth | 5 | 2 | 0 | 3
-| Uwe Zdun | 4 | 1 | 0 | 3
-| Ekkart Kindler | 5 | 3 | 0 | 2
-| Sebasti&aacute;n Uchitel | 3 | 1 | 0 | 2
-| Jeff Kramer | 3 | 1 | 0 | 2
-| Viviane Jonckers | 3 | 1 | 0 | 2
-| Hagen V&ouml;lzer | 8 | 7 | 0 | 1
-| Cesare Pautasso | 4 | 3 | 0 | 1
-| Ana Ivanchikj | 3 | 2 | 0 | 1
-| Ksenia Ryndina | 2 | 1 | 0 | 1
-| Thomas Gschwind | 2 | 1 | 0 | 1
-| Alexander F&ouml;rster | 2 | 1 | 0 | 1
-| Senthil Mani | 2 | 1 | 0 | 1
-| Gordon S. Blair | 2 | 1 | 0 | 1
-| Awais Rashid | 2 | 1 | 0 | 1
-| Ragnhild Van Der Straeten | 2 | 1 | 0 | 1
-| Wouter Joosen | 2 | 1 | 0 | 1
 | Tok Wang Ling | 24 | 0 | 24 | 0
+| Arthur H. M. ter Hofstede | 21 | 11 | 10 | 0
 | David W. Embley | 20 | 0 | 20 | 0
 | Oscar Pastor | 20 | 0 | 20 | 0
 | Veda C. Storey | 19 | 0 | 19 | 0
+| Manfred Reichert | 19 | 13 | 6 | 0
+| Fabrizio Maria Maggi | 19 | 18 | 1 | 0
+| Richard F. Paige | 18 | 0 | 1 | 17
+| Esther Guerra | 18 | 0 | 1 | 17
+| Juan de Lara | 18 | 0 | 1 | 17
+| Paolo Giorgini | 18 | 1 | 16 | 1
+| Marco Montali | 18 | 17 | 1 | 0
+| Jean-Marc J&eacute;z&eacute;quel | 17 | 0 | 0 | 17
 | Juan Trujillo | 17 | 0 | 17 | 0
+| Marcello La Rosa | 17 | 11 | 6 | 0
 | Peter P. Chen | 16 | 0 | 16 | 0
 | Bernhard Thalheim | 16 | 0 | 16 | 0
+| Avigdor Gal | 16 | 9 | 7 | 0
+| Matthias Weidlich | 16 | 13 | 3 | 0
+| Josep Carmona | 16 | 15 | 1 | 0
+| Dimitrios S. Kolovos | 15 | 0 | 0 | 15
+| D&aacute;niel Varr&oacute; | 15 | 0 | 0 | 15
+| Betty H. C. Cheng | 15 | 0 | 0 | 15
+| Manuel Wimmer | 15 | 0 | 2 | 13
+| Martin Gogolla | 15 | 0 | 6 | 9
 | Xavier Franch | 15 | 0 | 15 | 0
+| Olivier Barais | 14 | 0 | 0 | 14
+| Michael Schrefl | 14 | 2 | 10 | 2
 | Shamkant B. Navathe | 14 | 0 | 14 | 0
 | Antoni Oliv&eacute; | 14 | 0 | 14 | 0
 | Il-Yeol Song | 14 | 0 | 14 | 0
+| Iris Reinhartz-Berger | 13 | 0 | 12 | 1
 | Paul Johannesson | 13 | 0 | 13 | 0
 | Stephen W. Liddle | 13 | 0 | 13 | 0
 | Mong-Li Lee | 13 | 0 | 13 | 0
+| Boudewijn F. van Dongen | 13 | 10 | 3 | 0
+| Dirk Fahland | 13 | 12 | 1 | 0
+| Brice Morin | 12 | 0 | 0 | 12
+| Jon Whittle | 12 | 0 | 0 | 12
+| S&eacute;bastien G&eacute;rard | 12 | 0 | 1 | 11
+| Bernhard Rumpe | 12 | 0 | 1 | 11
 | Eric S. K. Yu | 12 | 0 | 12 | 0
 | Antonio L. Furtado | 12 | 0 | 12 | 0
+| Stefanie Rinderle-Ma | 12 | 5 | 7 | 0
+| Tijs Slaats | 12 | 10 | 2 | 0
+| Luciano Garc&iacute;a-Ba&ntilde;uelos | 12 | 12 | 0 | 0
+| Beno&icirc;t Combemale | 11 | 0 | 0 | 11
+| Gregor Engels | 11 | 2 | 1 | 8
+| Gerti Kappel | 11 | 0 | 6 | 5
+| Remco M. Dijkman | 11 | 9 | 1 | 1
 | Jean-Luc Hainaut | 11 | 0 | 11 | 0
 | Wilfred Ng | 11 | 0 | 11 | 0
 | Lois M. L. Delcambre | 11 | 0 | 11 | 0
 | Sebastian Link | 11 | 0 | 11 | 0
+| Jo&atilde;o Paulo A. Almeida | 11 | 1 | 10 | 0
+| Michael Rosemann | 11 | 6 | 5 | 0
+| Yves Le Traon | 10 | 0 | 0 | 10
+| Benoit Baudry | 10 | 0 | 0 | 10
+| Robert B. France | 10 | 0 | 0 | 10
+| J&ouml;rg Kienzle | 10 | 0 | 0 | 10
+| Franck Fleurey | 10 | 0 | 0 | 10
+| Vinay Kulkarni | 10 | 0 | 1 | 9
+| Mehrdad Sabetzadeh | 10 | 0 | 1 | 9
+| Daniel Amyot | 10 | 1 | 5 | 4
+| Markus Stumptner | 10 | 2 | 5 | 3
+| Ernest Teniente | 10 | 0 | 9 | 1
 | Moira C. Norrie | 10 | 0 | 10 | 0
 | Sandeep Purao | 10 | 0 | 10 | 0
 | Marco A. Casanova | 10 | 0 | 10 | 0
 | Tiago Prince Sales | 10 | 0 | 10 | 0
+| Yair Wand | 10 | 1 | 9 | 0
+| Nicola Guarino | 10 | 1 | 9 | 0
+| Barbara Weber | 10 | 6 | 4 | 0
+| Ingo Weber | 10 | 10 | 0 | 0
+| Krzysztof Czarnecki | 9 | 0 | 0 | 9
+| Gabriele Taentzer | 9 | 0 | 0 | 9
+| Houari A. Sahraoui | 9 | 0 | 0 | 9
+| Shahar Maoz | 9 | 0 | 0 | 9
+| Marsha Chechik | 9 | 0 | 0 | 9
+| Vicente Pelechano | 9 | 1 | 5 | 3
+| Dolors Costal | 9 | 0 | 8 | 1
 | Paolo Atzeni | 9 | 0 | 9 | 0
 | Ramez Elmasri | 9 | 0 | 9 | 0
 | Klaus-Dieter Schewe | 9 | 0 | 9 | 0
@@ -287,10 +103,42 @@ The following table lists all authors with the number of contributions to the BP
 | Carlo Batini | 9 | 0 | 9 | 0
 | Sven Hartmann | 9 | 0 | 9 | 0
 | Claudenir M. Fonseca | 9 | 0 | 9 | 0
+| Fabio Casati | 9 | 4 | 5 | 0
+| Claudio Di Ciccio | 9 | 7 | 2 | 0
+| Schahram Dustdar | 9 | 8 | 1 | 0
+| &Oslash;ystein Haugen | 8 | 0 | 0 | 8
+| Tao Yue 0002 | 8 | 0 | 0 | 8
+| Yvan Labiche | 8 | 0 | 0 | 8
+| J&uuml;rgen Dingel | 8 | 0 | 0 | 8
+| Jes&uacute;s S&aacute;nchez Cuadrado | 8 | 0 | 0 | 8
+| Juergen Dingel | 8 | 0 | 0 | 8
+| Rick Salay | 8 | 0 | 1 | 7
+| Michel R. V. Chaudron | 8 | 1 | 0 | 7
+| Jochen Malte K&uuml;ster | 8 | 3 | 0 | 5
+| Hagen V&ouml;lzer | 8 | 7 | 0 | 1
 | Panos Vassiliadis | 8 | 0 | 8 | 0
 | Andrea Cal&igrave; | 8 | 0 | 8 | 0
 | Mengchi Liu | 8 | 0 | 8 | 0
 | Daniel L. Moody | 8 | 0 | 8 | 0
+| Boualem Benatallah | 8 | 4 | 4 | 0
+| Massimiliano de Leoni | 8 | 7 | 1 | 0
+| Niels Lohmann | 8 | 8 | 0 | 0
+| Thomas K&uuml;hne | 7 | 0 | 0 | 7
+| Fr&eacute;d&eacute;ric Jouault | 7 | 0 | 0 | 7
+| Arnaud Cuccuru | 7 | 0 | 0 | 7
+| Fran&ccedil;ois Fouquet | 7 | 0 | 0 | 7
+| Istv&aacute;n R&aacute;th | 7 | 0 | 0 | 7
+| Fran&ccedil;ois Terrier | 7 | 0 | 0 | 7
+| Shaukat Ali  | 7 | 0 | 0 | 7
+| Zinovy Diskin | 7 | 0 | 0 | 7
+| Joanne M. Atlee | 7 | 0 | 0 | 7
+| Davide Di Ruscio | 7 | 0 | 0 | 7
+| Silvia Abrah&atilde;o | 7 | 0 | 1 | 6
+| Emilio Insfr&aacute;n | 7 | 0 | 1 | 6
+| Werner Retschitzegger | 7 | 0 | 3 | 4
+| Georg Grossmann | 7 | 2 | 2 | 3
+| Gerd Wagner  | 7 | 0 | 6 | 1
+| Brian Henderson-Sellers | 7 | 0 | 6 | 1
 | Stefano Spaccapietra | 7 | 0 | 7 | 0
 | Maurizio Lenzerini | 7 | 0 | 7 | 0
 | Valeria De Antonellis | 7 | 0 | 7 | 0
@@ -302,6 +150,28 @@ The following table lists all authors with the number of contributions to the BP
 | Peter McBrien | 7 | 0 | 7 | 0
 | Isabelle Comyn-Wattiau | 7 | 0 | 7 | 0
 | Renata S. S. Guizzardi | 7 | 0 | 7 | 0
+| Geert Poels | 7 | 1 | 6 | 0
+| Petia Wohed | 7 | 1 | 6 | 0
+| Johann Eder | 7 | 2 | 5 | 0
+| Diego Calvanese | 7 | 3 | 4 | 0
+| Fernanda Araujo Bai&atilde;o | 7 | 4 | 3 | 0
+| Artem Polyvyanyy | 7 | 4 | 3 | 0
+| Maximilian R&ouml;glinger | 7 | 6 | 1 | 0
+| Henrik Leopold | 7 | 6 | 1 | 0
+| Gero Decker | 7 | 6 | 1 | 0
+| Irene T. P. Vanderfeesten | 7 | 7 | 0 | 0
+| Kees M. van Hee | 7 | 7 | 0 | 0
+| Xavier Blanc  | 6 | 0 | 0 | 6
+| Andrzej Wasowski | 6 | 0 | 0 | 6
+| Louis M. Rose | 6 | 0 | 0 | 6
+| Friedrich Steimann | 6 | 0 | 0 | 6
+| Thomas Hartmann  | 6 | 0 | 0 | 6
+| Hui Song | 6 | 0 | 0 | 6
+| Jacques Klein | 6 | 0 | 0 | 6
+| Nelly Bencomo | 6 | 0 | 0 | 6
+| Joel Greenyer | 6 | 0 | 0 | 6
+| Loli Burgue&ntilde;o | 6 | 0 | 1 | 5
+| Cristina G&oacute;mez | 6 | 0 | 4 | 2
 | Michael V. Mannino | 6 | 0 | 6 | 0
 | Klaus R. Dittrich | 6 | 0 | 6 | 0
 | Ricardo de Almeida Falbo | 6 | 0 | 6 | 0
@@ -312,6 +182,45 @@ The following table lists all authors with the number of contributions to the BP
 | Stefan Conrad  | 6 | 0 | 6 | 0
 | Stefano Ceri | 6 | 0 | 6 | 0
 | Matthias Jarke | 6 | 0 | 6 | 0
+| Umeshwar Dayal | 6 | 1 | 5 | 0
+| Shawn Bowers | 6 | 1 | 5 | 0
+| Aditya Ghose | 6 | 1 | 5 | 0
+| Roel J. Wieringa | 6 | 1 | 5 | 0
+| Dov Dori | 6 | 2 | 4 | 0
+| Carlo Combi | 6 | 3 | 3 | 0
+| Giuseppe De Giacomo | 6 | 4 | 2 | 0
+| Akhil Kumar  | 6 | 5 | 1 | 0
+| Chengfei Liu | 6 | 5 | 1 | 0
+| Peter Dadam | 6 | 5 | 1 | 0
+| Han van der Aa | 6 | 5 | 1 | 0
+| Thomas T. Hildebrandt | 6 | 5 | 1 | 0
+| Arik Senderovich | 6 | 6 | 0 | 0
+| Chiara Di Francescomarino | 6 | 6 | 0 | 0
+| Stefanie Rinderle | 6 | 6 | 0 | 0
+| Natalia Sidorova | 6 | 6 | 0 | 0
+| Jan J&uuml;rjens | 5 | 0 | 0 | 5
+| Jan Oliver Ringert | 5 | 0 | 0 | 5
+| G&aacute;bor Bergmann | 5 | 0 | 0 | 5
+| Daniel Str&uuml;ber  | 5 | 0 | 0 | 5
+| Gang Huang  | 5 | 0 | 0 | 5
+| &Aacute;kos Horv&aacute;th  | 5 | 0 | 0 | 5
+| Rogardt Heldal | 5 | 0 | 0 | 5
+| Heather Goldsby | 5 | 0 | 0 | 5
+| Alexander Egyed | 5 | 0 | 0 | 5
+| Shiva Nejati | 5 | 0 | 0 | 5
+| Marcela Genero | 5 | 0 | 1 | 4
+| James R. Cordy | 5 | 0 | 1 | 4
+| Mira Balaban | 5 | 0 | 1 | 4
+| Salvador Mart&iacute;nez | 5 | 0 | 1 | 4
+| Wieland Schwinger | 5 | 0 | 1 | 4
+| Gunter Mussbacher | 5 | 0 | 1 | 4
+| Carlos Cetina | 5 | 0 | 1 | 4
+| Christian Gerth | 5 | 2 | 0 | 3
+| Ekkart Kindler | 5 | 3 | 0 | 2
+| Jo&atilde;o Ara&uacute;jo  | 5 | 0 | 4 | 1
+| Cesar Gonzalez-Perez | 5 | 0 | 4 | 1
+| Mario Piattini | 5 | 1 | 3 | 1
+| Rik Eshuis | 5 | 3 | 1 | 1
 | Asuman Dogac | 5 | 0 | 5 | 0
 | Uwe Hohenstein | 5 | 0 | 5 | 0
 | Sonia Bergamaschi | 5 | 0 | 5 | 0
@@ -330,6 +239,74 @@ The following table lists all authors with the number of contributions to the BP
 | Adarsh K. Arora | 5 | 0 | 5 | 0
 | Victor M. Markowitz | 5 | 0 | 5 | 0
 | Arnon Sturm | 5 | 0 | 5 | 0
+| Alessandro Artale | 5 | 1 | 4 | 0
+| Khanh Hoa Dam | 5 | 1 | 4 | 0
+| David Knuplesch | 5 | 2 | 3 | 0
+| Marta Indulska | 5 | 2 | 3 | 0
+| Pnina Soffer | 5 | 3 | 2 | 0
+| Chun Ouyang | 5 | 3 | 2 | 0
+| Shazia Wasim Sadiq | 5 | 4 | 1 | 0
+| Raffaele Conforti | 5 | 4 | 1 | 0
+| Florian Daniel | 5 | 4 | 1 | 0
+| Hamid R. Motahari Nezhad | 5 | 4 | 1 | 0
+| Moe Thandar Wynn | 5 | 4 | 1 | 0
+| Jochen De Weerdt | 5 | 4 | 1 | 0
+| Sebastiaan J. van Zelst | 5 | 4 | 1 | 0
+| Frank Leymann | 5 | 5 | 0 | 0
+| Claude Godart | 5 | 5 | 0 | 0
+| Xiaohui Zhao  | 5 | 5 | 0 | 0
+| Marc Voorhoeve | 5 | 5 | 0 | 0
+| Jana Koehler | 5 | 5 | 0 | 0
+| Karsten Wolf | 5 | 5 | 0 | 0
+| J&ouml;rg Desel | 5 | 5 | 0 | 0
+| Richard Hull  | 5 | 5 | 0 | 0
+| Wasana Bandara | 5 | 5 | 0 | 0
+| Gilles Vanwormhoudt | 4 | 0 | 0 | 4
+| Fabian B&uuml;ttner | 4 | 0 | 0 | 4
+| Arnor Solberg | 4 | 0 | 0 | 4
+| Philippe Lahire | 4 | 0 | 0 | 4
+| Michal Smialek | 4 | 0 | 0 | 4
+| Assaad Moawad | 4 | 0 | 0 | 4
+| Michalis Famelis | 4 | 0 | 0 | 4
+| Harald St&ouml;rrle | 4 | 0 | 0 | 4
+| Massimo Tisi | 4 | 0 | 0 | 4
+| Oszk&aacute;r Semer&aacute;th | 4 | 0 | 0 | 4
+| Florian Noyrit | 4 | 0 | 0 | 4
+| Carlos Jos&eacute; Pereira de Lucena | 4 | 0 | 0 | 4
+| Alessandro Garcia | 4 | 0 | 0 | 4
+| Hong Mei | 4 | 0 | 0 | 4
+| Franck Chauvel | 4 | 0 | 0 | 4
+| Antonio Garc&iacute;a-Dom&iacute;nguez | 4 | 0 | 0 | 4
+| Ethan K. Jackson | 4 | 0 | 0 | 4
+| Yingfei Xiong  | 4 | 0 | 0 | 4
+| Jean-Michel Bruel | 4 | 0 | 0 | 4
+| Bran Selic | 4 | 0 | 0 | 4
+| Edward A. Lee | 4 | 0 | 0 | 4
+| Gr&eacute;gory Nain | 4 | 0 | 0 | 4
+| Holger Giese | 4 | 0 | 0 | 4
+| Maged Elaasar | 4 | 0 | 0 | 4
+| Cl&eacute;mentine Nebut | 4 | 0 | 0 | 4
+| Pierre-Alain Muller | 4 | 0 | 0 | 4
+| Miroslaw Staron | 4 | 0 | 0 | 4
+| Ruth Breu | 4 | 0 | 0 | 4
+| Antonio Cicchetti | 4 | 0 | 0 | 4
+| Alfonso Pierantonio | 4 | 0 | 0 | 4
+| Matthias Tichy | 4 | 0 | 0 | 4
+| Malte Lochau | 4 | 0 | 0 | 4
+| Souvik Barat | 4 | 0 | 0 | 4
+| Javier Troya | 4 | 0 | 0 | 4
+| Antonio Vallecillo | 4 | 0 | 0 | 4
+| Sagar Sunkle | 4 | 0 | 1 | 3
+| Vasco Amaral | 4 | 0 | 1 | 3
+| Philip Langer | 4 | 0 | 1 | 3
+| Uwe Zdun | 4 | 1 | 0 | 3
+| Javier Luis C&aacute;novas Izquierdo | 4 | 0 | 2 | 2
+| Jes&uacute;s Garc&iacute;a Molina | 4 | 0 | 2 | 2
+| Marten van Sinderen | 4 | 1 | 1 | 2
+| Jes&uacute;s Pardillo | 4 | 0 | 3 | 1
+| Matt Selway | 4 | 0 | 3 | 1
+| Dominik Bork | 4 | 0 | 3 | 1
+| Cesare Pautasso | 4 | 3 | 0 | 1
 | Mal&uacute; Castellanos | 4 | 0 | 4 | 0
 | Nicolas Spyratos | 4 | 0 | 4 | 0
 | Yannis Tzitzikas | 4 | 0 | 4 | 0
@@ -392,6 +369,139 @@ The following table lists all authors with the number of contributions to the BP
 | Dietrich Steinmetz | 4 | 0 | 4 | 0
 | Anthony Cleve | 4 | 0 | 4 | 0
 | Mattia Fumagalli | 4 | 0 | 4 | 0
+| Aditya K. Ghose | 4 | 1 | 3 | 0
+| Farouk Toumani | 4 | 1 | 3 | 0
+| Alexei Lapouchnian | 4 | 1 | 3 | 0
+| Peter F. Green | 4 | 1 | 3 | 0
+| Andreas Meyer  | 4 | 1 | 3 | 0
+| Maria E. Orlowska | 4 | 1 | 3 | 0
+| Jan L. G. Dietz | 4 | 1 | 3 | 0
+| Horst Pichler | 4 | 1 | 3 | 0
+| Jan Recker | 4 | 2 | 2 | 0
+| Fl&aacute;via Maria Santoro | 4 | 3 | 1 | 0
+| Pedro H. Piccoli Richetti | 4 | 3 | 1 | 0
+| H. M. W. Verbeek | 4 | 3 | 1 | 0
+| Jianwen Su | 4 | 3 | 1 | 0
+| Roman Vacul&iacute;n | 4 | 3 | 1 | 0
+| Simon Moser | 4 | 3 | 1 | 0
+| Walid Gaaloul | 4 | 3 | 1 | 0
+| Paolo Felli | 4 | 3 | 1 | 0
+| Max M&uuml;hlh&auml;user | 4 | 4 | 0 | 0
+| Chiara Ghidini | 4 | 4 | 0 | 0
+| Andreas Rogge-Solti | 4 | 4 | 0 | 0
+| Jordi Cortadella | 4 | 4 | 0 | 0
+| Monique H. Jansen-Vullers | 4 | 4 | 0 | 0
+| Rania Khalaf | 4 | 4 | 0 | 0
+| Frank Puhlmann | 4 | 4 | 0 | 0
+| Rong Liu | 4 | 4 | 0 | 0
+| Mati Golani | 4 | 4 | 0 | 0
+| Christian Stahl | 4 | 4 | 0 | 0
+| Samir Tata | 4 | 4 | 0 | 0
+| Minseok Song  | 4 | 4 | 0 | 0
+| Alexander Seeliger | 4 | 4 | 0 | 0
+| Andrea Burattin | 4 | 4 | 0 | 0
+| Christian Janiesch | 4 | 4 | 0 | 0
+| Vinod Muthusamy | 4 | 4 | 0 | 0
+| Andrey Rivkin | 4 | 4 | 0 | 0
+| Alessandro Gianola | 4 | 4 | 0 | 0
+| Marie-Pierre Gervais | 3 | 0 | 0 | 3
+| Hans Vangheluwe | 3 | 0 | 0 | 3
+| Sadaf Mustafiz | 3 | 0 | 0 | 3
+| Marianne Huchard | 3 | 0 | 0 | 3
+| Fr&eacute;d&eacute;ric Fondement | 3 | 0 | 0 | 3
+| Maja D'Hondt | 3 | 0 | 0 | 3
+| Alberto L. Sangiovanni-Vincentelli | 3 | 0 | 0 | 3
+| Douglas C. Schmidt | 3 | 0 | 0 | 3
+| Enrico Biermann | 3 | 0 | 0 | 3
+| Hassan Gomaa | 3 | 0 | 0 | 3
+| Thomas Baar | 3 | 0 | 0 | 3
+| Behzad Bordbar | 3 | 0 | 0 | 3
+| Colin Atkinson  | 3 | 0 | 0 | 3
+| Stefan Jurack | 3 | 0 | 0 | 3
+| Indrakshi Ray | 3 | 0 | 0 | 3
+| Jos&eacute; A. Cruz-Lemus | 3 | 0 | 0 | 3
+| Giuseppe Scanniello | 3 | 0 | 0 | 3
+| Genoveffa Tortora | 3 | 0 | 0 | 3
+| Carmine Gravino | 3 | 0 | 0 | 3
+| Dorina C. Petriu | 3 | 0 | 0 | 3
+| Andy Sch&uuml;rr | 3 | 0 | 0 | 3
+| Alexander Pretschner | 3 | 0 | 0 | 3
+| Don S. Batory | 3 | 0 | 0 | 3
+| Lars Pareto | 3 | 0 | 0 | 3
+| Peter S. Eriksson | 3 | 0 | 0 | 3
+| Csaba Debreceni | 3 | 0 | 0 | 3
+| Sahar Kokaly | 3 | 0 | 0 | 3
+| Perdita Stevens | 3 | 0 | 0 | 3
+| Marina Egea | 3 | 0 | 0 | 3
+| Azzam Maraee | 3 | 0 | 0 | 3
+| Kleinner Farias | 3 | 0 | 0 | 3
+| Tihamer Levendovszky | 3 | 0 | 0 | 3
+| Philippe Collet | 3 | 0 | 0 | 3
+| Sebastien Gerard | 3 | 0 | 0 | 3
+| Wei Zhang 0004 | 3 | 0 | 0 | 3
+| Joanna Chimiak-Opoka | 3 | 0 | 0 | 3
+| Dennis Wagelaar | 3 | 0 | 0 | 3
+| Hartmut Ehrig | 3 | 0 | 0 | 3
+| Frank Hermann  | 3 | 0 | 0 | 3
+| Gianna Reggio | 3 | 0 | 0 | 3
+| Frank Alexander Kraemer | 3 | 0 | 0 | 3
+| Uwe A&szlig;mann | 3 | 0 | 0 | 3
+| Gerd Kainz | 3 | 0 | 0 | 3
+| Alois C. Knoll | 3 | 0 | 0 | 3
+| Christian Buckl | 3 | 0 | 0 | 3
+| Yu Sun 0002 | 3 | 0 | 0 | 3
+| Jeff Gray | 3 | 0 | 0 | 3
+| Paul Gr&uuml;nbacher | 3 | 0 | 0 | 3
+| Fiona A. C. Polack | 3 | 0 | 0 | 3
+| James R. Williams | 3 | 0 | 0 | 3
+| Reda Bendraou | 3 | 0 | 0 | 3
+| Marcos Aur&eacute;lio Almeida da Silva | 3 | 0 | 0 | 3
+| Reinhard von Hanxleden | 3 | 0 | 0 | 3
+| Robert Wille | 3 | 0 | 0 | 3
+| Ghanem Soltana | 3 | 0 | 0 | 3
+| Steffen Zschaler | 3 | 0 | 0 | 3
+| Philippe Dhaussy | 3 | 0 | 0 | 3
+| Konstantinos Barmpis | 3 | 0 | 0 | 3
+| Jules White | 3 | 0 | 0 | 3
+| Athanasios Zolotas | 3 | 0 | 0 | 3
+| Horacio Hoyos Rodriguez | 3 | 0 | 0 | 3
+| Vadim Zaytsev | 3 | 0 | 0 | 3
+| Sebastian Voss | 3 | 0 | 0 | 3
+| Regina Hebig | 3 | 0 | 0 | 3
+| Alessio Di Sandro | 3 | 0 | 0 | 3
+| Marco Di Natale | 3 | 0 | 0 | 3
+| Ina Schaefer | 3 | 0 | 0 | 3
+| Ciprian Teodorov | 3 | 0 | 0 | 3
+| Erwan Bousse | 3 | 0 | 0 | 3
+| Lorena Arcega | 3 | 0 | 0 | 3
+| Antonio Garmendia | 3 | 0 | 0 | 3
+| Phuong T. Nguyen | 3 | 0 | 0 | 3
+| Juri Di Rocco | 3 | 0 | 0 | 3
+| Dimitris S. Kolovos | 3 | 0 | 0 | 3
+| Ana Moreira  | 3 | 0 | 1 | 2
+| Elisabeth Kapsammer | 3 | 0 | 1 | 2
+| Robert Claris&oacute; | 3 | 0 | 1 | 2
+| Marek Hatala | 3 | 0 | 1 | 2
+| Dragan Gasevic | 3 | 0 | 1 | 2
+| Jaime G&oacute;mez | 3 | 0 | 1 | 2
+| Gwendal Daniel | 3 | 0 | 1 | 2
+| Rubby Casallas | 3 | 0 | 1 | 2
+| Hugo Bruneli&egrave;re | 3 | 0 | 1 | 2
+| Xavier Le Pallec | 3 | 0 | 1 | 2
+| Andreas Wortmann | 3 | 0 | 1 | 2
+| Sebasti&aacute;n Uchitel | 3 | 1 | 0 | 2
+| Jeff Kramer | 3 | 1 | 0 | 2
+| Viviane Jonckers | 3 | 1 | 0 | 2
+| Anna Queralt | 3 | 0 | 2 | 1
+| Guttorm Sindre | 3 | 0 | 2 | 1
+| Valerio Cosentino | 3 | 0 | 2 | 1
+| Jose Luis de la Vara | 3 | 0 | 2 | 1
+| Marco Brambilla  | 3 | 0 | 2 | 1
+| Miguel Goul&atilde;o | 3 | 0 | 2 | 1
+| Esperanza Marcos | 3 | 0 | 2 | 1
+| Thomas Polacsek | 3 | 0 | 2 | 1
+| Steffen Staab | 3 | 1 | 1 | 1
+| Ana Ivanchikj | 3 | 2 | 0 | 1
 | Anastasia Analyti | 3 | 0 | 3 | 0
 | Zhong Zeng | 3 | 0 | 3 | 0
 | Thuy Ngoc Le | 3 | 0 | 3 | 0
@@ -480,6 +590,266 @@ The following table lists all authors with the number of contributions to the BP
 | Patrick Delfmann | 3 | 0 | 3 | 0
 | Stefanie Scherzinger | 3 | 0 | 3 | 0
 | Cristine Griffo | 3 | 0 | 3 | 0
+| Mokrane Bouzeghoub | 3 | 1 | 2 | 0
+| Eran Toch | 3 | 1 | 2 | 0
+| Eduardo Fern&aacute;ndez-Medina | 3 | 1 | 2 | 0
+| Bertram Lud&auml;scher | 3 | 1 | 2 | 0
+| J&ouml;rg Becker  | 3 | 1 | 2 | 0
+| Matthias Kunze  | 3 | 1 | 2 | 0
+| David Edmond | 3 | 1 | 2 | 0
+| Nick Russell | 3 | 1 | 2 | 0
+| Linh Thao Ly | 3 | 1 | 2 | 0
+| Shazia W. Sadiq | 3 | 1 | 2 | 0
+| Anton Yeshchenko | 3 | 1 | 2 | 0
+| Adriano Augusto | 3 | 2 | 1 | 0
+| Maya Lincoln | 3 | 2 | 1 | 0
+| Gustaf Neumann | 3 | 2 | 1 | 0
+| Volker Gruhn | 3 | 2 | 1 | 0
+| Paul W. P. J. Grefen | 3 | 2 | 1 | 0
+| Jan Martijn E. M. van der Werf | 3 | 2 | 1 | 0
+| Juhnyoung Lee | 3 | 2 | 1 | 0
+| Walid Fdhila | 3 | 2 | 1 | 0
+| Andreas Wombacher | 3 | 2 | 1 | 0
+| August-Wilhelm Scheer | 3 | 2 | 1 | 0
+| Francesca Zerbato | 3 | 2 | 1 | 0
+| Sami Bhiri | 3 | 2 | 1 | 0
+| Thomas Chatain | 3 | 2 | 1 | 0
+| Timo Nolle | 3 | 3 | 0 | 0
+| Christopher Klinkm&uuml;ller | 3 | 3 | 0 | 0
+| Guido Governatori | 3 | 3 | 0 | 0
+| Michael zur Muehlen | 3 | 3 | 0 | 0
+| Roberto Posenato | 3 | 3 | 0 | 0
+| Riccardo De Masellis | 3 | 3 | 0 | 0
+| Seppe K. L. M. vanden Broucke | 3 | 3 | 0 | 0
+| Chathura C. Ekanayake | 3 | 3 | 0 | 0
+| Abel Armas-Cervantes | 3 | 3 | 0 | 0
+| S&oslash;ren Debois | 3 | 3 | 0 | 0
+| Avishai Mandelbaum | 3 | 3 | 0 | 0
+| Stefano Tranquillini | 3 | 3 | 0 | 0
+| Olivier Perrin  | 3 | 3 | 0 | 0
+| Alexander Serebrenik | 3 | 3 | 0 | 0
+| C&eacute;dric Favre | 3 | 3 | 0 | 0
+| Joachim Herbst | 3 | 3 | 0 | 0
+| Dimka Karastoyanova | 3 | 3 | 0 | 0
+| Diogo R. Ferreira | 3 | 3 | 0 | 0
+| Juliane Siegeris | 3 | 3 | 0 | 0
+| Michael Westergaard | 3 | 3 | 0 | 0
+| R. P. Jagadeesh Chandra Bose | 3 | 3 | 0 | 0
+| Axel Martens | 3 | 3 | 0 | 0
+| Aubrey J. Rembert | 3 | 3 | 0 | 0
+| Christoph Dorn | 3 | 3 | 0 | 0
+| Cristina Cabanillas | 3 | 3 | 0 | 0
+| Jing Yang | 3 | 3 | 0 | 0
+| Prawee Sriplakich | 2 | 0 | 0 | 2
+| Michal Antkiewicz | 2 | 0 | 0 | 2
+| Marcus Alanen | 2 | 0 | 0 | 2
+| Ivan Porres | 2 | 0 | 0 | 2
+| Sascha Konrad | 2 | 0 | 0 | 2
+| Jean-R&eacute;my Falleri | 2 | 0 | 0 | 2
+| J&uuml;rgen Doser | 2 | 0 | 0 | 2
+| Piotr Kosiuczenko | 2 | 0 | 0 | 2
+| Fiona Polack | 2 | 0 | 0 | 2
+| Kerry Raymond | 2 | 0 | 0 | 2
+| Michael Lawley | 2 | 0 | 0 | 2
+| Michael Hafner | 2 | 0 | 0 | 2
+| St&eacute;phane Ducasse | 2 | 0 | 0 | 2
+| Tudor G&icirc;rba | 2 | 0 | 0 | 2
+| Slavisa Markovic | 2 | 0 | 0 | 2
+| Jean B&eacute;zivin | 2 | 0 | 0 | 2
+| Tim Schattkowsky | 2 | 0 | 0 | 2
+| Mirco Kuhlmann | 2 | 0 | 0 | 2
+| Claudia Ermel | 2 | 0 | 0 | 2
+| Marouane Kessentini | 2 | 0 | 0 | 2
+| Alban Gaignard | 2 | 0 | 0 | 2
+| Xavier Cr&eacute;gut | 2 | 0 | 0 | 2
+| Anders Hessellund | 2 | 0 | 0 | 2
+| Markus Herrmannsdoerfer | 2 | 0 | 0 | 2
+| Danilo Caivano | 2 | 0 | 0 | 2
+| Oscar Nierstrasz | 2 | 0 | 0 | 2
+| Orla Greevy | 2 | 0 | 0 | 2
+| Eelco Visser | 2 | 0 | 0 | 2
+| Hafedh Mili | 2 | 0 | 0 | 2
+| Ghizlane El-Boussaidi | 2 | 0 | 0 | 2
+| Ernesto Posse | 2 | 0 | 0 | 2
+| Ingo Weisem&ouml;ller | 2 | 0 | 0 | 2
+| Michelle L. Crane | 2 | 0 | 0 | 2
+| Nancy A. Day | 2 | 0 | 0 | 2
+| Mario Cartsburg | 2 | 0 | 0 | 2
+| Nikola Milanovic | 2 | 0 | 0 | 2
+| Ansgar Radermacher | 2 | 0 | 0 | 2
+| Marwa Shousha | 2 | 0 | 0 | 2
+| Maider Azanza | 2 | 0 | 0 | 2
+| Iulian Ober | 2 | 0 | 0 | 2
+| Ariadi Nugroho | 2 | 0 | 0 | 2
+| Sudipto Ghosh | 2 | 0 | 0 | 2
+| Ralf L&auml;mmel | 2 | 0 | 0 | 2
+| Bastian Ulke | 2 | 0 | 0 | 2
+| Michael von Wenckstern | 2 | 0 | 0 | 2
+| Timothy C. Lethbridge | 2 | 0 | 0 | 2
+| Wael Kessentini | 2 | 0 | 0 | 2
+| Edouard Batot | 2 | 0 | 0 | 2
+| Walter Cazzola | 2 | 0 | 0 | 2
+| Mohammed Al-Refai | 2 | 0 | 0 | 2
+| Jia Hui Liang | 2 | 0 | 0 | 2
+| Erik Burger | 2 | 0 | 0 | 2
+| Wei Dou  | 2 | 0 | 0 | 2
+| Domenico Bianculli | 2 | 0 | 0 | 2
+| Gehan M. K. Selim | 2 | 0 | 0 | 2
+| Tijs van der Storm | 2 | 0 | 0 | 2
+| Alexandru Ipatiov | 2 | 0 | 0 | 2
+| Maged Khalil | 2 | 0 | 0 | 2
+| Johannes Eder | 2 | 0 | 0 | 2
+| Carolina Dania | 2 | 0 | 0 | 2
+| Yihan Wu | 2 | 0 | 0 | 2
+| Ying Zhang 0012 | 2 | 0 | 0 | 2
+| Patrick M&auml;der | 2 | 0 | 0 | 2
+| Shige Wang | 2 | 0 | 0 | 2
+| Javier Gonzalez-Huerta | 2 | 0 | 0 | 2
+| Yngve Lamo | 2 | 0 | 0 | 2
+| Thorsten Arendt | 2 | 0 | 0 | 2
+| Martin Faunes | 2 | 0 | 0 | 2
+| Janos Sztipanovits | 2 | 0 | 0 | 2
+| Sandeep Neema | 2 | 0 | 0 | 2
+| Lars Hamann | 2 | 0 | 0 | 2
+| Siobh&aacute;n Clarke | 2 | 0 | 0 | 2
+| Suman Roychoudhury | 2 | 0 | 0 | 2
+| Asha Rajbhoj | 2 | 0 | 0 | 2
+| Sreedhar Reddy | 2 | 0 | 0 | 2
+| Jim Steel | 2 | 0 | 0 | 2
+| Yanchun Sun | 2 | 0 | 0 | 2
+| Shinpei Hayashi | 2 | 0 | 0 | 2
+| Motoshi Saeki | 2 | 0 | 0 | 2
+| Andrea Arcuri | 2 | 0 | 0 | 2
+| Suneth Walawege | 2 | 0 | 0 | 2
+| Martin Fagereng Johansen | 2 | 0 | 0 | 2
+| S&eacute;bastien Mosser  | 2 | 0 | 0 | 2
+| Andres J. Ramirez | 2 | 0 | 0 | 2
+| Daniel Balasubramanian | 2 | 0 | 0 | 2
+| Fernando Orejas | 2 | 0 | 0 | 2
+| Mathias Kleiner | 2 | 0 | 0 | 2
+| Filippo Ricca | 2 | 0 | 0 | 2
+| Claas Wilke | 2 | 0 | 0 | 2
+| Jan Reimann 0002 | 2 | 0 | 0 | 2
+| Olivier Beaudoux | 2 | 0 | 0 | 2
+| Arnaud Blouin | 2 | 0 | 0 | 2
+| Carlo Ghezzi | 2 | 0 | 0 | 2
+| Wolfram Schulte | 2 | 0 | 0 | 2
+| Ileana Ober | 2 | 0 | 0 | 2
+| Adrian Kuhn | 2 | 0 | 0 | 2
+| Gail C. Murphy | 2 | 0 | 0 | 2
+| Carlos A. Gonz&aacute;lez | 2 | 0 | 0 | 2
+| Andrea Sindico | 2 | 0 | 0 | 2
+| Fazle Rabbi | 2 | 0 | 0 | 2
+| Michael Vierhauser | 2 | 0 | 0 | 2
+| Daniela Lettner | 2 | 0 | 0 | 2
+| Muhammad Zohaib Z. Iqbal | 2 | 0 | 0 | 2
+| Jacques Robin | 2 | 0 | 0 | 2
+| Iris Groher | 2 | 0 | 0 | 2
+| Jendrik Johannes | 2 | 0 | 0 | 2
+| Staffan Ehnebom | 2 | 0 | 0 | 2
+| Hans Gr&ouml;nniger | 2 | 0 | 0 | 2
+| Haiyan Zhao | 2 | 0 | 0 | 2
+| Zhenjiang Hu | 2 | 0 | 0 | 2
+| Gabor Karsai | 2 | 0 | 0 | 2
+| Albert Ambroziewicz | 2 | 0 | 0 | 2
+| Bruno Barroca | 2 | 0 | 0 | 2
+| Levi Lucio | 2 | 0 | 0 | 2
+| Riccardo Scandariato | 2 | 0 | 0 | 2
+| Nils Przigoda | 2 | 0 | 0 | 2
+| Rolf Drechsler | 2 | 0 | 0 | 2
+| Daniel L&uuml;ddecke | 2 | 0 | 0 | 2
+| Angelika Kusel | 2 | 0 | 0 | 2
+| Johannes Sch&ouml;nb&ouml;ck | 2 | 0 | 0 | 2
+| Ramon R. H. Schiffelers | 2 | 0 | 0 | 2
+| Filip Krikava | 2 | 0 | 0 | 2
+| Muhammad Zohaib Iqbal | 2 | 0 | 0 | 2
+| Muhammad Uzair Khan | 2 | 0 | 0 | 2
+| Matthias Sch&ouml;ttle | 2 | 0 | 0 | 2
+| Michael Szvetits | 2 | 0 | 0 | 2
+| Frank Hilken | 2 | 0 | 0 | 2
+| Fr&eacute;d&eacute;ric Mallet | 2 | 0 | 0 | 2
+| Roberto Rodr&iacute;guez-Echeverr&iacute;a | 2 | 0 | 0 | 2
+| Wiktor Nowakowski | 2 | 0 | 0 | 2
+| Tomasz Straszak | 2 | 0 | 0 | 2
+| Jacek Bojarski | 2 | 0 | 0 | 2
+| Sagar Chaki | 2 | 0 | 0 | 2
+| Jon Oldevik | 2 | 0 | 0 | 2
+| Frank Weil | 2 | 0 | 0 | 2
+| Manuel Clavel | 2 | 0 | 0 | 2
+| Ahmed M. Elkhodary | 2 | 0 | 0 | 2
+| Praveen K. Jayaraman | 2 | 0 | 0 | 2
+| Ludovico Iovino | 2 | 0 | 0 | 2
+| Evgeny Kusmenko | 2 | 0 | 0 | 2
+| Krist&oacute;f Marussy | 2 | 0 | 0 | 2
+| Parsa Pourali | 2 | 0 | 0 | 2
+| Matthias Brun  | 2 | 0 | 0 | 2
+| Valentin Besnard | 2 | 0 | 0 | 2
+| Byron DeVries | 2 | 0 | 0 | 2
+| Nicolas Ferry  | 2 | 0 | 0 | 2
+| Luis Hern&aacute;n Garc&iacute;a Paucar | 2 | 0 | 0 | 2
+| Antonio Bucchiarone | 2 | 0 | 0 | 2
+| G&aacute;bor Sz&aacute;rnyas | 2 | 0 | 0 | 2
+| Ulf Eliasson | 2 | 0 | 0 | 2
+| Patrizio Pelliccione | 2 | 0 | 0 | 2
+| Jonn Lantz | 2 | 0 | 0 | 2
+| Truong Ho-Quang | 2 | 0 | 0 | 2
+| Mojtaba Bagherzadeh | 2 | 0 | 0 | 2
+| Tom Maibaum | 2 | 0 | 0 | 2
+| Ran Wei | 2 | 0 | 0 | 2
+| Nicolas Harrand | 2 | 0 | 0 | 2
+| Jaime Font | 2 | 0 | 0 | 2
+| Christoph Elsner | 2 | 0 | 0 | 2
+| Frank Zimmer | 2 | 0 | 0 | 2
+| Grischa Liebel | 2 | 0 | 0 | 2
+| Naouel Moha | 2 | 0 | 0 | 2
+| Stavros Tripakis | 2 | 0 | 0 | 2
+| Martin Lehofer | 2 | 0 | 0 | 2
+| Ingolf Kr&uuml;ger | 2 | 0 | 0 | 2
+| Tanja Mayerhofer | 2 | 0 | 0 | 2
+| Juha-Pekka Tolvanen | 2 | 0 | 0 | 2
+| Aniruddha S. Gokhale | 2 | 0 | 0 | 2
+| Alan Wassyng | 2 | 0 | 0 | 2
+| Mark Lawford | 2 | 0 | 0 | 2
+| Rodi Jolak | 2 | 0 | 0 | 2
+| Eugene Syriani | 2 | 0 | 0 | 2
+| Rick Rabiser | 2 | 0 | 0 | 2
+| Thorsten Berger | 2 | 0 | 0 | 2
+| Ludovic Apvrille | 2 | 0 | 0 | 2
+| Renaud Pacalet | 2 | 0 | 0 | 2
+| Jean-Marie Mottu | 2 | 0 | 0 | 2
+| Andreas Vogelsang | 2 | 0 | 0 | 2
+| Tony Clark | 2 | 0 | 0 | 2
+| Sven Peldszus | 2 | 0 | 0 | 2
+| Ivano Malavolta | 2 | 0 | 0 | 2
+| Xiao He | 2 | 0 | 0 | 2
+| Ruth Ravent&oacute;s | 2 | 0 | 1 | 1
+| Maritta Heisel | 2 | 0 | 1 | 1
+| Tor St&aring;lhane | 2 | 0 | 1 | 1
+| Maristella Matera | 2 | 0 | 1 | 1
+| Rajwinder Kaur Panesar-Walawege | 2 | 0 | 1 | 1
+| Mois&eacute;s Castelo Branco | 2 | 0 | 1 | 1
+| Pieter Van Gorp | 2 | 0 | 1 | 1
+| Alexis Fouche | 2 | 0 | 1 | 1
+| Deepali Kholkar | 2 | 0 | 1 | 1
+| Fernando Mac&iacute;as | 2 | 0 | 1 | 1
+| Gerson Suny&eacute; | 2 | 0 | 1 | 1
+| Fernando Silva Parreiras | 2 | 0 | 1 | 1
+| Gilles Perrouin | 2 | 0 | 1 | 1
+| Ana Cristina Marc&eacute;n | 2 | 0 | 1 | 1
+| Kathrin Figl | 2 | 0 | 1 | 1
+| Michael Grossniklaus | 2 | 0 | 1 | 1
+| J&uuml;rgen Ebert | 2 | 0 | 1 | 1
+| Gena&iacute;na Nunes Rodrigues | 2 | 0 | 1 | 1
+| Anthony Fernandes Pires | 2 | 0 | 1 | 1
+| Anna A. Kalenkova | 2 | 0 | 1 | 1
+| Ksenia Ryndina | 2 | 1 | 0 | 1
+| Thomas Gschwind | 2 | 1 | 0 | 1
+| Alexander F&ouml;rster | 2 | 1 | 0 | 1
+| Senthil Mani | 2 | 1 | 0 | 1
+| Gordon S. Blair | 2 | 1 | 0 | 1
+| Awais Rashid | 2 | 1 | 0 | 1
+| Ragnhild Van Der Straeten | 2 | 1 | 0 | 1
+| Wouter Joosen | 2 | 1 | 0 | 1
 | Michael Adams | 2 | 0 | 2 | 0
 | Qing Li  | 2 | 0 | 2 | 0
 | Ladjel Bellatreche | 2 | 0 | 2 | 0
@@ -760,6 +1130,1128 @@ The following table lists all authors with the number of contributions to the BP
 | Diego Sevilla Ruiz | 2 | 0 | 2 | 0
 | Chiara Renso | 2 | 0 | 2 | 0
 | Stephan Poelmans | 2 | 0 | 2 | 0
+| Jan Ladleif | 2 | 1 | 1 | 0
+| Ernesto Damiani | 2 | 1 | 1 | 0
+| Stephan K&uuml;hnel | 2 | 1 | 1 | 0
+| Yang Yu 0027 | 2 | 1 | 1 | 0
+| Alireza Ostovar | 2 | 1 | 1 | 0
+| Abderrahmane Maaradji | 2 | 1 | 1 | 0
+| Peter Loos | 2 | 1 | 1 | 0
+| Eric Andonoff | 2 | 1 | 1 | 0
+| Gianluigi Greco | 2 | 1 | 1 | 0
+| Heiner Stuckenschmidt | 2 | 1 | 1 | 0
+| Jakob Pinggera | 2 | 1 | 1 | 0
+| Stefan Zugal | 2 | 1 | 1 | 0
+| Nicola Zannone | 2 | 1 | 1 | 0
+| Florian Gottschalk | 2 | 1 | 1 | 0
+| Matteo Magnani | 2 | 1 | 1 | 0
+| Danilo Montesi | 2 | 1 | 1 | 0
+| Hagen Overdick | 2 | 1 | 1 | 0
+| Ahmed Awad  | 2 | 1 | 1 | 0
+| Simone Kriglstein | 2 | 1 | 1 | 0
+| Joos C. A. M. Buijs | 2 | 1 | 1 | 0
+| Tomer Sagi | 2 | 1 | 1 | 0
+| Mark H. Linehan | 2 | 1 | 1 | 0
+| Chen Li 0012 | 2 | 1 | 1 | 0
+| Sergey Smirnov 0002 | 2 | 1 | 1 | 0
+| Calton Pu | 2 | 1 | 1 | 0
+| Stefan Jablonski | 2 | 1 | 1 | 0
+| Mike P. Papazoglou | 2 | 1 | 1 | 0
+| Sherif Sakr | 2 | 1 | 1 | 0
+| Martin Schultz | 2 | 1 | 1 | 0
+| Yi Chen  | 2 | 1 | 1 | 0
+| Murray Spork | 2 | 1 | 1 | 0
+| Ruopeng Lu | 2 | 1 | 1 | 0
+| Victoria Torres | 2 | 1 | 1 | 0
+| J. Leon Zhao | 2 | 1 | 1 | 0
+| Johannes De Smedt | 2 | 1 | 1 | 0
+| Peter Fettke | 2 | 1 | 1 | 0
+| Xixi Lu | 2 | 2 | 0 | 0
+| Kanika Goel 0002 | 2 | 2 | 0 | 0
+| Llu&iacute;s Padr&oacute; | 2 | 2 | 0 | 0
+| Patrick Lohmann | 2 | 2 | 0 | 0
+| Amy Van Looy | 2 | 2 | 0 | 0
+| Massimo Mecella | 2 | 2 | 0 | 0
+| Katharina Stelzl | 2 | 2 | 0 | 0
+| Jan vom Brocke | 2 | 2 | 0 | 0
+| Oscar Gonz&aacute;lez Rojas | 2 | 2 | 0 | 0
+| Fran&ccedil;ois Charoy | 2 | 2 | 0 | 0
+| Robin Bergenthum | 2 | 2 | 0 | 0
+| Jo&atilde;o Carlos de A. R. Gon&ccedil;alves | 2 | 2 | 0 | 0
+| Manuel Lama | 2 | 2 | 0 | 0
+| Manuel Mucientes | 2 | 2 | 0 | 0
+| Alexander Ponomarev | 2 | 2 | 0 | 0
+| Saimir Bala | 2 | 2 | 0 | 0
+| Vincenzo Ferme | 2 | 2 | 0 | 0
+| Werner Nutt | 2 | 2 | 0 | 0
+| Pieter De Koninck | 2 | 2 | 0 | 0
+| Farbod Taymouri | 2 | 2 | 0 | 0
+| Sanjiva Weerawarana | 2 | 2 | 0 | 0
+| Daniel Rei&szlig;ner | 2 | 2 | 0 | 0
+| Morten Marquard | 2 | 2 | 0 | 0
+| Geetika T. Lakshmanan | 2 | 2 | 0 | 0
+| Zhiqiang Yan | 2 | 2 | 0 | 0
+| Javier de San Pedro | 2 | 2 | 0 | 0
+| Jonas Manderscheid | 2 | 2 | 0 | 0
+| Sira Yongchareon | 2 | 2 | 0 | 0
+| Jian Yang  | 2 | 2 | 0 | 0
+| Zoran Milosevic | 2 | 2 | 0 | 0
+| Armin Zimmermann | 2 | 2 | 0 | 0
+| Markus N&uuml;ttgens | 2 | 2 | 0 | 0
+| Rainer Anzb&ouml;ck | 2 | 2 | 0 | 0
+| Alistair P. Barros | 2 | 2 | 0 | 0
+| Xiwei Xu | 2 | 2 | 0 | 0
+| Rami-Habib Eid-Sabbagh | 2 | 2 | 0 | 0
+| Tobias Freudenreich | 2 | 2 | 0 | 0
+| Stefan Appel | 2 | 2 | 0 | 0
+| Sebastian Frischbier | 2 | 2 | 0 | 0
+| Alejandro P. Buchmann | 2 | 2 | 0 | 0
+| Hong Linh Truong  | 2 | 2 | 0 | 0
+| Niko Kleiner | 2 | 2 | 0 | 0
+| Lou J. Somers | 2 | 2 | 0 | 0
+| Suk-Ho Kang | 2 | 2 | 0 | 0
+| Leonid Churilov | 2 | 2 | 0 | 0
+| Dina Neiger | 2 | 2 | 0 | 0
+| Markus Hammori | 2 | 2 | 0 | 0
+| Peter Massuthe | 2 | 2 | 0 | 0
+| J&ouml;rg Nitzsche | 2 | 2 | 0 | 0
+| Robert Lorenz  | 2 | 2 | 0 | 0
+| Anne Rozinat | 2 | 2 | 0 | 0
+| Dominic M&uuml;ller | 2 | 2 | 0 | 0
+| Rama Akkiraju | 2 | 2 | 0 | 0
+| Michael Kishinevsky | 2 | 2 | 0 | 0
+| Yun Yang  | 2 | 2 | 0 | 0
+| Jinjun Chen | 2 | 2 | 0 | 0
+| Jorge Munoz-Gama | 2 | 2 | 0 | 0
+| Yutian Sun | 2 | 2 | 0 | 0
+| Andr&eacute; Ludwig | 2 | 2 | 0 | 0
+| Renuka Sindhgatta | 2 | 2 | 0 | 0
+| Wasif Gilani | 2 | 2 | 0 | 0
+| Oliver Holschke | 2 | 2 | 0 | 0
+| Kais Klai | 2 | 2 | 0 | 0
+| Francisco Curbera | 2 | 2 | 0 | 0
+| Anil Nigam | 2 | 2 | 0 | 0
+| Frederick Y. Wu | 2 | 2 | 0 | 0
+| Alessandra Agostini | 2 | 2 | 0 | 0
+| Giorgio De Michelis | 2 | 2 | 0 | 0
+| Daniel Moldt | 2 | 2 | 0 | 0
+| Clarence A. Ellis | 2 | 2 | 0 | 0
+| Elio Damaggio | 2 | 2 | 0 | 0
+| Andreas Martin | 2 | 2 | 0 | 0
+| Hans Friedrich Witschel | 2 | 2 | 0 | 0
+| Bo Hu | 2 | 2 | 0 | 0
+| Knut Hinkelmann | 2 | 2 | 0 | 0
+| Uwe V. Riss | 2 | 2 | 0 | 0
+| Barbara Th&ouml;nssen | 2 | 2 | 0 | 0
+| Debdoot Mukherjee | 2 | 2 | 0 | 0
+| Saurabh Sinha | 2 | 2 | 0 | 0
+| Jutta A. M&uuml;lle | 2 | 2 | 0 | 0
+| Irene Teinemaa | 2 | 2 | 0 | 0
+| Silvio Ghilardi | 2 | 2 | 0 | 0
+| Andrea Marrella | 2 | 2 | 0 | 0
+| Inge van de Weerd | 2 | 2 | 0 | 0
+| Iris Beerepoot | 2 | 2 | 0 | 0
+| Francesco Tiezzi | 2 | 2 | 0 | 0
+| Erica French | 2 | 2 | 0 | 0
+| Rehan Syed | 2 | 2 | 0 | 0
+| Manuel Resinas | 2 | 2 | 0 | 0
+| Luise Pufahl | 2 | 2 | 0 | 0
+| J&ouml;rn David | 1 | 0 | 0 | 1
+| Maximilian Koegel | 1 | 0 | 0 | 1
+| Jonas Helming | 1 | 0 | 0 | 1
+| Aleksandar Shterev | 1 | 0 | 0 | 1
+| Helmut Naughton | 1 | 0 | 0 | 1
+| Vincent Mah&eacute; | 1 | 0 | 0 | 1
+| Tobias Walter | 1 | 0 | 0 | 1
+| Michael Shtelma | 1 | 0 | 0 | 1
+| W. Greg Phillips | 1 | 0 | 0 | 1
+| Christopher Wolfe | 1 | 0 | 0 | 1
+| T. C. Nicholas Graham | 1 | 0 | 0 | 1
+| Konrad Wieland | 1 | 0 | 0 | 1
+| Martina Seidl | 1 | 0 | 0 | 1
+| Petra Brosch | 1 | 0 | 0 | 1
+| Mar&iacute;a Victoria Cengarle | 1 | 0 | 0 | 1
+| Olaf Zimmermann | 1 | 0 | 0 | 1
+| Steffen Mazanek | 1 | 0 | 0 | 1
+| Mark Minas | 1 | 0 | 0 | 1
+| Anantha Narayanan | 1 | 0 | 0 | 1
+| John Lloyd | 1 | 0 | 0 | 1
+| Ben Lickly | 1 | 0 | 0 | 1
+| Man-Kit Leung | 1 | 0 | 0 | 1
+| Elizabeth Latronico | 1 | 0 | 0 | 1
+| Thomas Mandl 0002 | 1 | 0 | 0 | 1
+| Charles P. Shelton | 1 | 0 | 0 | 1
+| Pau Giner | 1 | 0 | 0 | 1
+| Stephan Wei&szlig;leder | 1 | 0 | 0 | 1
+| Pierre Yves Pillain | 1 | 0 | 0 | 1
+| Amine Raji | 1 | 0 | 0 | 1
+| Stephen Creff | 1 | 0 | 0 | 1
+| Sagar Sen | 1 | 0 | 0 | 1
+| Gergely Varr&oacute; | 1 | 0 | 0 | 1
+| Man-tak Shing | 1 | 0 | 0 | 1
+| Doron Drusinsky | 1 | 0 | 0 | 1
+| Stephen J. Mellor | 1 | 0 | 0 | 1
+| Zamira Daw | 1 | 0 | 0 | 1
+| Marcus Vetter | 1 | 0 | 0 | 1
+| Dirk Deridder | 1 | 0 | 0 | 1
+| Andr&eacute;s Yie | 1 | 0 | 0 | 1
+| Christian Soltenborn | 1 | 0 | 0 | 1
+| P&auml;r Emanuelsson | 1 | 0 | 0 | 1
+| Lars Bendix | 1 | 0 | 0 | 1
+| Peter Herrmann | 1 | 0 | 0 | 1
+| Arie van Deursen | 1 | 0 | 0 | 1
+| Martin Pinzger  | 1 | 0 | 0 | 1
+| Felienne Hermans | 1 | 0 | 0 | 1
+| Mika Katara | 1 | 0 | 0 | 1
+| Jani Mets&auml; | 1 | 0 | 0 | 1
+| Marko Boskovic | 1 | 0 | 0 | 1
+| Wilhelm Hasselbring | 1 | 0 | 0 | 1
+| Christa Schwanninger | 1 | 0 | 0 | 1
+| Miguel A. Fern&aacute;ndez | 1 | 0 | 0 | 1
+| Antonio Castillo | 1 | 0 | 0 | 1
+| Milan Milanovic | 1 | 0 | 0 | 1
+| Michael Golm | 1 | 0 | 0 | 1
+| Christoph Wienands | 1 | 0 | 0 | 1
+| Thomas Aschauer | 1 | 0 | 0 | 1
+| Wolfgang Pree | 1 | 0 | 0 | 1
+| Gerd Dauenhauer | 1 | 0 | 0 | 1
+| Rodion Moiseev | 1 | 0 | 0 | 1
+| Rahul Mohan | 1 | 0 | 0 | 1
+| Massimiliano Menarini | 1 | 0 | 0 | 1
+| Rapha&euml;l Chenouard | 1 | 0 | 0 | 1
+| Peter Sawyer | 1 | 0 | 0 | 1
+| Larry L. Constantine | 1 | 0 | 0 | 1
+| Christian Thum | 1 | 0 | 0 | 1
+| Martin Schader | 1 | 0 | 0 | 1
+| Michael Schwind | 1 | 0 | 0 | 1
+| Patrick Albert | 1 | 0 | 0 | 1
+| Seung Yeob Shin | 1 | 0 | 0 | 1
+| Karim Chaouch | 1 | 0 | 0 | 1
+| Sandra Greiner | 1 | 0 | 0 | 1
+| Bernhard Westfechtel | 1 | 0 | 0 | 1
+| Michael Ries | 1 | 0 | 0 | 1
+| Markus Weckesser | 1 | 0 | 0 | 1
+| Hugo Louren&ccedil;o | 1 | 0 | 0 | 1
+| Henrique Henriques | 1 | 0 | 0 | 1
+| Roland Kretschmer | 1 | 0 | 0 | 1
+| Djamel Eddine Khelladi | 1 | 0 | 0 | 1
+| Ta'id Holmes | 1 | 0 | 0 | 1
+| Gala Barquero | 1 | 0 | 0 | 1
+| Florent Marchand de Kerchove | 1 | 0 | 0 | 1
+| Nathalie Moreno | 1 | 0 | 0 | 1
+| Manuel F. Bertoa | 1 | 0 | 0 | 1
+| Andreas Bahya | 1 | 0 | 0 | 1
+| Artur Boronat | 1 | 0 | 0 | 1
+| Rahad Khandoker | 1 | 0 | 0 | 1
+| Omar Masmali | 1 | 0 | 0 | 1
+| Omar Badreddin | 1 | 0 | 0 | 1
+| Andrew Forward | 1 | 0 | 0 | 1
+| Reza Ahmadi | 1 | 0 | 0 | 1
+| Alexandre Petrenko | 1 | 0 | 0 | 1
+| Oliver Kautz | 1 | 0 | 0 | 1
+| Cody Kinneer | 1 | 0 | 0 | 1
+| Sebastian J. I. Herzig | 1 | 0 | 0 | 1
+| Marten Lohstroh | 1 | 0 | 0 | 1
+| David Broman | 1 | 0 | 0 | 1
+| Fabio Cremona | 1 | 0 | 0 | 1
+| Michael Masin | 1 | 0 | 0 | 1
+| Andreas K&auml;stner | 1 | 0 | 0 | 1
+| Manuel Ballar&iacute;n | 1 | 0 | 0 | 1
+| Alexandre Rio | 1 | 0 | 0 | 1
+| Yoann Maurel | 1 | 0 | 0 | 1
+| Yoran Bugni | 1 | 0 | 0 | 1
+| Arne Nordmann | 1 | 0 | 0 | 1
+| Peter Munk | 1 | 0 | 0 | 1
+| Stephen Wynn-Williams | 1 | 0 | 0 | 1
+| Zhihao Jiang | 1 | 0 | 0 | 1
+| Shinichi Shiraishi | 1 | 0 | 0 | 1
+| Ximing Chen | 1 | 0 | 0 | 1
+| Victor M. Preciado | 1 | 0 | 0 | 1
+| Eunsuk Kang | 1 | 0 | 0 | 1
+| Florian Zoubek | 1 | 0 | 0 | 1
+| Richard M. Dexter | 1 | 0 | 0 | 1
+| Kerryn R. Owen | 1 | 0 | 0 | 1
+| Yago Isasi | 1 | 0 | 0 | 1
+| Mojtaba Varmazyar | 1 | 0 | 0 | 1
+| Chihab eddine Mokaddem | 1 | 0 | 0 | 1
+| Steven Kelly  | 1 | 0 | 0 | 1
+| Beno&icirc;t Baudry | 1 | 0 | 0 | 1
+| Jakob H&oslash;genes | 1 | 0 | 0 | 1
+| Sascha Schneiders | 1 | 0 | 0 | 1
+| Quentin Cobbaert | 1 | 0 | 0 | 1
+| Philippe Masson | 1 | 0 | 0 | 1
+| Islem Baki | 1 | 0 | 0 | 1
+| Maurizio Leotta | 1 | 0 | 0 | 1
+| Deepak Dhungana | 1 | 0 | 0 | 1
+| Herwig Schreiner | 1 | 0 | 0 | 1
+| Elizabeta Fourneret | 1 | 0 | 0 | 1
+| Morayo Adedjouma | 1 | 0 | 0 | 1
+| Ver&oacute;nica Andrea Bollati | 1 | 0 | 0 | 1
+| Juan M. Vara | 1 | 0 | 0 | 1
+| David Granada | 1 | 0 | 0 | 1
+| Cl&aacute;udio Gomes | 1 | 0 | 0 | 1
+| Nina Bergmann | 1 | 0 | 0 | 1
+| Luca Pazzi | 1 | 0 | 0 | 1
+| Xiaodong Zhang | 1 | 0 | 0 | 1
+| Ralf Rublack | 1 | 0 | 0 | 1
+| Divya Nair | 1 | 0 | 0 | 1
+| Babajide Ogunyomi | 1 | 0 | 0 | 1
+| Carlos Noguera | 1 | 0 | 0 | 1
+| Jaime Chavarriaga | 1 | 0 | 0 | 1
+| Francesco Chirico | 1 | 0 | 0 | 1
+| Seyyed M. Shah | 1 | 0 | 0 | 1
+| Christian Berger  | 1 | 0 | 0 | 1
+| Andrea Enrici | 1 | 0 | 0 | 1
+| Nicholas Drivalos Matragkas | 1 | 0 | 0 | 1
+| Raphael Stroh | 1 | 0 | 0 | 1
+| Steffen Vaupel | 1 | 0 | 0 | 1
+| Michael Guckert | 1 | 0 | 0 | 1
+| Ren&eacute; Gerlach | 1 | 0 | 0 | 1
+| Jan Peer Harries | 1 | 0 | 0 | 1
+| James R. Edmondson | 1 | 0 | 0 | 1
+| Jonas Westman | 1 | 0 | 0 | 1
+| Mattias Nyberg | 1 | 0 | 0 | 1
+| Jeff Offutt | 1 | 0 | 0 | 1
+| Sunitha Thummala | 1 | 0 | 0 | 1
+| Alexander Bergmayr | 1 | 0 | 0 | 1
+| Andrea Leitner | 1 | 0 | 0 | 1
+| Nadja Marko | 1 | 0 | 0 | 1
+| J&ouml;rgen Hansson | 1 | 0 | 0 | 1
+| Heiko Sommer | 1 | 0 | 0 | 1
+| Marcus Schilling | 1 | 0 | 0 | 1
+| Gianluca Chiozzi | 1 | 0 | 0 | 1
+| Michele Zamparelli | 1 | 0 | 0 | 1
+| Robert Karban | 1 | 0 | 0 | 1
+| Luigi Andolfato | 1 | 0 | 0 | 1
+| Anatoly Vasilevskiy | 1 | 0 | 0 | 1
+| Francesco Basciani | 1 | 0 | 0 | 1
+| Anya Helene Bagge | 1 | 0 | 0 | 1
+| Istv&aacute;n D&aacute;vid | 1 | 0 | 0 | 1
+| Sean Eade | 1 | 0 | 0 | 1
+| D&eacute;nes Harmath | 1 | 0 | 0 | 1
+| Benedek Izs&oacute; | 1 | 0 | 0 | 1
+| J&eacute;r&eacute;mie Tatibouet | 1 | 0 | 0 | 1
+| Thomas Iguchi | 1 | 0 | 0 | 1
+| Mahdi Derakhshanmanesh | 1 | 0 | 0 | 1
+| James H. Hill | 1 | 0 | 0 | 1
+| Dave R. Stikkolorum | 1 | 0 | 0 | 1
+| Humberto Nicol&aacute;s Castej&oacute;n Mart&iacute;nez | 1 | 0 | 0 | 1
+| Rolv Br&aelig;k | 1 | 0 | 0 | 1
+| Richard Torbj&oslash;rn Sanders | 1 | 0 | 0 | 1
+| Martin Giese | 1 | 0 | 0 | 1
+| Daniel Larsson | 1 | 0 | 0 | 1
+| Brian Berenbach | 1 | 0 | 0 | 1
+| Ryan Stephenson | 1 | 0 | 0 | 1
+| Siv Hilde Houmb | 1 | 0 | 0 | 1
+| Gerald Weber | 1 | 0 | 0 | 1
+| Matthias Horn | 1 | 0 | 0 | 1
+| Dirk Draheim | 1 | 0 | 0 | 1
+| Ina Schulz | 1 | 0 | 0 | 1
+| Gregor Kiczales | 1 | 0 | 0 | 1
+| Maria Tkatchenko | 1 | 0 | 0 | 1
+| Kurt Stirewalt | 1 | 0 | 0 | 1
+| Spencer Rugaber | 1 | 0 | 0 | 1
+| M. Esperanza Manso | 1 | 0 | 0 | 1
+| Doug Kimelman | 1 | 0 | 0 | 1
+| Steven A. Demurjian | 1 | 0 | 0 | 1
+| Jaime A. Pavlich-Mariscal | 1 | 0 | 0 | 1
+| Laurent Michel | 1 | 0 | 0 | 1
+| Jens M. Glattetre | 1 | 0 | 0 | 1
+| Marek Vok&aacute;c | 1 | 0 | 0 | 1
+| Wolfgang De Meuter | 1 | 0 | 0 | 1
+| Ellen Van Paesschen | 1 | 0 | 0 | 1
+| Michael J. Marich | 1 | 0 | 0 | 1
+| Haig F. Krikorian | 1 | 0 | 0 | 1
+| Lu&iacute;s Ferreira Pires | 1 | 0 | 0 | 1
+| Franklin Ramalho | 1 | 0 | 0 | 1
+| Marlon Vieira | 1 | 0 | 0 | 1
+| Andreas Pleu&szlig; | 1 | 0 | 0 | 1
+| Philippe Marquet | 1 | 0 | 0 | 1
+| Jean-Luc Dekeyser | 1 | 0 | 0 | 1
+| Pierre Boulet | 1 | 0 | 0 | 1
+| Miriam Zia | 1 | 0 | 0 | 1
+| Hiroshi Wada | 1 | 0 | 0 | 1
+| Junichi Suzuki | 1 | 0 | 0 | 1
+| Jeffrey G. Gray | 1 | 0 | 0 | 1
+| Jing Zhang 0003 | 1 | 0 | 0 | 1
+| Steven Nordstrom | 1 | 0 | 0 | 1
+| Swapna S. Gokhale | 1 | 0 | 0 | 1
+| Yuehua Lin | 1 | 0 | 0 | 1
+| Wolfgang Prenninger | 1 | 0 | 0 | 1
+| Ludwik Kuzniarz | 1 | 0 | 0 | 1
+| Mark Hettish | 1 | 0 | 0 | 1
+| Stephen P. Masticola | 1 | 0 | 0 | 1
+| Andre B. Bondi | 1 | 0 | 0 | 1
+| Dick A. C. Quartel | 1 | 0 | 0 | 1
+| Alejandro Bia | 1 | 0 | 0 | 1
+| David S. Rosenblum | 1 | 0 | 0 | 1
+| Shiou Loh | 1 | 0 | 0 | 1
+| Paul Baker | 1 | 0 | 0 | 1
+| Martin Deubler | 1 | 0 | 0 | 1
+| Sabine Rittmann | 1 | 0 | 0 | 1
+| Michael Meisinger | 1 | 0 | 0 | 1
+| Francis Bordeleau | 1 | 0 | 0 | 1
+| D'Arcy Walsh | 1 | 0 | 0 | 1
+| Aaron Shui | 1 | 0 | 0 | 1
+| Christophe Dony | 1 | 0 | 0 | 1
+| Hui Shen | 1 | 0 | 0 | 1
+| Robert G. Pettit IV | 1 | 0 | 0 | 1
+| Julie A. Street | 1 | 0 | 0 | 1
+| Anca Daniela Ionita | 1 | 0 | 0 | 1
+| Germ&aacute;n Vega | 1 | 0 | 0 | 1
+| Jacky Estublier | 1 | 0 | 0 | 1
+| Jie Yang 0014 | 1 | 0 | 0 | 1
+| M. J. Evans | 1 | 0 | 0 | 1
+| Klaus D. McDonald-Maier | 1 | 0 | 0 | 1
+| David H. Akehurst | 1 | 0 | 0 | 1
+| W. Gareth J. Howells | 1 | 0 | 0 | 1
+| Reinhard Gotzhein | 1 | 0 | 0 | 1
+| Thomas Kuhn  | 1 | 0 | 0 | 1
+| Christian Webel | 1 | 0 | 0 | 1
+| Christophe Tombelle | 1 | 0 | 0 | 1
+| Ivan Kurtev | 1 | 0 | 0 | 1
+| Arne Lindow | 1 | 0 | 0 | 1
+| Mar&iacute;a Agustina Cibr&aacute;n | 1 | 0 | 0 | 1
+| Greg O'Keefe | 1 | 0 | 0 | 1
+| Jan Hendrik Hausmann | 1 | 0 | 0 | 1
+| Lucio Mauro Duarte | 1 | 0 | 0 | 1
+| Vegard Dehlen | 1 | 0 | 0 | 1
+| Laurence Duchien | 1 | 0 | 0 | 1
+| Anne-Fran&ccedil;oise Le Meur | 1 | 0 | 0 | 1
+| Guillaume Waignier | 1 | 0 | 0 | 1
+| Pedro Ramos 0004 | 1 | 0 | 0 | 1
+| Denis Hatebur | 1 | 0 | 0 | 1
+| Holger Schmidt  | 1 | 0 | 0 | 1
+| Javier J. Guti&eacute;rrez  | 1 | 0 | 0 | 1
+| Isabel Ramos 0002 | 1 | 0 | 0 | 1
+| Mar&iacute;a Jos&eacute; Escalona | 1 | 0 | 0 | 1
+| Manuel Mej&iacute;as | 1 | 0 | 0 | 1
+| Sahar Kayhani | 1 | 0 | 0 | 1
+| Greg Butler | 1 | 0 | 0 | 1
+| Bahman Zamani | 1 | 0 | 0 | 1
+| Mounir Boukadoum | 1 | 0 | 0 | 1
+| Mathieu Lafourcade | 1 | 0 | 0 | 1
+| Michele Lanza | 1 | 0 | 0 | 1
+| Romain Robbes | 1 | 0 | 0 | 1
+| Daniel Hagimont | 1 | 0 | 0 | 1
+| Laurent Broto | 1 | 0 | 0 | 1
+| Michel J. Dayd&eacute; | 1 | 0 | 0 | 1
+| Bastian Kennel | 1 | 0 | 0 | 1
+| Matthias Gutheil | 1 | 0 | 0 | 1
+| Hong-Viet Luong | 1 | 0 | 0 | 1
+| Thomas Lambolais | 1 | 0 | 0 | 1
+| Anne-Lise Courbis | 1 | 0 | 0 | 1
+| Mohammad Al Saad | 1 | 0 | 0 | 1
+| Nicolai Kamenzky | 1 | 0 | 0 | 1
+| Jochen H. Schiller | 1 | 0 | 0 | 1
+| Leen Lambers | 1 | 0 | 0 | 1
+| Katharina Mehner | 1 | 0 | 0 | 1
+| Elmar J&uuml;rgens | 1 | 0 | 0 | 1
+| Sebastian Benz | 1 | 0 | 0 | 1
+| Lijun Yu | 1 | 0 | 0 | 1
+| Jos&eacute; A. Cars&iacute; | 1 | 0 | 0 | 1
+| Paul McIntosh | 1 | 0 | 0 | 1
+| Ron G. van Schyndel | 1 | 0 | 0 | 1
+| Margaret Hamilton | 1 | 0 | 0 | 1
+| Andrea Br&uuml;hlmann | 1 | 0 | 0 | 1
+| Teiichiro Inoue | 1 | 0 | 0 | 1
+| Toshihiro Obata | 1 | 0 | 0 | 1
+| Simona Bernardi | 1 | 0 | 0 | 1
+| Jos&eacute; Merseguer | 1 | 0 | 0 | 1
+| Tejeddine Mouelhi | 1 | 0 | 0 | 1
+| Zef Hemel | 1 | 0 | 0 | 1
+| Ruben Verhaaf | 1 | 0 | 0 | 1
+| Stefan Hanenberg | 1 | 0 | 0 | 1
+| Pablo S&aacute;nchez | 1 | 0 | 0 | 1
+| Dominik Stein | 1 | 0 | 0 | 1
+| Lidia Fuentes | 1 | 0 | 0 | 1
+| Rainer Unland | 1 | 0 | 0 | 1
+| Hongzhi Liang | 1 | 0 | 0 | 1
+| Qin Ma 0002 | 1 | 0 | 0 | 1
+| Pierre Kelsen | 1 | 0 | 0 | 1
+| Kjell-Joar Alme | 1 | 0 | 0 | 1
+| G&oslash;ran K. Olsen | 1 | 0 | 0 | 1
+| Thomas Moen | 1 | 0 | 0 | 1
+| Jan Endresen | 1 | 0 | 0 | 1
+| Erik Carlson | 1 | 0 | 0 | 1
+| Andreas Svendsen | 1 | 0 | 0 | 1
+| Dominik Gessenharter | 1 | 0 | 0 | 1
+| Patrick Rauhut | 1 | 0 | 0 | 1
+| Rasha Tawhid | 1 | 0 | 0 | 1
+| Edward Jones | 1 | 0 | 0 | 1
+| Ken Owens | 1 | 0 | 0 | 1
+| Richard W. Buskens | 1 | 0 | 0 | 1
+| Srini Srinivasan | 1 | 0 | 0 | 1
+| Trip Denton | 1 | 0 | 0 | 1
+| Adam Prout | 1 | 0 | 0 | 1
+| Pourya Shaker | 1 | 0 | 0 | 1
+| Daniel Lucr&eacute;dio | 1 | 0 | 0 | 1
+| Renata Pontin de Mattos Fortes | 1 | 0 | 0 | 1
+| Victoria Kuzina | 1 | 0 | 0 | 1
+| Mikol&aacute;s Janota | 1 | 0 | 0 | 1
+| Martin Monperrus | 1 | 0 | 0 | 1
+| Brigitte Hoeltzener | 1 | 0 | 0 | 1
+| Jo&euml;l Champeau | 1 | 0 | 0 | 1
+| Hatice Elmasg&uuml;nes | 1 | 0 | 0 | 1
+| Timo Baum | 1 | 0 | 0 | 1
+| J&uuml;rgen Widiker | 1 | 0 | 0 | 1
+| Ralf-Detlef Kutsche | 1 | 0 | 0 | 1
+| Marco Pohl | 1 | 0 | 0 | 1
+| Jo&atilde;o Saraiva | 1 | 0 | 0 | 1
+| Sander Vermolen | 1 | 0 | 0 | 1
+| Matthew Kaplan | 1 | 0 | 0 | 1
+| Clay Williams | 1 | 0 | 0 | 1
+| Amit M. Paradkar | 1 | 0 | 0 | 1
+| Avik Sinha | 1 | 0 | 0 | 1
+| Bernard Coulette | 1 | 0 | 0 | 1
+| Younes Lakhrissi | 1 | 0 | 0 | 1
+| Bas Flaton | 1 | 0 | 0 | 1
+| Daniel Rei&szlig; | 1 | 0 | 0 | 1
+| David Trachtenherz | 1 | 0 | 0 | 1
+| Judith E. Y. Rosseb&oslash; | 1 | 0 | 0 | 1
+| Ragnhild Kobro Runde | 1 | 0 | 0 | 1
+| Stuart Hutchesson | 1 | 0 | 0 | 1
+| Vincent Bertram | 1 | 0 | 0 | 1
+| Vanessa N. Michalke | 1 | 0 | 0 | 1
+| Martin Beckmann 0002 | 1 | 0 | 0 | 1
+| Aaron Schlutter | 1 | 0 | 0 | 1
+| Dominique Ernadote | 1 | 0 | 0 | 1
+| Alexander Diewald | 1 | 0 | 0 | 1
+| Ali Syed | 1 | 0 | 0 | 1
+| J&ouml;rn Migge | 1 | 0 | 0 | 1
+| Madeleine Faug&egrave;re | 1 | 0 | 0 | 1
+| Gerhard Fohler | 1 | 0 | 0 | 1
+| Simon Barner | 1 | 0 | 0 | 1
+| Daniel Gracia P&eacute;rez | 1 | 0 | 0 | 1
+| Ludovic Mouline | 1 | 0 | 0 | 1
+| Johann Bourcier | 1 | 0 | 0 | 1
+| Amine Benelallam | 1 | 0 | 0 | 1
+| Ewen Denney | 1 | 0 | 0 | 1
+| Ganesh Pai | 1 | 0 | 0 | 1
+| Iain Whiteside | 1 | 0 | 0 | 1
+| Vincent Aravantinos | 1 | 0 | 0 | 1
+| Sudeep Kanav | 1 | 0 | 0 | 1
+| Luciane Telinski Wiedermann Agner | 1 | 0 | 0 | 1
+| Daniel Ratiu | 1 | 0 | 0 | 1
+| Vaclav Pech | 1 | 0 | 0 | 1
+| Kolja Dummann | 1 | 0 | 0 | 1
+| Alexandr Murashkin | 1 | 0 | 0 | 1
+| Jordan A. Ross | 1 | 0 | 0 | 1
+| Nitzan Pomerantz | 1 | 0 | 0 | 1
+| Rafi Shalom | 1 | 0 | 0 | 1
+| Qusai Ramadan | 1 | 0 | 0 | 1
+| Mattia Salnitri | 1 | 0 | 0 | 1
+| Timur Saglam | 1 | 0 | 0 | 1
+| Ralf H. Reussner | 1 | 0 | 0 | 1
+| Max E. Kramer | 1 | 0 | 0 | 1
+| Michael Langhammer | 1 | 0 | 0 | 1
+| Heiko Klare | 1 | 0 | 0 | 1
+| Francis Bourdeleau | 1 | 0 | 0 | 1
+| Timo Gutjahr | 1 | 0 | 0 | 1
+| Soichiro Hidaka | 1 | 0 | 0 | 1
+| Corrado Motta | 1 | 0 | 0 | 1
+| Darko Durisic | 1 | 0 | 0 | 1
+| Ulyana Tikhonova | 1 | 0 | 0 | 1
+| Diego Vaquero-Melchor | 1 | 0 | 0 | 1
+| Javier Palomares | 1 | 0 | 0 | 1
+| Julia Rubin | 1 | 0 | 0 | 1
+| Thomas Degueule | 1 | 0 | 0 | 1
+| Manuel Leduc | 1 | 0 | 0 | 1
+| Sergey Zverlov | 1 | 0 | 0 | 1
+| St&eacute;phane Duprat | 1 | 0 | 0 | 1
+| Virginie Wiels | 1 | 0 | 0 | 1
+| Qiang Lin | 1 | 0 | 0 | 1
+| Wei Yao | 1 | 0 | 0 | 1
+| Xing Chen | 1 | 0 | 0 | 1
+| Xiaodong Zhang  | 1 | 0 | 0 | 1
+| Patrick Rempel | 1 | 0 | 0 | 1
+| Tobias Kuschke | 1 | 0 | 0 | 1
+| Benjamin A. Mechling | 1 | 0 | 0 | 1
+| Hector Miguel Chavez | 1 | 0 | 0 | 1
+| Wuwei Shen | 1 | 0 | 0 | 1
+| Adrian Fernandez | 1 | 0 | 0 | 1
+| Mark Rouncefield | 1 | 0 | 0 | 1
+| H&aring;kan Burden | 1 | 0 | 0 | 1
+| John Edward Hutchinson | 1 | 0 | 0 | 1
+| Christian Saad | 1 | 0 | 0 | 1
+| Bernhard Bauer | 1 | 0 | 0 | 1
+| Omar Alam | 1 | 0 | 0 | 1
+| Florian Mantz | 1 | 0 | 0 | 1
+| Marc-Florian Wendland | 1 | 0 | 0 | 1
+| Martin A. Schneider | 1 | 0 | 0 | 1
+| Wuliang Sun | 1 | 0 | 0 | 1
+| Shuai Wang  | 1 | 0 | 0 | 1
+| Arnaud Gotlieb | 1 | 0 | 0 | 1
+| Marius Liaaen | 1 | 0 | 0 | 1
+| Fr&eacute;d&eacute;ric Cuppens | 1 | 0 | 0 | 1
+| Nora Cuppens-Boulahia | 1 | 0 | 0 | 1
+| Joaqu&iacute;n Garc&iacute;a-Alfaro | 1 | 0 | 0 | 1
+| Juan Jos&eacute; Cadavid | 1 | 0 | 0 | 1
+| Nikolaos Drivalos Matragkas | 1 | 0 | 0 | 1
+| Martins Francis | 1 | 0 | 0 | 1
+| Adam Neal | 1 | 0 | 0 | 1
+| Kayhan M. Imre | 1 | 0 | 0 | 1
+| Ethem Arkin | 1 | 0 | 0 | 1
+| Bedir Tekinerdogan | 1 | 0 | 0 | 1
+| Laurent Wouters | 1 | 0 | 0 | 1
+| David Lindecker | 1 | 0 | 0 | 1
+| Gabor Simko | 1 | 0 | 0 | 1
+| Laurent Thiry | 1 | 0 | 0 | 1
+| Germain Forestier | 1 | 0 | 0 | 1
+| Brice Wittmann | 1 | 0 | 0 | 1
+| Karolina Zurowska | 1 | 0 | 0 | 1
+| Dominik Holling | 1 | 0 | 0 | 1
+| Robert Eschbach | 1 | 0 | 0 | 1
+| Matthias Gemmar | 1 | 0 | 0 | 1
+| Nicole Alicia Rossini | 1 | 0 | 0 | 1
+| Roberto E. Lopez-Herrejon | 1 | 0 | 0 | 1
+| Andreas Demuth | 1 | 0 | 0 | 1
+| Stephen Barrett | 1 | 0 | 0 | 1
+| Aidan Clarke | 1 | 0 | 0 | 1
+| Mathieu Acher | 1 | 0 | 0 | 1
+| Zhiqiang Fan | 1 | 0 | 0 | 1
+| Li Zhang 0029 | 1 | 0 | 0 | 1
+| Kunming Nie | 1 | 0 | 0 | 1
+| Eric Latimer | 1 | 0 | 0 | 1
+| Florian Stallmann | 1 | 0 | 0 | 1
+| Andreas Seibel | 1 | 0 | 0 | 1
+| Syed Abbas | 1 | 0 | 0 | 1
+| Thomas Hilpold | 1 | 0 | 0 | 1
+| Phani Upadrasta | 1 | 0 | 0 | 1
+| Assia Alexandrova | 1 | 0 | 0 | 1
+| Borislav Iordanov | 1 | 0 | 0 | 1
+| Andrew Fish | 1 | 0 | 0 | 1
+| Faiez Zalila | 1 | 0 | 0 | 1
+| Marc Pantel | 1 | 0 | 0 | 1
+| Hassene Choura | 1 | 0 | 0 | 1
+| Bernhard Sch&auml;tz | 1 | 0 | 0 | 1
+| Benjamin Hummel | 1 | 0 | 0 | 1
+| Bakr Al-Batran | 1 | 0 | 0 | 1
+| Ali Koudri | 1 | 0 | 0 | 1
+| Daichi Kimura | 1 | 0 | 0 | 1
+| Sayaka Izukura | 1 | 0 | 0 | 1
+| Takao Osaki | 1 | 0 | 0 | 1
+| Jianwen Xiang | 1 | 0 | 0 | 1
+| Kazuo Yanoo | 1 | 0 | 0 | 1
+| Hiroshi Sakaki | 1 | 0 | 0 | 1
+| Mark Sagar | 1 | 0 | 0 | 1
+| Robin Drogemuller | 1 | 0 | 0 | 1
+| Brahim Hamid | 1 | 0 | 0 | 1
+| Sigrid G&uuml;rgens | 1 | 0 | 0 | 1
+| Christophe Jouvray | 1 | 0 | 0 | 1
+| Nicolas Desnos | 1 | 0 | 0 | 1
+| Michael Kifer | 1 | 0 | 0 | 1
+| Ingo Feinerer | 1 | 0 | 0 | 1
+| Tanja Sisel | 1 | 0 | 0 | 1
+| Gernot Salzer | 1 | 0 | 0 | 1
+| Sebastian Oster | 1 | 0 | 0 | 1
+| Harald Cichos | 1 | 0 | 0 | 1
+| Weizhong Shao | 1 | 0 | 0 | 1
+| Andrea De Lucia | 1 | 0 | 0 | 1
+| Gabriele Bavota | 1 | 0 | 0 | 1
+| Rocco Oliveto | 1 | 0 | 0 | 1
+| Michael Tschernuth | 1 | 0 | 0 | 1
+| Rene Mayrhofer | 1 | 0 | 0 | 1
+| Michael Lettner | 1 | 0 | 0 | 1
+| Nina Moebius | 1 | 0 | 0 | 1
+| Kurt Stenzel | 1 | 0 | 0 | 1
+| Wolfgang Reif | 1 | 0 | 0 | 1
+| Motohiro Akiyama | 1 | 0 | 0 | 1
+| Takashi Kobayashi | 1 | 0 | 0 | 1
+| Kenneth Lind | 1 | 0 | 0 | 1
+| Mireille Blay-Fornarino | 1 | 0 | 0 | 1
+| Mickael Clavreul | 1 | 0 | 0 | 1
+| Inmaculada Medina-Bulo | 1 | 0 | 0 | 1
+| Axel Legay | 1 | 0 | 0 | 1
+| Uli Fahrenberg | 1 | 0 | 0 | 1
+| Adam C. Jensen | 1 | 0 | 0 | 1
+| Edward C. Nelson | 1 | 0 | 0 | 1
+| Uday Ramteerthkar | 1 | 0 | 0 | 1
+| Ajay Krishnan | 1 | 0 | 0 | 1
+| Rixin Zhang | 1 | 0 | 0 | 1
+| Lionel Roucoules | 1 | 0 | 0 | 1
+| Mehdi Iraqi-Houssaini | 1 | 0 | 0 | 1
+| Francesco Di Cerbo | 1 | 0 | 0 | 1
+| Gabriella Dodero | 1 | 0 | 0 | 1
+| Alain Beaulieu | 1 | 0 | 0 | 1
+| Yann Moffett | 1 | 0 | 0 | 1
+| Javier Espinazo-Pag&aacute;n | 1 | 0 | 0 | 1
+| Silvia E. Gordillo | 1 | 0 | 0 | 1
+| Johan Fabry | 1 | 0 | 0 | 1
+| Arturo Zambrano | 1 | 0 | 0 | 1
+| Sebastian G&ouml;tz | 1 | 0 | 0 | 1
+| Marian Petre | 1 | 0 | 0 | 1
+| Wisam Al Abed | 1 | 0 | 0 | 1
+| Mauro Luigi Drago | 1 | 0 | 0 | 1
+| Raffaela Mirandola | 1 | 0 | 0 | 1
+| Sanjay V. Rajopadhye | 1 | 0 | 0 | 1
+| Tomofumi Yuki | 1 | 0 | 0 | 1
+| Steven Derrien | 1 | 0 | 0 | 1
+| Clement Guy | 1 | 0 | 0 | 1
+| Antoine Floch | 1 | 0 | 0 | 1
+| David Lugato | 1 | 0 | 0 | 1
+| Marc Palyart | 1 | 0 | 0 | 1
+| Matthias Hauswirth | 1 | 0 | 0 | 1
+| Dmitrijs Zaparanuks | 1 | 0 | 0 | 1
+| Thomas A. Henzinger | 1 | 0 | 0 | 1
+| Yaniv Sa'ar | 1 | 0 | 0 | 1
+| C. Albert Thompson | 1 | 0 | 0 | 1
+| Oliver Hofrichter | 1 | 0 | 0 | 1
+| Doo-Hwan Bae | 1 | 0 | 0 | 1
+| Eunkyoung Jee | 1 | 0 | 0 | 1
+| Donghwan Shin  | 1 | 0 | 0 | 1
+| Karlheinz Bulheller | 1 | 0 | 0 | 1
+| Nicolaus von Baillou | 1 | 0 | 0 | 1
+| El Arbi Aboussoror | 1 | 0 | 0 | 1
+| Andrei Varanovich | 1 | 0 | 0 | 1
+| Jean-Marie Favre | 1 | 0 | 0 | 1
+| Anne Grete Eldegard | 1 | 0 | 0 | 1
+| Torbj&oslash;rn Syversen | 1 | 0 | 0 | 1
+| Vincent Aranega | 1 | 0 | 0 | 1
+| Anne Etien | 1 | 0 | 0 | 1
+| Razieh Behjati | 1 | 0 | 0 | 1
+| Davide Falessi | 1 | 0 | 0 | 1
+| Nikolaj Bj&oslash;rner | 1 | 0 | 0 | 1
+| Jim Arlow | 1 | 0 | 0 | 1
+| Gunnar Schulze | 1 | 0 | 0 | 1
+| Wendy MacCaull | 1 | 0 | 0 | 1
+| Vivien Suen | 1 | 0 | 0 | 1
+| Christina Chavez | 1 | 0 | 0 | 1
+| Stefano Di Alesio | 1 | 0 | 0 | 1
+| Xavier Dolques | 1 | 0 | 0 | 1
+| Hajer Saada | 1 | 0 | 0 | 1
+| Gerald Holl | 1 | 0 | 0 | 1
+| Wolfgang Heider | 1 | 0 | 0 | 1
+| Pete Sawyer | 1 | 0 | 0 | 1
+| Xavier Thirioux | 1 | 0 | 0 | 1
+| Heike Wehrheim | 1 | 0 | 0 | 1
+| Galina Besova | 1 | 0 | 0 | 1
+| Steffen Becker  | 1 | 0 | 0 | 1
+| Sven Walther | 1 | 0 | 0 | 1
+| Arber Borici | 1 | 0 | 0 | 1
+| Daniela E. Damian | 1 | 0 | 0 | 1
+| Jorge Aranda | 1 | 0 | 0 | 1
+| Rolf-Helge Pfeiffer | 1 | 0 | 0 | 1
+| Chris Shaver | 1 | 0 | 0 | 1
+| Julia Schroeter | 1 | 0 | 0 | 1
+| Tim Winkelmann | 1 | 0 | 0 | 1
+| &Aacute;bel Heged&uuml;s | 1 | 0 | 0 | 1
+| Frank R. Burton | 1 | 0 | 0 | 1
+| Stefan Kastenholz | 1 | 0 | 0 | 1
+| Konrad Voigt | 1 | 0 | 0 | 1
+| Birgit Grammel | 1 | 0 | 0 | 1
+| Erwan Daubert | 1 | 0 | 0 | 1
+| No&euml;l Plouzeau | 1 | 0 | 0 | 1
+| Michele Risi | 1 | 0 | 0 | 1
+| Alexander Reder | 1 | 0 | 0 | 1
+| Joachim Fischer | 1 | 0 | 0 | 1
+| Markus Scheidgen | 1 | 0 | 0 | 1
+| Thomas H. Kolbe | 1 | 0 | 0 | 1
+| Anatolij Zubow | 1 | 0 | 0 | 1
+| Germ&aacute;n H. Alf&eacute;rez | 1 | 0 | 0 | 1
+| Zille Huma | 1 | 0 | 0 | 1
+| Oliver Juwig | 1 | 0 | 0 | 1
+| Alix Mougenot | 1 | 0 | 0 | 1
+| Jorge Ressia | 1 | 0 | 0 | 1
+| Marcus Denker | 1 | 0 | 0 | 1
+| Markus Luckey | 1 | 0 | 0 | 1
+| Pamela Zave | 1 | 0 | 0 | 1
+| Stefan Berger | 1 | 0 | 0 | 1
+| Mirko Seifert | 1 | 0 | 0 | 1
+| Stephan Sommer | 1 | 0 | 0 | 1
+| Birgit Penzenstadler | 1 | 0 | 0 | 1
+| Manfred Broy | 1 | 0 | 0 | 1
+| Daniel M&eacute;ndez Fern&aacute;ndez | 1 | 0 | 0 | 1
+| Marco Kuhrmann | 1 | 0 | 0 | 1
+| Patrick K&ouml;nemann | 1 | 0 | 0 | 1
+| Hamid Bagheri | 1 | 0 | 0 | 1
+| Kevin J. Sullivan | 1 | 0 | 0 | 1
+| Francisco Jos&eacute; Garc&iacute;a Izquierdo | 1 | 0 | 0 | 1
+| Emilio Rodriguez Priego | 1 | 0 | 0 | 1
+| &Aacute;ngel Luis Rubio | 1 | 0 | 0 | 1
+| Shekoufeh Kolahdouz Rahimi | 1 | 0 | 0 | 1
+| Kevin Lano | 1 | 0 | 0 | 1
+| Jos Warmer | 1 | 0 | 0 | 1
+| Jurgen J. Vinju | 1 | 0 | 0 | 1
+| Vincent Lussenburg | 1 | 0 | 0 | 1
+| Markus Voelter | 1 | 0 | 0 | 1
+| Tirdad Rahmani | 1 | 0 | 0 | 1
+| Daniel Oberle | 1 | 0 | 0 | 1
+| Marco Dahms | 1 | 0 | 0 | 1
+| Harrick M. Vin | 1 | 0 | 0 | 1
+| Taylor L. Rich&eacute; | 1 | 0 | 0 | 1
+| Shahram Esmaeilsabzali | 1 | 0 | 0 | 1
+| Grzegorz Loniewski | 1 | 0 | 0 | 1
+| Saad bin Abid | 1 | 0 | 0 | 1
+| Goetz Botterweck | 1 | 0 | 0 | 1
+| Jane Cleland-Huang | 1 | 0 | 0 | 1
+| Birger M&oslash;ller-Pedersen | 1 | 0 | 0 | 1
+| Ole Lehrmann Madsen | 1 | 0 | 0 | 1
+| Zolt&aacute;n Balogh 0003 | 1 | 0 | 0 | 1
+| Andr&aacute;s Balogh | 1 | 0 | 0 | 1
+| Andr&aacute;s &Ouml;kr&ouml;s | 1 | 0 | 0 | 1
+| Kelly Garc&eacute;s | 1 | 0 | 0 | 1
+| Jo&atilde;o Pascoal Faria | 1 | 0 | 0 | 1
+| Ant&oacute;nio Miguel Rosado da Cruz | 1 | 0 | 0 | 1
+| Michael Thiele | 1 | 0 | 0 | 1
+| Christian Wende | 1 | 0 | 0 | 1
+| Christian Krause  | 1 | 0 | 0 | 1
+| Dirk Reiss | 1 | 0 | 0 | 1
+| Lukman bin A. B. Rahim | 1 | 0 | 0 | 1
+| Osmar Marchi dos Santos | 1 | 0 | 0 | 1
+| Bo Wang | 1 | 0 | 0 | 1
+| Tripti Saxena | 1 | 0 | 0 | 1
+| Matthias Heinrich  | 1 | 0 | 0 | 1
+| Arne Schramm | 1 | 0 | 0 | 1
+| Lars Vogel | 1 | 0 | 0 | 1
+| Andr&eacute; Preu&szlig;ner | 1 | 0 | 0 | 1
+| Bernhard Peischl | 1 | 0 | 0 | 1
+| Christian Schwarzl | 1 | 0 | 0 | 1
+| Hauke Fuhrmann | 1 | 0 | 0 | 1
+| Viviane Torres da Silva | 1 | 0 | 0 | 1
+| Andrew Diniz da Costa | 1 | 0 | 0 | 1
+| Shin'ichi Shiraishi | 1 | 0 | 0 | 1
+| Phu Hong Nguyen | 1 | 0 | 0 | 1
+| Thomas Heyman | 1 | 0 | 0 | 1
+| Koen Yskout | 1 | 0 | 0 | 1
+| Christoph Hilken | 1 | 0 | 0 | 1
+| Jan Peleska  | 1 | 0 | 0 | 1
+| Yosser El Ahmar | 1 | 0 | 0 | 1
+| C&eacute;dric Dumoulin | 1 | 0 | 0 | 1
+| Luigi Alfredo Grieco | 1 | 0 | 0 | 1
+| Thierry Monteil  | 1 | 0 | 0 | 1
+| Patricia Stolf | 1 | 0 | 0 | 1
+| C&eacute;dric Eichler | 1 | 0 | 0 | 1
+| Khalil Drira | 1 | 0 | 0 | 1
+| Christoph Seidl  | 1 | 0 | 0 | 1
+| Jens Schneider | 1 | 0 | 0 | 1
+| Daniel Perovich | 1 | 0 | 0 | 1
+| Jocelyn Simmonds | 1 | 0 | 0 | 1
+| Mar&iacute;a Cecilia Bastarrica | 1 | 0 | 0 | 1
+| Luis Silvestre | 1 | 0 | 0 | 1
+| Valerio Panzica La Manna | 1 | 0 | 0 | 1
+| Itai Segall | 1 | 0 | 0 | 1
+| Nicolas Sannier | 1 | 0 | 0 | 1
+| Sebastian Roidl | 1 | 0 | 0 | 1
+| Markus Look | 1 | 0 | 0 | 1
+| Timo Greifenberg | 1 | 0 | 0 | 1
+| Ralph Gerbig | 1 | 0 | 0 | 1
+| Carlos Moreno 0002 | 1 | 0 | 0 | 1
+| Sebastian Fischmeister | 1 | 0 | 0 | 1
+| Aymen Ketata | 1 | 0 | 0 | 1
+| Juergen Etzlstorfer | 1 | 0 | 0 | 1
+| Michel A. Reniers | 1 | 0 | 0 | 1
+| Jeroen Voeten | 1 | 0 | 0 | 1
+| Marc Geilen | 1 | 0 | 0 | 1
+| Twan Basten | 1 | 0 | 0 | 1
+| Bram van der Sanden | 1 | 0 | 0 | 1
+| Johan Jacobs | 1 | 0 | 0 | 1
+| Ana M. Fern&aacute;ndez-S&aacute;ez | 1 | 0 | 0 | 1
+| Matthew Stephan | 1 | 0 | 0 | 1
+| Herbert Pr&auml;hofer | 1 | 0 | 0 | 1
+| Klaus Eder | 1 | 0 | 0 | 1
+| Romain Rouvoy | 1 | 0 | 0 | 1
+| Lionel Seinturier | 1 | 0 | 0 | 1
+| Sidra Iftikhar | 1 | 0 | 0 | 1
+| Wardah Mahmood | 1 | 0 | 0 | 1
+| Ines Hajri | 1 | 0 | 0 | 1
+| Thierry Stephany | 1 | 0 | 0 | 1
+| Arda Goknil | 1 | 0 | 0 | 1
+| Katrin H&ouml;lldobler | 1 | 0 | 0 | 1
+| Vajih Montaghami | 1 | 0 | 0 | 1
+| Derek Rayside | 1 | 0 | 0 | 1
+| Inge Hanschke | 1 | 0 | 0 | 1
+| Christian M. Schweda | 1 | 0 | 0 | 1
+| Matthias Farwick | 1 | 0 | 0 | 1
+| Ramesh S. | 1 | 0 | 0 | 1
+| Steve M. Easterbrook | 1 | 0 | 0 | 1
+| Balbir S. Barn | 1 | 0 | 0 | 1
+| Jacilane Rabelo | 1 | 0 | 0 | 1
+| Ana Carolina Oran | 1 | 0 | 0 | 1
+| Natasha Malveira Costa Valentim | 1 | 0 | 0 | 1
+| Sabrina Marczak | 1 | 0 | 0 | 1
+| Tayana Conte | 1 | 0 | 0 | 1
+| Amal Khalil | 1 | 0 | 0 | 1
+| Paola Vallejo | 1 | 0 | 0 | 1
+| Kevin J. M. Martin | 1 | 0 | 0 | 1
+| Micka&euml;l Kerboeuf | 1 | 0 | 0 | 1
+| Jean-Philippe Babau | 1 | 0 | 0 | 1
+| Maikel Leemans | 1 | 0 | 0 | 1
+| Philipp Niemann | 1 | 0 | 0 | 1
+| J. Andres Diaz-Pace | 1 | 0 | 0 | 1
+| Claudia A. Marcos | 1 | 0 | 0 | 1
+| Alejandro Rago | 1 | 0 | 0 | 1
+| Jun Sun  | 1 | 0 | 0 | 1
+| Yang Liu 0003 | 1 | 0 | 0 | 1
+| Jin Song Dong | 1 | 0 | 0 | 1
+| Mikhail Auguston | 1 | 0 | 0 | 1
+| Songzheng Song | 1 | 0 | 0 | 1
+| Tieming Chen | 1 | 0 | 0 | 1
+| John C. Grundy | 1 | 0 | 0 | 1
+| Mohamed Almorsy | 1 | 0 | 0 | 1
+| Tuong Huan Nguyen | 1 | 0 | 0 | 1
+| Ana Pescador | 1 | 0 | 0 | 1
+| Bentley James Oakes | 1 | 0 | 0 | 1
+| Matias Ezequiel Vara Larsen | 1 | 0 | 0 | 1
+| Julien DeAntoni | 1 | 0 | 0 | 1
+| G&aacute;bor Ferenc Kov&aacute;cs | 1 | 0 | 0 | 1
+| Tibor Gregorics | 1 | 0 | 0 | 1
+| Gergely D&eacute;vai | 1 | 0 | 0 | 1
+| Andr&aacute;s Dobreff | 1 | 0 | 0 | 1
+| Bal&aacute;zs Gregorics | 1 | 0 | 0 | 1
+| Tuhin Kanti Das | 1 | 0 | 0 | 1
+| Nuno Am&aacute;lio | 1 | 0 | 0 | 1
+| Nima Kaviani | 1 | 0 | 0 | 1
+| Andreas Pleuss | 1 | 0 | 0 | 1
+| Heinrich Hussmann | 1 | 0 | 0 | 1
+| Arnd Vitzthum | 1 | 0 | 0 | 1
+| Alain Nicolas | 1 | 0 | 0 | 1
+| Erwan Breton | 1 | 0 | 0 | 1
+| Fr&eacute;d&eacute;ric Massicotte | 1 | 0 | 0 | 1
+| Mathieu Couture | 1 | 0 | 0 | 1
+| Matthias M. H&ouml;lzl | 1 | 0 | 0 | 1
+| Alexander Knapp | 1 | 0 | 0 | 1
+| Gefei Zhang | 1 | 0 | 0 | 1
+| Gregory Zoughbi | 1 | 0 | 0 | 1
+| Vina Ermagan | 1 | 0 | 0 | 1
+| Ingolf H. Kr&uuml;ger | 1 | 0 | 0 | 1
+| Scott Wallace | 1 | 0 | 0 | 1
+| Orest Pilskalns | 1 | 0 | 0 | 1
+| Filaret Ilas | 1 | 0 | 0 | 1
+| Minmin Han | 1 | 0 | 0 | 1
+| Christine Hofmeister | 1 | 0 | 0 | 1
+| Kurt C. Wallnau | 1 | 0 | 0 | 1
+| Peter Lee  | 1 | 0 | 0 | 1
+| Noam Zeilberger | 1 | 0 | 0 | 1
+| James Ivers | 1 | 0 | 0 | 1
+| Geri Georg | 1 | 0 | 0 | 1
+| Kyriakos Anastasakis | 1 | 0 | 0 | 1
+| Steffen Prochnow | 1 | 0 | 0 | 1
+| Bert Vanhooff | 1 | 0 | 0 | 1
+| Dhouha Ayed | 1 | 0 | 0 | 1
+| Yolande Berbers | 1 | 0 | 0 | 1
+| Stefan Van Baelen | 1 | 0 | 0 | 1
+| Charles Andr&eacute; | 1 | 0 | 0 | 1
+| Robert de Simone | 1 | 0 | 0 | 1
+| Donglin Liang | 1 | 0 | 0 | 1
+| Kai Xu 0002 | 1 | 0 | 0 | 1
+| Rodrigo Ramos | 1 | 0 | 0 | 1
+| Holger Kampffmeyer | 1 | 0 | 0 | 1
+| Brian E. Mastenbrook | 1 | 0 | 0 | 1
+| David Nelson | 1 | 0 | 0 | 1
+| Aswin van den Berg | 1 | 0 | 0 | 1
+| Paul Dietz | 1 | 0 | 0 | 1
+| Chokri Mraidha | 1 | 0 | 0 | 1
+| David A. Basin | 1 | 0 | 0 | 1
+| Sara Comai | 1 | 0 | 0 | 1
+| Mark Hibberd | 1 | 0 | 0 | 1
+| Rasheed Rabbi | 1 | 0 | 0 | 1
+| Lukas Renggli | 1 | 0 | 0 | 1
+| Markku Turunen | 1 | 0 | 0 | 1
+| Sari Lepp&auml;nen | 1 | 0 | 0 | 1
+| Kari Lepp&auml;nen | 1 | 0 | 0 | 1
+| Domonkos Asztalos | 1 | 0 | 0 | 1
+| Gabor Batori | 1 | 0 | 0 | 1
+| Zolt&aacute;n Theisz | 1 | 0 | 0 | 1
+| Cl&aacute;udia Werner | 1 | 0 | 0 | 1
+| M&aacute;rcio de Oliveira Barros | 1 | 0 | 0 | 1
+| Alexandre L. Correa | 1 | 0 | 0 | 1
+| Silvia Mara Abrah&atilde;o | 1 | 0 | 0 | 1
+| Emilia Mendes | 1 | 0 | 0 | 1
+| Thejaswini Ramachandra | 1 | 0 | 0 | 1
+| Noi Sukaviriya | 1 | 0 | 0 | 1
+| Vibha Sinha | 1 | 0 | 0 | 1
+| Alexandre Denault | 1 | 0 | 0 | 1
+| Steven V&ouml;lkel | 1 | 0 | 0 | 1
+| Holger Krahn | 1 | 0 | 0 | 1
+| Marc Delbaere | 1 | 0 | 0 | 1
+| Simon K. Johnston | 1 | 0 | 0 | 1
+| Alan W. Brown | 1 | 0 | 0 | 1
+| Xulin Zhao | 1 | 0 | 0 | 1
+| Jen Hawkins | 1 | 0 | 0 | 1
+| Bhadri Madapusi | 1 | 0 | 0 | 1
+| Ying Zou  | 1 | 0 | 0 | 1
+| Katja Tuma | 1 | 0 | 0 | 1
+| Sam Procter | 1 | 0 | 0 | 1
+| Lutz Wrage | 1 | 0 | 0 | 1
+| Assylbek Jumagaliyev | 1 | 0 | 0 | 1
+| Yehia Elkhatib | 1 | 0 | 0 | 1
+| Ifrah Qaisar | 1 | 0 | 0 | 1
+| Fitash Ul Haq | 1 | 0 | 0 | 1
+| Hassan Sartaj | 1 | 0 | 0 | 1
+| Eric Sax | 1 | 0 | 0 | 1
+| Stefan Kugele | 1 | 0 | 0 | 1
+| Philipp Obergfell | 1 | 0 | 0 | 1
+| Gopi Krishnan Rajbahadur | 1 | 0 | 0 | 1
+| Gustavo Ansaldi Oliva | 1 | 0 | 0 | 1
+| Ahmed E. Hassan | 1 | 0 | 0 | 1
+| Sebastian Nickels | 1 | 0 | 0 | 1
+| Thomas Timmermanns | 1 | 0 | 0 | 1
+| Svetlana Pavlitskaya | 1 | 0 | 0 | 1
+| Amr Hany Saleh | 1 | 0 | 0 | 1
+| Tom Schrijvers | 1 | 0 | 0 | 1
+| Mike Nicolai | 1 | 0 | 0 | 1
+| C&eacute;sar Augusto Ribeiro dos Santos | 1 | 0 | 0 | 1
+| Csaba Hajdu | 1 | 0 | 0 | 1
+| Zolt&aacute;n Micskei | 1 | 0 | 0 | 1
+| Zolt&aacute;n Szatm&aacute;ri | 1 | 0 | 0 | 1
+| Istv&aacute;n Majzik | 1 | 0 | 0 | 1
+| Aren A. Babikian | 1 | 0 | 0 | 1
+| Andr&aacute;s V&ouml;r&ouml;s  | 1 | 0 | 0 | 1
+| Ennio Visconti | 1 | 0 | 0 | 1
+| Christos Tsigkanos | 1 | 0 | 0 | 1
+| Cedric Schockaert | 1 | 0 | 0 | 1
+| Thomas Brand | 1 | 0 | 0 | 1
+| Andre Santos | 1 | 0 | 0 | 1
+| Bj&ouml;rn Kahl | 1 | 0 | 0 | 1
+| Mirko Bordignon | 1 | 0 | 0 | 1
+| Mathias L&uuml;dtke | 1 | 0 | 0 | 1
+| Ludovic Delval | 1 | 0 | 0 | 1
+| Nadia Hammoudeh Garcia | 1 | 0 | 0 | 1
+| Wolf Rost | 1 | 0 | 0 | 1
+| Dennis Priefer | 1 | 0 | 0 | 1
+| Peter Kneisel | 1 | 0 | 0 | 1
+| Stefan John  | 1 | 0 | 0 | 1
+| Alexandru Burdusel | 1 | 0 | 0 | 1
+| Beatriz Sanchez Pi&ntilde;a | 1 | 0 | 0 | 1
+| Juan Marcelo Parra Ullauri | 1 | 0 | 0 | 1
+| M&aacute;rton B&uacute;r | 1 | 0 | 0 | 1
+| Annapaola Marconi | 1 | 0 | 0 | 1
+| Jean-Richard Riccardi | 1 | 0 | 0 | 1
+| Mauricio Alf&eacute;rez | 1 | 0 | 0 | 1
+| Fabrizio Pastore | 1 | 0 | 0 | 1
+| Peter Goes | 1 | 0 | 0 | 1
+| Damiano Torre | 1 | 0 | 0 | 1
+| Yuri Auffinger | 1 | 0 | 0 | 1
+| &Aacute;gnes Sal&aacute;nki | 1 | 0 | 0 | 1
+| Zsolt Kov&aacute;ri | 1 | 0 | 0 | 1
+| Ingrid Chieh Yu | 1 | 0 | 0 | 1
+| Jesper Derehag | 1 | 0 | 0 | 1
+| Katrina E. Falkner | 1 | 0 | 0 | 1
+| Vanea Chiprianov | 1 | 0 | 0 | 1
+| Claudia Szabo | 1 | 0 | 0 | 1
+| Endre T. Somogyi | 1 | 0 | 0 | 1
+| James A. Glazier | 1 | 0 | 0 | 1
+| James P. Sluka | 1 | 0 | 0 | 1
+| Miguel Angel Fern&aacute;ndez | 1 | 0 | 0 | 1
+| Gregorio Robles | 1 | 0 | 0 | 1
+| Andreas Wagner | 1 | 0 | 0 | 1
+| Christian Prehofer | 1 | 0 | 0 | 1
+| Yucheng Jin | 1 | 0 | 0 | 1
+| Suchita Ganesan | 1 | 0 | 0 | 1
+| Leo Jweda | 1 | 0 | 0 | 1
+| Nondini Das | 1 | 0 | 0 | 1
+| Nicolas Hili | 1 | 0 | 0 | 1
+| Valentin Cassano | 1 | 0 | 0 | 1
+| Audris Kalnins | 1 | 0 | 0 | 1
+| Janis Barzdins | 1 | 0 | 0 | 1
+| Chao Liu | 1 | 0 | 0 | 1
+| Huihui Zhang | 1 | 0 | 0 | 1
+| Calypso Barnes | 1 | 0 | 0 | 1
+| Fran&ccedil;ois Verdier | 1 | 0 | 0 | 1
+| Jean-Marie Cottin | 1 | 0 | 0 | 1
+| Alain Pegatoquet | 1 | 0 | 0 | 1
+| Daniel Tuchscherer | 1 | 0 | 0 | 1
+| Frank Tr&auml;nkle | 1 | 0 | 0 | 1
+| Alexander Weibert | 1 | 0 | 0 | 1
+| Gunter Blache | 1 | 0 | 0 | 1
+| Irina A. Lomazova | 1 | 0 | 0 | 1
+| Vladimir A. Rubin | 1 | 0 | 0 | 1
+| Alessandra Bagnato | 1 | 0 | 0 | 1
+| Antonin Abherve | 1 | 0 | 0 | 1
+| Vlad Acretoaie | 1 | 0 | 0 | 1
+| William I. Grosky | 1 | 0 | 0 | 1
+| Bader Alkhazi | 1 | 0 | 0 | 1
+| Terry Ruas | 1 | 0 | 0 | 1
+| Massimo Tivoli | 1 | 0 | 0 | 1
+| Ulf R&uuml;egg | 1 | 0 | 0 | 1
+| Anand Kodaganur | 1 | 0 | 0 | 1
+| Ashwin Prasad | 1 | 0 | 0 | 1
+| Christoph Daniel Schulze | 1 | 0 | 0 | 1
+| Rajneesh Lakkundi | 1 | 0 | 0 | 1
+| Nafiseh Kahani | 1 | 0 | 0 | 1
+| Sylvain Gu&eacute;rin | 1 | 0 | 0 | 1
+| Christophe Guychard | 1 | 0 | 0 | 1
+| Fabien Dagnat | 1 | 0 | 0 | 1
+| Fahad Rafique Golra | 1 | 0 | 0 | 1
+| Antoine Beugnard | 1 | 0 | 0 | 1
+| Knut Eilif Husa | 1 | 0 | 0 | 1
+| Silvia Schreier | 1 | 0 | 0 | 1
+| J&ouml;rg D&ouml;rr | 1 | 0 | 0 | 1
+| Miao Fang | 1 | 0 | 0 | 1
+| Georg Leyh | 1 | 0 | 0 | 1
+| Zengyang Li | 1 | 0 | 0 | 1
+| Peng Liang  | 1 | 0 | 0 | 1
+| Paris Avgeriou | 1 | 0 | 0 | 1
+| Chetan Arora 0002 | 1 | 0 | 0 | 1
+| Alexandre Nabais-Moreno | 1 | 0 | 0 | 1
+| Martial Chabot | 1 | 0 | 0 | 1
+| Laurence Pierre | 1 | 0 | 0 | 1
+| Alexander Raschke | 1 | 0 | 0 | 1
+| Stefan Karg | 1 | 0 | 0 | 1
+| Annerose Braune | 1 | 0 | 0 | 1
+| Matthias Freund | 1 | 0 | 0 | 1
+| Grady Booch | 1 | 0 | 0 | 1
+| Ulrike Prange | 1 | 0 | 0 | 1
+| Naeem Esfahani | 1 | 0 | 0 | 1
+| Jo&atilde;o Pedro Sousa | 1 | 0 | 0 | 1
+| Daniel A. Menasc&eacute; | 1 | 0 | 0 | 1
+| Sam Malek | 1 | 0 | 0 | 1
+| Vahid Garousi | 1 | 0 | 0 | 1
+| Ketil St&oslash;len | 1 | 0 | 0 | 1
+| Ida Hogganvik | 1 | 0 | 0 | 1
+| Robert Wagner | 1 | 0 | 0 | 1
+| Diego Garc&iacute;a | 1 | 0 | 0 | 1
+| Claudia Pons | 1 | 0 | 0 | 1
+| Torbj&ouml;rn Lundkvist | 1 | 0 | 0 | 1
+| Michael von der Beeck | 1 | 0 | 0 | 1
+| Stephane Kamdoum | 1 | 0 | 0 | 1
+| Anders Mattsson | 1 | 0 | 0 | 1
+| Anna Persson | 1 | 0 | 0 | 1
+| Bj&ouml;rn Lundell | 1 | 0 | 0 | 1
+| Brian Lings | 1 | 0 | 0 | 1
+| Ali Taleghani | 1 | 0 | 0 | 1
+| Ximeng Sun | 1 | 0 | 0 | 1
+| Gabriela Ar&eacute;valo | 1 | 0 | 0 | 1
+| R&eacute;mi Schneckenburger | 1 | 0 | 0 | 1
+| Michel Hassenforder | 1 | 0 | 0 | 1
+| Achim D. Brucker | 1 | 0 | 0 | 1
+| Burkhart Wolff | 1 | 0 | 0 | 1
+| Remco van Engelen | 1 | 0 | 0 | 1
+| Teade Punter | 1 | 0 | 0 | 1
+| Louis van Gool | 1 | 0 | 0 | 1
+| Marc Hamilton | 1 | 0 | 0 | 1
+| Santiago Ceria | 1 | 0 | 0 | 1
+| Juan Jos&eacute; Cukier | 1 | 0 | 0 | 1
+| Tom Mens | 1 | 0 | 0 | 1
+| Antonia Bertolino | 1 | 0 | 0 | 1
+| Alvise Bonivento | 1 | 0 | 0 | 1
+| Guglielmo De Angelis | 1 | 0 | 0 | 1
+| Egidio Astesiano | 1 | 0 | 0 | 1
+| Alanna Zito | 1 | 0 | 0 | 1
+| Karin Coninx | 1 | 0 | 0 | 1
+| Jan Van den Bergh  | 1 | 0 | 0 | 1
+| Geoffrey Watson | 1 | 0 | 0 | 1
+| Tim McComb | 1 | 0 | 0 | 1
+| J&ouml;rn Guy S&uuml;&szlig; | 1 | 0 | 0 | 1
+| Soon-Kyeong Kim | 1 | 0 | 0 | 1
+| Luke Wildman | 1 | 0 | 0 | 1
+| Thomas Reiter | 1 | 0 | 0 | 1
+| Gerhard Kramler | 1 | 0 | 0 | 1
+| Horst Kargl | 1 | 0 | 0 | 1
+| David Hearnden | 1 | 0 | 0 | 1
+| Muhammad Alam | 1 | 0 | 0 | 1
+| Andr&eacute; van der Hoek | 1 | 0 | 0 | 1
+| Bryan Jett | 1 | 0 | 0 | 1
+| Scott A. Hendrickson | 1 | 0 | 0 | 1
+| G&uuml;nter Kuhns | 1 | 0 | 0 | 1
+| Christian K&ouml;hler  | 1 | 0 | 0 | 1
+| Eduard Weiss | 1 | 0 | 0 | 1
+| Karsten Ehrig | 1 | 0 | 0 | 1
+| Irun R. Cohen | 1 | 0 | 0 | 1
+| Christian F. J. Lange | 1 | 0 | 0 | 1
+| Serge Demeyer | 1 | 0 | 0 | 1
+| Bart Du Bois | 1 | 0 | 0 | 1
 | Ferda N. Civelek | 1 | 0 | 1 | 0
 | Charles F. Wagner | 1 | 0 | 1 | 0
 | Po-Jen Chuang | 1 | 0 | 1 | 0
@@ -2553,1486 +4045,6 @@ The following table lists all authors with the number of contributions to the BP
 | Hideko S. Kunii | 1 | 0 | 1 | 0
 | Takako Hashimoto | 1 | 0 | 1 | 0
 | Atsushi Iizawa | 1 | 0 | 1 | 0
-| Jean-Marc J&eacute;z&eacute;quel | 17 | 0 | 0 | 17
-| Dimitrios S. Kolovos | 15 | 0 | 0 | 15
-| D&aacute;niel Varr&oacute; | 15 | 0 | 0 | 15
-| Betty H. C. Cheng | 15 | 0 | 0 | 15
-| Olivier Barais | 14 | 0 | 0 | 14
-| Brice Morin | 12 | 0 | 0 | 12
-| Jon Whittle | 12 | 0 | 0 | 12
-| Beno&icirc;t Combemale | 11 | 0 | 0 | 11
-| Yves Le Traon | 10 | 0 | 0 | 10
-| Benoit Baudry | 10 | 0 | 0 | 10
-| Robert B. France | 10 | 0 | 0 | 10
-| J&ouml;rg Kienzle | 10 | 0 | 0 | 10
-| Franck Fleurey | 10 | 0 | 0 | 10
-| Krzysztof Czarnecki | 9 | 0 | 0 | 9
-| Gabriele Taentzer | 9 | 0 | 0 | 9
-| Houari A. Sahraoui | 9 | 0 | 0 | 9
-| Shahar Maoz | 9 | 0 | 0 | 9
-| Marsha Chechik | 9 | 0 | 0 | 9
-| &Oslash;ystein Haugen | 8 | 0 | 0 | 8
-| Tao Yue 0002 | 8 | 0 | 0 | 8
-| Yvan Labiche | 8 | 0 | 0 | 8
-| J&uuml;rgen Dingel | 8 | 0 | 0 | 8
-| Jes&uacute;s S&aacute;nchez Cuadrado | 8 | 0 | 0 | 8
-| Juergen Dingel | 8 | 0 | 0 | 8
-| Thomas K&uuml;hne | 7 | 0 | 0 | 7
-| Fr&eacute;d&eacute;ric Jouault | 7 | 0 | 0 | 7
-| Arnaud Cuccuru | 7 | 0 | 0 | 7
-| Fran&ccedil;ois Fouquet | 7 | 0 | 0 | 7
-| Istv&aacute;n R&aacute;th | 7 | 0 | 0 | 7
-| Fran&ccedil;ois Terrier | 7 | 0 | 0 | 7
-| Shaukat Ali  | 7 | 0 | 0 | 7
-| Zinovy Diskin | 7 | 0 | 0 | 7
-| Joanne M. Atlee | 7 | 0 | 0 | 7
-| Davide Di Ruscio | 7 | 0 | 0 | 7
-| Xavier Blanc  | 6 | 0 | 0 | 6
-| Andrzej Wasowski | 6 | 0 | 0 | 6
-| Louis M. Rose | 6 | 0 | 0 | 6
-| Friedrich Steimann | 6 | 0 | 0 | 6
-| Thomas Hartmann  | 6 | 0 | 0 | 6
-| Hui Song | 6 | 0 | 0 | 6
-| Jacques Klein | 6 | 0 | 0 | 6
-| Nelly Bencomo | 6 | 0 | 0 | 6
-| Joel Greenyer | 6 | 0 | 0 | 6
-| Jan J&uuml;rjens | 5 | 0 | 0 | 5
-| Jan Oliver Ringert | 5 | 0 | 0 | 5
-| G&aacute;bor Bergmann | 5 | 0 | 0 | 5
-| Daniel Str&uuml;ber  | 5 | 0 | 0 | 5
-| Gang Huang  | 5 | 0 | 0 | 5
-| &Aacute;kos Horv&aacute;th  | 5 | 0 | 0 | 5
-| Rogardt Heldal | 5 | 0 | 0 | 5
-| Heather Goldsby | 5 | 0 | 0 | 5
-| Alexander Egyed | 5 | 0 | 0 | 5
-| Shiva Nejati | 5 | 0 | 0 | 5
-| Gilles Vanwormhoudt | 4 | 0 | 0 | 4
-| Fabian B&uuml;ttner | 4 | 0 | 0 | 4
-| Arnor Solberg | 4 | 0 | 0 | 4
-| Philippe Lahire | 4 | 0 | 0 | 4
-| Michal Smialek | 4 | 0 | 0 | 4
-| Assaad Moawad | 4 | 0 | 0 | 4
-| Michalis Famelis | 4 | 0 | 0 | 4
-| Harald St&ouml;rrle | 4 | 0 | 0 | 4
-| Massimo Tisi | 4 | 0 | 0 | 4
-| Oszk&aacute;r Semer&aacute;th | 4 | 0 | 0 | 4
-| Florian Noyrit | 4 | 0 | 0 | 4
-| Carlos Jos&eacute; Pereira de Lucena | 4 | 0 | 0 | 4
-| Alessandro Garcia | 4 | 0 | 0 | 4
-| Hong Mei | 4 | 0 | 0 | 4
-| Franck Chauvel | 4 | 0 | 0 | 4
-| Antonio Garc&iacute;a-Dom&iacute;nguez | 4 | 0 | 0 | 4
-| Ethan K. Jackson | 4 | 0 | 0 | 4
-| Yingfei Xiong  | 4 | 0 | 0 | 4
-| Jean-Michel Bruel | 4 | 0 | 0 | 4
-| Bran Selic | 4 | 0 | 0 | 4
-| Edward A. Lee | 4 | 0 | 0 | 4
-| Gr&eacute;gory Nain | 4 | 0 | 0 | 4
-| Holger Giese | 4 | 0 | 0 | 4
-| Maged Elaasar | 4 | 0 | 0 | 4
-| Cl&eacute;mentine Nebut | 4 | 0 | 0 | 4
-| Pierre-Alain Muller | 4 | 0 | 0 | 4
-| Miroslaw Staron | 4 | 0 | 0 | 4
-| Ruth Breu | 4 | 0 | 0 | 4
-| Antonio Cicchetti | 4 | 0 | 0 | 4
-| Alfonso Pierantonio | 4 | 0 | 0 | 4
-| Matthias Tichy | 4 | 0 | 0 | 4
-| Malte Lochau | 4 | 0 | 0 | 4
-| Souvik Barat | 4 | 0 | 0 | 4
-| Javier Troya | 4 | 0 | 0 | 4
-| Antonio Vallecillo | 4 | 0 | 0 | 4
-| Marie-Pierre Gervais | 3 | 0 | 0 | 3
-| Hans Vangheluwe | 3 | 0 | 0 | 3
-| Sadaf Mustafiz | 3 | 0 | 0 | 3
-| Marianne Huchard | 3 | 0 | 0 | 3
-| Fr&eacute;d&eacute;ric Fondement | 3 | 0 | 0 | 3
-| Maja D'Hondt | 3 | 0 | 0 | 3
-| Alberto L. Sangiovanni-Vincentelli | 3 | 0 | 0 | 3
-| Douglas C. Schmidt | 3 | 0 | 0 | 3
-| Enrico Biermann | 3 | 0 | 0 | 3
-| Hassan Gomaa | 3 | 0 | 0 | 3
-| Thomas Baar | 3 | 0 | 0 | 3
-| Behzad Bordbar | 3 | 0 | 0 | 3
-| Colin Atkinson  | 3 | 0 | 0 | 3
-| Stefan Jurack | 3 | 0 | 0 | 3
-| Indrakshi Ray | 3 | 0 | 0 | 3
-| Jos&eacute; A. Cruz-Lemus | 3 | 0 | 0 | 3
-| Giuseppe Scanniello | 3 | 0 | 0 | 3
-| Genoveffa Tortora | 3 | 0 | 0 | 3
-| Carmine Gravino | 3 | 0 | 0 | 3
-| Dorina C. Petriu | 3 | 0 | 0 | 3
-| Andy Sch&uuml;rr | 3 | 0 | 0 | 3
-| Alexander Pretschner | 3 | 0 | 0 | 3
-| Don S. Batory | 3 | 0 | 0 | 3
-| Lars Pareto | 3 | 0 | 0 | 3
-| Peter S. Eriksson | 3 | 0 | 0 | 3
-| Csaba Debreceni | 3 | 0 | 0 | 3
-| Sahar Kokaly | 3 | 0 | 0 | 3
-| Perdita Stevens | 3 | 0 | 0 | 3
-| Marina Egea | 3 | 0 | 0 | 3
-| Azzam Maraee | 3 | 0 | 0 | 3
-| Kleinner Farias | 3 | 0 | 0 | 3
-| Tihamer Levendovszky | 3 | 0 | 0 | 3
-| Philippe Collet | 3 | 0 | 0 | 3
-| Sebastien Gerard | 3 | 0 | 0 | 3
-| Wei Zhang 0004 | 3 | 0 | 0 | 3
-| Joanna Chimiak-Opoka | 3 | 0 | 0 | 3
-| Dennis Wagelaar | 3 | 0 | 0 | 3
-| Hartmut Ehrig | 3 | 0 | 0 | 3
-| Frank Hermann  | 3 | 0 | 0 | 3
-| Gianna Reggio | 3 | 0 | 0 | 3
-| Frank Alexander Kraemer | 3 | 0 | 0 | 3
-| Uwe A&szlig;mann | 3 | 0 | 0 | 3
-| Gerd Kainz | 3 | 0 | 0 | 3
-| Alois C. Knoll | 3 | 0 | 0 | 3
-| Christian Buckl | 3 | 0 | 0 | 3
-| Yu Sun 0002 | 3 | 0 | 0 | 3
-| Jeff Gray | 3 | 0 | 0 | 3
-| Paul Gr&uuml;nbacher | 3 | 0 | 0 | 3
-| Fiona A. C. Polack | 3 | 0 | 0 | 3
-| James R. Williams | 3 | 0 | 0 | 3
-| Reda Bendraou | 3 | 0 | 0 | 3
-| Marcos Aur&eacute;lio Almeida da Silva | 3 | 0 | 0 | 3
-| Reinhard von Hanxleden | 3 | 0 | 0 | 3
-| Robert Wille | 3 | 0 | 0 | 3
-| Ghanem Soltana | 3 | 0 | 0 | 3
-| Steffen Zschaler | 3 | 0 | 0 | 3
-| Philippe Dhaussy | 3 | 0 | 0 | 3
-| Konstantinos Barmpis | 3 | 0 | 0 | 3
-| Jules White | 3 | 0 | 0 | 3
-| Athanasios Zolotas | 3 | 0 | 0 | 3
-| Horacio Hoyos Rodriguez | 3 | 0 | 0 | 3
-| Vadim Zaytsev | 3 | 0 | 0 | 3
-| Sebastian Voss | 3 | 0 | 0 | 3
-| Regina Hebig | 3 | 0 | 0 | 3
-| Alessio Di Sandro | 3 | 0 | 0 | 3
-| Marco Di Natale | 3 | 0 | 0 | 3
-| Ina Schaefer | 3 | 0 | 0 | 3
-| Ciprian Teodorov | 3 | 0 | 0 | 3
-| Erwan Bousse | 3 | 0 | 0 | 3
-| Lorena Arcega | 3 | 0 | 0 | 3
-| Antonio Garmendia | 3 | 0 | 0 | 3
-| Phuong T. Nguyen | 3 | 0 | 0 | 3
-| Juri Di Rocco | 3 | 0 | 0 | 3
-| Dimitris S. Kolovos | 3 | 0 | 0 | 3
-| Prawee Sriplakich | 2 | 0 | 0 | 2
-| Michal Antkiewicz | 2 | 0 | 0 | 2
-| Marcus Alanen | 2 | 0 | 0 | 2
-| Ivan Porres | 2 | 0 | 0 | 2
-| Sascha Konrad | 2 | 0 | 0 | 2
-| Jean-R&eacute;my Falleri | 2 | 0 | 0 | 2
-| J&uuml;rgen Doser | 2 | 0 | 0 | 2
-| Piotr Kosiuczenko | 2 | 0 | 0 | 2
-| Fiona Polack | 2 | 0 | 0 | 2
-| Kerry Raymond | 2 | 0 | 0 | 2
-| Michael Lawley | 2 | 0 | 0 | 2
-| Michael Hafner | 2 | 0 | 0 | 2
-| St&eacute;phane Ducasse | 2 | 0 | 0 | 2
-| Tudor G&icirc;rba | 2 | 0 | 0 | 2
-| Slavisa Markovic | 2 | 0 | 0 | 2
-| Jean B&eacute;zivin | 2 | 0 | 0 | 2
-| Tim Schattkowsky | 2 | 0 | 0 | 2
-| Mirco Kuhlmann | 2 | 0 | 0 | 2
-| Claudia Ermel | 2 | 0 | 0 | 2
-| Marouane Kessentini | 2 | 0 | 0 | 2
-| Alban Gaignard | 2 | 0 | 0 | 2
-| Xavier Cr&eacute;gut | 2 | 0 | 0 | 2
-| Anders Hessellund | 2 | 0 | 0 | 2
-| Markus Herrmannsdoerfer | 2 | 0 | 0 | 2
-| Danilo Caivano | 2 | 0 | 0 | 2
-| Oscar Nierstrasz | 2 | 0 | 0 | 2
-| Orla Greevy | 2 | 0 | 0 | 2
-| Eelco Visser | 2 | 0 | 0 | 2
-| Hafedh Mili | 2 | 0 | 0 | 2
-| Ghizlane El-Boussaidi | 2 | 0 | 0 | 2
-| Ernesto Posse | 2 | 0 | 0 | 2
-| Ingo Weisem&ouml;ller | 2 | 0 | 0 | 2
-| Michelle L. Crane | 2 | 0 | 0 | 2
-| Nancy A. Day | 2 | 0 | 0 | 2
-| Mario Cartsburg | 2 | 0 | 0 | 2
-| Nikola Milanovic | 2 | 0 | 0 | 2
-| Ansgar Radermacher | 2 | 0 | 0 | 2
-| Marwa Shousha | 2 | 0 | 0 | 2
-| Maider Azanza | 2 | 0 | 0 | 2
-| Iulian Ober | 2 | 0 | 0 | 2
-| Ariadi Nugroho | 2 | 0 | 0 | 2
-| Sudipto Ghosh | 2 | 0 | 0 | 2
-| Ralf L&auml;mmel | 2 | 0 | 0 | 2
-| Bastian Ulke | 2 | 0 | 0 | 2
-| Michael von Wenckstern | 2 | 0 | 0 | 2
-| Timothy C. Lethbridge | 2 | 0 | 0 | 2
-| Wael Kessentini | 2 | 0 | 0 | 2
-| Edouard Batot | 2 | 0 | 0 | 2
-| Walter Cazzola | 2 | 0 | 0 | 2
-| Mohammed Al-Refai | 2 | 0 | 0 | 2
-| Jia Hui Liang | 2 | 0 | 0 | 2
-| Erik Burger | 2 | 0 | 0 | 2
-| Wei Dou  | 2 | 0 | 0 | 2
-| Domenico Bianculli | 2 | 0 | 0 | 2
-| Gehan M. K. Selim | 2 | 0 | 0 | 2
-| Tijs van der Storm | 2 | 0 | 0 | 2
-| Alexandru Ipatiov | 2 | 0 | 0 | 2
-| Maged Khalil | 2 | 0 | 0 | 2
-| Johannes Eder | 2 | 0 | 0 | 2
-| Carolina Dania | 2 | 0 | 0 | 2
-| Yihan Wu | 2 | 0 | 0 | 2
-| Ying Zhang 0012 | 2 | 0 | 0 | 2
-| Patrick M&auml;der | 2 | 0 | 0 | 2
-| Shige Wang | 2 | 0 | 0 | 2
-| Javier Gonzalez-Huerta | 2 | 0 | 0 | 2
-| Yngve Lamo | 2 | 0 | 0 | 2
-| Thorsten Arendt | 2 | 0 | 0 | 2
-| Martin Faunes | 2 | 0 | 0 | 2
-| Janos Sztipanovits | 2 | 0 | 0 | 2
-| Sandeep Neema | 2 | 0 | 0 | 2
-| Lars Hamann | 2 | 0 | 0 | 2
-| Siobh&aacute;n Clarke | 2 | 0 | 0 | 2
-| Suman Roychoudhury | 2 | 0 | 0 | 2
-| Asha Rajbhoj | 2 | 0 | 0 | 2
-| Sreedhar Reddy | 2 | 0 | 0 | 2
-| Jim Steel | 2 | 0 | 0 | 2
-| Yanchun Sun | 2 | 0 | 0 | 2
-| Shinpei Hayashi | 2 | 0 | 0 | 2
-| Motoshi Saeki | 2 | 0 | 0 | 2
-| Andrea Arcuri | 2 | 0 | 0 | 2
-| Suneth Walawege | 2 | 0 | 0 | 2
-| Martin Fagereng Johansen | 2 | 0 | 0 | 2
-| S&eacute;bastien Mosser  | 2 | 0 | 0 | 2
-| Andres J. Ramirez | 2 | 0 | 0 | 2
-| Daniel Balasubramanian | 2 | 0 | 0 | 2
-| Fernando Orejas | 2 | 0 | 0 | 2
-| Mathias Kleiner | 2 | 0 | 0 | 2
-| Filippo Ricca | 2 | 0 | 0 | 2
-| Claas Wilke | 2 | 0 | 0 | 2
-| Jan Reimann 0002 | 2 | 0 | 0 | 2
-| Olivier Beaudoux | 2 | 0 | 0 | 2
-| Arnaud Blouin | 2 | 0 | 0 | 2
-| Carlo Ghezzi | 2 | 0 | 0 | 2
-| Wolfram Schulte | 2 | 0 | 0 | 2
-| Ileana Ober | 2 | 0 | 0 | 2
-| Adrian Kuhn | 2 | 0 | 0 | 2
-| Gail C. Murphy | 2 | 0 | 0 | 2
-| Carlos A. Gonz&aacute;lez | 2 | 0 | 0 | 2
-| Andrea Sindico | 2 | 0 | 0 | 2
-| Fazle Rabbi | 2 | 0 | 0 | 2
-| Michael Vierhauser | 2 | 0 | 0 | 2
-| Daniela Lettner | 2 | 0 | 0 | 2
-| Muhammad Zohaib Z. Iqbal | 2 | 0 | 0 | 2
-| Jacques Robin | 2 | 0 | 0 | 2
-| Iris Groher | 2 | 0 | 0 | 2
-| Jendrik Johannes | 2 | 0 | 0 | 2
-| Staffan Ehnebom | 2 | 0 | 0 | 2
-| Hans Gr&ouml;nniger | 2 | 0 | 0 | 2
-| Haiyan Zhao | 2 | 0 | 0 | 2
-| Zhenjiang Hu | 2 | 0 | 0 | 2
-| Gabor Karsai | 2 | 0 | 0 | 2
-| Albert Ambroziewicz | 2 | 0 | 0 | 2
-| Bruno Barroca | 2 | 0 | 0 | 2
-| Levi Lucio | 2 | 0 | 0 | 2
-| Riccardo Scandariato | 2 | 0 | 0 | 2
-| Nils Przigoda | 2 | 0 | 0 | 2
-| Rolf Drechsler | 2 | 0 | 0 | 2
-| Daniel L&uuml;ddecke | 2 | 0 | 0 | 2
-| Angelika Kusel | 2 | 0 | 0 | 2
-| Johannes Sch&ouml;nb&ouml;ck | 2 | 0 | 0 | 2
-| Ramon R. H. Schiffelers | 2 | 0 | 0 | 2
-| Filip Krikava | 2 | 0 | 0 | 2
-| Muhammad Zohaib Iqbal | 2 | 0 | 0 | 2
-| Muhammad Uzair Khan | 2 | 0 | 0 | 2
-| Matthias Sch&ouml;ttle | 2 | 0 | 0 | 2
-| Michael Szvetits | 2 | 0 | 0 | 2
-| Frank Hilken | 2 | 0 | 0 | 2
-| Fr&eacute;d&eacute;ric Mallet | 2 | 0 | 0 | 2
-| Roberto Rodr&iacute;guez-Echeverr&iacute;a | 2 | 0 | 0 | 2
-| Wiktor Nowakowski | 2 | 0 | 0 | 2
-| Tomasz Straszak | 2 | 0 | 0 | 2
-| Jacek Bojarski | 2 | 0 | 0 | 2
-| Sagar Chaki | 2 | 0 | 0 | 2
-| Jon Oldevik | 2 | 0 | 0 | 2
-| Frank Weil | 2 | 0 | 0 | 2
-| Manuel Clavel | 2 | 0 | 0 | 2
-| Ahmed M. Elkhodary | 2 | 0 | 0 | 2
-| Praveen K. Jayaraman | 2 | 0 | 0 | 2
-| Ludovico Iovino | 2 | 0 | 0 | 2
-| Evgeny Kusmenko | 2 | 0 | 0 | 2
-| Krist&oacute;f Marussy | 2 | 0 | 0 | 2
-| Parsa Pourali | 2 | 0 | 0 | 2
-| Matthias Brun  | 2 | 0 | 0 | 2
-| Valentin Besnard | 2 | 0 | 0 | 2
-| Byron DeVries | 2 | 0 | 0 | 2
-| Nicolas Ferry  | 2 | 0 | 0 | 2
-| Luis Hern&aacute;n Garc&iacute;a Paucar | 2 | 0 | 0 | 2
-| Antonio Bucchiarone | 2 | 0 | 0 | 2
-| G&aacute;bor Sz&aacute;rnyas | 2 | 0 | 0 | 2
-| Ulf Eliasson | 2 | 0 | 0 | 2
-| Patrizio Pelliccione | 2 | 0 | 0 | 2
-| Jonn Lantz | 2 | 0 | 0 | 2
-| Truong Ho-Quang | 2 | 0 | 0 | 2
-| Mojtaba Bagherzadeh | 2 | 0 | 0 | 2
-| Tom Maibaum | 2 | 0 | 0 | 2
-| Ran Wei | 2 | 0 | 0 | 2
-| Nicolas Harrand | 2 | 0 | 0 | 2
-| Jaime Font | 2 | 0 | 0 | 2
-| Christoph Elsner | 2 | 0 | 0 | 2
-| Frank Zimmer | 2 | 0 | 0 | 2
-| Grischa Liebel | 2 | 0 | 0 | 2
-| Naouel Moha | 2 | 0 | 0 | 2
-| Stavros Tripakis | 2 | 0 | 0 | 2
-| Martin Lehofer | 2 | 0 | 0 | 2
-| Ingolf Kr&uuml;ger | 2 | 0 | 0 | 2
-| Tanja Mayerhofer | 2 | 0 | 0 | 2
-| Juha-Pekka Tolvanen | 2 | 0 | 0 | 2
-| Aniruddha S. Gokhale | 2 | 0 | 0 | 2
-| Alan Wassyng | 2 | 0 | 0 | 2
-| Mark Lawford | 2 | 0 | 0 | 2
-| Rodi Jolak | 2 | 0 | 0 | 2
-| Eugene Syriani | 2 | 0 | 0 | 2
-| Rick Rabiser | 2 | 0 | 0 | 2
-| Thorsten Berger | 2 | 0 | 0 | 2
-| Ludovic Apvrille | 2 | 0 | 0 | 2
-| Renaud Pacalet | 2 | 0 | 0 | 2
-| Jean-Marie Mottu | 2 | 0 | 0 | 2
-| Andreas Vogelsang | 2 | 0 | 0 | 2
-| Tony Clark | 2 | 0 | 0 | 2
-| Sven Peldszus | 2 | 0 | 0 | 2
-| Ivano Malavolta | 2 | 0 | 0 | 2
-| Xiao He | 2 | 0 | 0 | 2
-| J&ouml;rn David | 1 | 0 | 0 | 1
-| Maximilian Koegel | 1 | 0 | 0 | 1
-| Jonas Helming | 1 | 0 | 0 | 1
-| Aleksandar Shterev | 1 | 0 | 0 | 1
-| Helmut Naughton | 1 | 0 | 0 | 1
-| Vincent Mah&eacute; | 1 | 0 | 0 | 1
-| Tobias Walter | 1 | 0 | 0 | 1
-| Michael Shtelma | 1 | 0 | 0 | 1
-| W. Greg Phillips | 1 | 0 | 0 | 1
-| Christopher Wolfe | 1 | 0 | 0 | 1
-| T. C. Nicholas Graham | 1 | 0 | 0 | 1
-| Konrad Wieland | 1 | 0 | 0 | 1
-| Martina Seidl | 1 | 0 | 0 | 1
-| Petra Brosch | 1 | 0 | 0 | 1
-| Mar&iacute;a Victoria Cengarle | 1 | 0 | 0 | 1
-| Olaf Zimmermann | 1 | 0 | 0 | 1
-| Steffen Mazanek | 1 | 0 | 0 | 1
-| Mark Minas | 1 | 0 | 0 | 1
-| Anantha Narayanan | 1 | 0 | 0 | 1
-| John Lloyd | 1 | 0 | 0 | 1
-| Ben Lickly | 1 | 0 | 0 | 1
-| Man-Kit Leung | 1 | 0 | 0 | 1
-| Elizabeth Latronico | 1 | 0 | 0 | 1
-| Thomas Mandl 0002 | 1 | 0 | 0 | 1
-| Charles P. Shelton | 1 | 0 | 0 | 1
-| Pau Giner | 1 | 0 | 0 | 1
-| Stephan Wei&szlig;leder | 1 | 0 | 0 | 1
-| Pierre Yves Pillain | 1 | 0 | 0 | 1
-| Amine Raji | 1 | 0 | 0 | 1
-| Stephen Creff | 1 | 0 | 0 | 1
-| Sagar Sen | 1 | 0 | 0 | 1
-| Gergely Varr&oacute; | 1 | 0 | 0 | 1
-| Man-tak Shing | 1 | 0 | 0 | 1
-| Doron Drusinsky | 1 | 0 | 0 | 1
-| Stephen J. Mellor | 1 | 0 | 0 | 1
-| Zamira Daw | 1 | 0 | 0 | 1
-| Marcus Vetter | 1 | 0 | 0 | 1
-| Dirk Deridder | 1 | 0 | 0 | 1
-| Andr&eacute;s Yie | 1 | 0 | 0 | 1
-| Christian Soltenborn | 1 | 0 | 0 | 1
-| P&auml;r Emanuelsson | 1 | 0 | 0 | 1
-| Lars Bendix | 1 | 0 | 0 | 1
-| Peter Herrmann | 1 | 0 | 0 | 1
-| Arie van Deursen | 1 | 0 | 0 | 1
-| Martin Pinzger  | 1 | 0 | 0 | 1
-| Felienne Hermans | 1 | 0 | 0 | 1
-| Mika Katara | 1 | 0 | 0 | 1
-| Jani Mets&auml; | 1 | 0 | 0 | 1
-| Marko Boskovic | 1 | 0 | 0 | 1
-| Wilhelm Hasselbring | 1 | 0 | 0 | 1
-| Christa Schwanninger | 1 | 0 | 0 | 1
-| Miguel A. Fern&aacute;ndez | 1 | 0 | 0 | 1
-| Antonio Castillo | 1 | 0 | 0 | 1
-| Milan Milanovic | 1 | 0 | 0 | 1
-| Michael Golm | 1 | 0 | 0 | 1
-| Christoph Wienands | 1 | 0 | 0 | 1
-| Thomas Aschauer | 1 | 0 | 0 | 1
-| Wolfgang Pree | 1 | 0 | 0 | 1
-| Gerd Dauenhauer | 1 | 0 | 0 | 1
-| Rodion Moiseev | 1 | 0 | 0 | 1
-| Rahul Mohan | 1 | 0 | 0 | 1
-| Massimiliano Menarini | 1 | 0 | 0 | 1
-| Rapha&euml;l Chenouard | 1 | 0 | 0 | 1
-| Peter Sawyer | 1 | 0 | 0 | 1
-| Larry L. Constantine | 1 | 0 | 0 | 1
-| Christian Thum | 1 | 0 | 0 | 1
-| Martin Schader | 1 | 0 | 0 | 1
-| Michael Schwind | 1 | 0 | 0 | 1
-| Patrick Albert | 1 | 0 | 0 | 1
-| Seung Yeob Shin | 1 | 0 | 0 | 1
-| Karim Chaouch | 1 | 0 | 0 | 1
-| Sandra Greiner | 1 | 0 | 0 | 1
-| Bernhard Westfechtel | 1 | 0 | 0 | 1
-| Michael Ries | 1 | 0 | 0 | 1
-| Markus Weckesser | 1 | 0 | 0 | 1
-| Hugo Louren&ccedil;o | 1 | 0 | 0 | 1
-| Henrique Henriques | 1 | 0 | 0 | 1
-| Roland Kretschmer | 1 | 0 | 0 | 1
-| Djamel Eddine Khelladi | 1 | 0 | 0 | 1
-| Ta'id Holmes | 1 | 0 | 0 | 1
-| Gala Barquero | 1 | 0 | 0 | 1
-| Florent Marchand de Kerchove | 1 | 0 | 0 | 1
-| Nathalie Moreno | 1 | 0 | 0 | 1
-| Manuel F. Bertoa | 1 | 0 | 0 | 1
-| Andreas Bahya | 1 | 0 | 0 | 1
-| Artur Boronat | 1 | 0 | 0 | 1
-| Rahad Khandoker | 1 | 0 | 0 | 1
-| Omar Masmali | 1 | 0 | 0 | 1
-| Omar Badreddin | 1 | 0 | 0 | 1
-| Andrew Forward | 1 | 0 | 0 | 1
-| Reza Ahmadi | 1 | 0 | 0 | 1
-| Alexandre Petrenko | 1 | 0 | 0 | 1
-| Oliver Kautz | 1 | 0 | 0 | 1
-| Cody Kinneer | 1 | 0 | 0 | 1
-| Sebastian J. I. Herzig | 1 | 0 | 0 | 1
-| Marten Lohstroh | 1 | 0 | 0 | 1
-| David Broman | 1 | 0 | 0 | 1
-| Fabio Cremona | 1 | 0 | 0 | 1
-| Michael Masin | 1 | 0 | 0 | 1
-| Andreas K&auml;stner | 1 | 0 | 0 | 1
-| Manuel Ballar&iacute;n | 1 | 0 | 0 | 1
-| Alexandre Rio | 1 | 0 | 0 | 1
-| Yoann Maurel | 1 | 0 | 0 | 1
-| Yoran Bugni | 1 | 0 | 0 | 1
-| Arne Nordmann | 1 | 0 | 0 | 1
-| Peter Munk | 1 | 0 | 0 | 1
-| Stephen Wynn-Williams | 1 | 0 | 0 | 1
-| Zhihao Jiang | 1 | 0 | 0 | 1
-| Shinichi Shiraishi | 1 | 0 | 0 | 1
-| Ximing Chen | 1 | 0 | 0 | 1
-| Victor M. Preciado | 1 | 0 | 0 | 1
-| Eunsuk Kang | 1 | 0 | 0 | 1
-| Florian Zoubek | 1 | 0 | 0 | 1
-| Richard M. Dexter | 1 | 0 | 0 | 1
-| Kerryn R. Owen | 1 | 0 | 0 | 1
-| Yago Isasi | 1 | 0 | 0 | 1
-| Mojtaba Varmazyar | 1 | 0 | 0 | 1
-| Chihab eddine Mokaddem | 1 | 0 | 0 | 1
-| Steven Kelly  | 1 | 0 | 0 | 1
-| Beno&icirc;t Baudry | 1 | 0 | 0 | 1
-| Jakob H&oslash;genes | 1 | 0 | 0 | 1
-| Sascha Schneiders | 1 | 0 | 0 | 1
-| Quentin Cobbaert | 1 | 0 | 0 | 1
-| Philippe Masson | 1 | 0 | 0 | 1
-| Islem Baki | 1 | 0 | 0 | 1
-| Maurizio Leotta | 1 | 0 | 0 | 1
-| Deepak Dhungana | 1 | 0 | 0 | 1
-| Herwig Schreiner | 1 | 0 | 0 | 1
-| Elizabeta Fourneret | 1 | 0 | 0 | 1
-| Morayo Adedjouma | 1 | 0 | 0 | 1
-| Ver&oacute;nica Andrea Bollati | 1 | 0 | 0 | 1
-| Juan M. Vara | 1 | 0 | 0 | 1
-| David Granada | 1 | 0 | 0 | 1
-| Cl&aacute;udio Gomes | 1 | 0 | 0 | 1
-| Nina Bergmann | 1 | 0 | 0 | 1
-| Luca Pazzi | 1 | 0 | 0 | 1
-| Xiaodong Zhang | 1 | 0 | 0 | 1
-| Ralf Rublack | 1 | 0 | 0 | 1
-| Divya Nair | 1 | 0 | 0 | 1
-| Babajide Ogunyomi | 1 | 0 | 0 | 1
-| Carlos Noguera | 1 | 0 | 0 | 1
-| Jaime Chavarriaga | 1 | 0 | 0 | 1
-| Francesco Chirico | 1 | 0 | 0 | 1
-| Seyyed M. Shah | 1 | 0 | 0 | 1
-| Christian Berger  | 1 | 0 | 0 | 1
-| Andrea Enrici | 1 | 0 | 0 | 1
-| Nicholas Drivalos Matragkas | 1 | 0 | 0 | 1
-| Raphael Stroh | 1 | 0 | 0 | 1
-| Steffen Vaupel | 1 | 0 | 0 | 1
-| Michael Guckert | 1 | 0 | 0 | 1
-| Ren&eacute; Gerlach | 1 | 0 | 0 | 1
-| Jan Peer Harries | 1 | 0 | 0 | 1
-| James R. Edmondson | 1 | 0 | 0 | 1
-| Jonas Westman | 1 | 0 | 0 | 1
-| Mattias Nyberg | 1 | 0 | 0 | 1
-| Jeff Offutt | 1 | 0 | 0 | 1
-| Sunitha Thummala | 1 | 0 | 0 | 1
-| Alexander Bergmayr | 1 | 0 | 0 | 1
-| Andrea Leitner | 1 | 0 | 0 | 1
-| Nadja Marko | 1 | 0 | 0 | 1
-| J&ouml;rgen Hansson | 1 | 0 | 0 | 1
-| Heiko Sommer | 1 | 0 | 0 | 1
-| Marcus Schilling | 1 | 0 | 0 | 1
-| Gianluca Chiozzi | 1 | 0 | 0 | 1
-| Michele Zamparelli | 1 | 0 | 0 | 1
-| Robert Karban | 1 | 0 | 0 | 1
-| Luigi Andolfato | 1 | 0 | 0 | 1
-| Anatoly Vasilevskiy | 1 | 0 | 0 | 1
-| Francesco Basciani | 1 | 0 | 0 | 1
-| Anya Helene Bagge | 1 | 0 | 0 | 1
-| Istv&aacute;n D&aacute;vid | 1 | 0 | 0 | 1
-| Sean Eade | 1 | 0 | 0 | 1
-| D&eacute;nes Harmath | 1 | 0 | 0 | 1
-| Benedek Izs&oacute; | 1 | 0 | 0 | 1
-| J&eacute;r&eacute;mie Tatibouet | 1 | 0 | 0 | 1
-| Thomas Iguchi | 1 | 0 | 0 | 1
-| Mahdi Derakhshanmanesh | 1 | 0 | 0 | 1
-| James H. Hill | 1 | 0 | 0 | 1
-| Dave R. Stikkolorum | 1 | 0 | 0 | 1
-| Humberto Nicol&aacute;s Castej&oacute;n Mart&iacute;nez | 1 | 0 | 0 | 1
-| Rolv Br&aelig;k | 1 | 0 | 0 | 1
-| Richard Torbj&oslash;rn Sanders | 1 | 0 | 0 | 1
-| Martin Giese | 1 | 0 | 0 | 1
-| Daniel Larsson | 1 | 0 | 0 | 1
-| Brian Berenbach | 1 | 0 | 0 | 1
-| Ryan Stephenson | 1 | 0 | 0 | 1
-| Siv Hilde Houmb | 1 | 0 | 0 | 1
-| Gerald Weber | 1 | 0 | 0 | 1
-| Matthias Horn | 1 | 0 | 0 | 1
-| Dirk Draheim | 1 | 0 | 0 | 1
-| Ina Schulz | 1 | 0 | 0 | 1
-| Gregor Kiczales | 1 | 0 | 0 | 1
-| Maria Tkatchenko | 1 | 0 | 0 | 1
-| Kurt Stirewalt | 1 | 0 | 0 | 1
-| Spencer Rugaber | 1 | 0 | 0 | 1
-| M. Esperanza Manso | 1 | 0 | 0 | 1
-| Doug Kimelman | 1 | 0 | 0 | 1
-| Steven A. Demurjian | 1 | 0 | 0 | 1
-| Jaime A. Pavlich-Mariscal | 1 | 0 | 0 | 1
-| Laurent Michel | 1 | 0 | 0 | 1
-| Jens M. Glattetre | 1 | 0 | 0 | 1
-| Marek Vok&aacute;c | 1 | 0 | 0 | 1
-| Wolfgang De Meuter | 1 | 0 | 0 | 1
-| Ellen Van Paesschen | 1 | 0 | 0 | 1
-| Michael J. Marich | 1 | 0 | 0 | 1
-| Haig F. Krikorian | 1 | 0 | 0 | 1
-| Lu&iacute;s Ferreira Pires | 1 | 0 | 0 | 1
-| Franklin Ramalho | 1 | 0 | 0 | 1
-| Marlon Vieira | 1 | 0 | 0 | 1
-| Andreas Pleu&szlig; | 1 | 0 | 0 | 1
-| Philippe Marquet | 1 | 0 | 0 | 1
-| Jean-Luc Dekeyser | 1 | 0 | 0 | 1
-| Pierre Boulet | 1 | 0 | 0 | 1
-| Miriam Zia | 1 | 0 | 0 | 1
-| Hiroshi Wada | 1 | 0 | 0 | 1
-| Junichi Suzuki | 1 | 0 | 0 | 1
-| Jeffrey G. Gray | 1 | 0 | 0 | 1
-| Jing Zhang 0003 | 1 | 0 | 0 | 1
-| Steven Nordstrom | 1 | 0 | 0 | 1
-| Swapna S. Gokhale | 1 | 0 | 0 | 1
-| Yuehua Lin | 1 | 0 | 0 | 1
-| Wolfgang Prenninger | 1 | 0 | 0 | 1
-| Ludwik Kuzniarz | 1 | 0 | 0 | 1
-| Mark Hettish | 1 | 0 | 0 | 1
-| Stephen P. Masticola | 1 | 0 | 0 | 1
-| Andre B. Bondi | 1 | 0 | 0 | 1
-| Dick A. C. Quartel | 1 | 0 | 0 | 1
-| Alejandro Bia | 1 | 0 | 0 | 1
-| David S. Rosenblum | 1 | 0 | 0 | 1
-| Shiou Loh | 1 | 0 | 0 | 1
-| Paul Baker | 1 | 0 | 0 | 1
-| Martin Deubler | 1 | 0 | 0 | 1
-| Sabine Rittmann | 1 | 0 | 0 | 1
-| Michael Meisinger | 1 | 0 | 0 | 1
-| Francis Bordeleau | 1 | 0 | 0 | 1
-| D'Arcy Walsh | 1 | 0 | 0 | 1
-| Aaron Shui | 1 | 0 | 0 | 1
-| Christophe Dony | 1 | 0 | 0 | 1
-| Hui Shen | 1 | 0 | 0 | 1
-| Robert G. Pettit IV | 1 | 0 | 0 | 1
-| Julie A. Street | 1 | 0 | 0 | 1
-| Anca Daniela Ionita | 1 | 0 | 0 | 1
-| Germ&aacute;n Vega | 1 | 0 | 0 | 1
-| Jacky Estublier | 1 | 0 | 0 | 1
-| Jie Yang 0014 | 1 | 0 | 0 | 1
-| M. J. Evans | 1 | 0 | 0 | 1
-| Klaus D. McDonald-Maier | 1 | 0 | 0 | 1
-| David H. Akehurst | 1 | 0 | 0 | 1
-| W. Gareth J. Howells | 1 | 0 | 0 | 1
-| Reinhard Gotzhein | 1 | 0 | 0 | 1
-| Thomas Kuhn  | 1 | 0 | 0 | 1
-| Christian Webel | 1 | 0 | 0 | 1
-| Christophe Tombelle | 1 | 0 | 0 | 1
-| Ivan Kurtev | 1 | 0 | 0 | 1
-| Arne Lindow | 1 | 0 | 0 | 1
-| Mar&iacute;a Agustina Cibr&aacute;n | 1 | 0 | 0 | 1
-| Greg O'Keefe | 1 | 0 | 0 | 1
-| Jan Hendrik Hausmann | 1 | 0 | 0 | 1
-| Lucio Mauro Duarte | 1 | 0 | 0 | 1
-| Vegard Dehlen | 1 | 0 | 0 | 1
-| Laurence Duchien | 1 | 0 | 0 | 1
-| Anne-Fran&ccedil;oise Le Meur | 1 | 0 | 0 | 1
-| Guillaume Waignier | 1 | 0 | 0 | 1
-| Pedro Ramos 0004 | 1 | 0 | 0 | 1
-| Denis Hatebur | 1 | 0 | 0 | 1
-| Holger Schmidt  | 1 | 0 | 0 | 1
-| Javier J. Guti&eacute;rrez  | 1 | 0 | 0 | 1
-| Isabel Ramos 0002 | 1 | 0 | 0 | 1
-| Mar&iacute;a Jos&eacute; Escalona | 1 | 0 | 0 | 1
-| Manuel Mej&iacute;as | 1 | 0 | 0 | 1
-| Sahar Kayhani | 1 | 0 | 0 | 1
-| Greg Butler | 1 | 0 | 0 | 1
-| Bahman Zamani | 1 | 0 | 0 | 1
-| Mounir Boukadoum | 1 | 0 | 0 | 1
-| Mathieu Lafourcade | 1 | 0 | 0 | 1
-| Michele Lanza | 1 | 0 | 0 | 1
-| Romain Robbes | 1 | 0 | 0 | 1
-| Daniel Hagimont | 1 | 0 | 0 | 1
-| Laurent Broto | 1 | 0 | 0 | 1
-| Michel J. Dayd&eacute; | 1 | 0 | 0 | 1
-| Bastian Kennel | 1 | 0 | 0 | 1
-| Matthias Gutheil | 1 | 0 | 0 | 1
-| Hong-Viet Luong | 1 | 0 | 0 | 1
-| Thomas Lambolais | 1 | 0 | 0 | 1
-| Anne-Lise Courbis | 1 | 0 | 0 | 1
-| Mohammad Al Saad | 1 | 0 | 0 | 1
-| Nicolai Kamenzky | 1 | 0 | 0 | 1
-| Jochen H. Schiller | 1 | 0 | 0 | 1
-| Leen Lambers | 1 | 0 | 0 | 1
-| Katharina Mehner | 1 | 0 | 0 | 1
-| Elmar J&uuml;rgens | 1 | 0 | 0 | 1
-| Sebastian Benz | 1 | 0 | 0 | 1
-| Lijun Yu | 1 | 0 | 0 | 1
-| Jos&eacute; A. Cars&iacute; | 1 | 0 | 0 | 1
-| Paul McIntosh | 1 | 0 | 0 | 1
-| Ron G. van Schyndel | 1 | 0 | 0 | 1
-| Margaret Hamilton | 1 | 0 | 0 | 1
-| Andrea Br&uuml;hlmann | 1 | 0 | 0 | 1
-| Teiichiro Inoue | 1 | 0 | 0 | 1
-| Toshihiro Obata | 1 | 0 | 0 | 1
-| Simona Bernardi | 1 | 0 | 0 | 1
-| Jos&eacute; Merseguer | 1 | 0 | 0 | 1
-| Tejeddine Mouelhi | 1 | 0 | 0 | 1
-| Zef Hemel | 1 | 0 | 0 | 1
-| Ruben Verhaaf | 1 | 0 | 0 | 1
-| Stefan Hanenberg | 1 | 0 | 0 | 1
-| Pablo S&aacute;nchez | 1 | 0 | 0 | 1
-| Dominik Stein | 1 | 0 | 0 | 1
-| Lidia Fuentes | 1 | 0 | 0 | 1
-| Rainer Unland | 1 | 0 | 0 | 1
-| Hongzhi Liang | 1 | 0 | 0 | 1
-| Qin Ma 0002 | 1 | 0 | 0 | 1
-| Pierre Kelsen | 1 | 0 | 0 | 1
-| Kjell-Joar Alme | 1 | 0 | 0 | 1
-| G&oslash;ran K. Olsen | 1 | 0 | 0 | 1
-| Thomas Moen | 1 | 0 | 0 | 1
-| Jan Endresen | 1 | 0 | 0 | 1
-| Erik Carlson | 1 | 0 | 0 | 1
-| Andreas Svendsen | 1 | 0 | 0 | 1
-| Dominik Gessenharter | 1 | 0 | 0 | 1
-| Patrick Rauhut | 1 | 0 | 0 | 1
-| Rasha Tawhid | 1 | 0 | 0 | 1
-| Edward Jones | 1 | 0 | 0 | 1
-| Ken Owens | 1 | 0 | 0 | 1
-| Richard W. Buskens | 1 | 0 | 0 | 1
-| Srini Srinivasan | 1 | 0 | 0 | 1
-| Trip Denton | 1 | 0 | 0 | 1
-| Adam Prout | 1 | 0 | 0 | 1
-| Pourya Shaker | 1 | 0 | 0 | 1
-| Daniel Lucr&eacute;dio | 1 | 0 | 0 | 1
-| Renata Pontin de Mattos Fortes | 1 | 0 | 0 | 1
-| Victoria Kuzina | 1 | 0 | 0 | 1
-| Mikol&aacute;s Janota | 1 | 0 | 0 | 1
-| Martin Monperrus | 1 | 0 | 0 | 1
-| Brigitte Hoeltzener | 1 | 0 | 0 | 1
-| Jo&euml;l Champeau | 1 | 0 | 0 | 1
-| Hatice Elmasg&uuml;nes | 1 | 0 | 0 | 1
-| Timo Baum | 1 | 0 | 0 | 1
-| J&uuml;rgen Widiker | 1 | 0 | 0 | 1
-| Ralf-Detlef Kutsche | 1 | 0 | 0 | 1
-| Marco Pohl | 1 | 0 | 0 | 1
-| Jo&atilde;o Saraiva | 1 | 0 | 0 | 1
-| Sander Vermolen | 1 | 0 | 0 | 1
-| Matthew Kaplan | 1 | 0 | 0 | 1
-| Clay Williams | 1 | 0 | 0 | 1
-| Amit M. Paradkar | 1 | 0 | 0 | 1
-| Avik Sinha | 1 | 0 | 0 | 1
-| Bernard Coulette | 1 | 0 | 0 | 1
-| Younes Lakhrissi | 1 | 0 | 0 | 1
-| Bas Flaton | 1 | 0 | 0 | 1
-| Daniel Rei&szlig; | 1 | 0 | 0 | 1
-| David Trachtenherz | 1 | 0 | 0 | 1
-| Judith E. Y. Rosseb&oslash; | 1 | 0 | 0 | 1
-| Ragnhild Kobro Runde | 1 | 0 | 0 | 1
-| Stuart Hutchesson | 1 | 0 | 0 | 1
-| Vincent Bertram | 1 | 0 | 0 | 1
-| Vanessa N. Michalke | 1 | 0 | 0 | 1
-| Martin Beckmann 0002 | 1 | 0 | 0 | 1
-| Aaron Schlutter | 1 | 0 | 0 | 1
-| Dominique Ernadote | 1 | 0 | 0 | 1
-| Alexander Diewald | 1 | 0 | 0 | 1
-| Ali Syed | 1 | 0 | 0 | 1
-| J&ouml;rn Migge | 1 | 0 | 0 | 1
-| Madeleine Faug&egrave;re | 1 | 0 | 0 | 1
-| Gerhard Fohler | 1 | 0 | 0 | 1
-| Simon Barner | 1 | 0 | 0 | 1
-| Daniel Gracia P&eacute;rez | 1 | 0 | 0 | 1
-| Ludovic Mouline | 1 | 0 | 0 | 1
-| Johann Bourcier | 1 | 0 | 0 | 1
-| Amine Benelallam | 1 | 0 | 0 | 1
-| Ewen Denney | 1 | 0 | 0 | 1
-| Ganesh Pai | 1 | 0 | 0 | 1
-| Iain Whiteside | 1 | 0 | 0 | 1
-| Vincent Aravantinos | 1 | 0 | 0 | 1
-| Sudeep Kanav | 1 | 0 | 0 | 1
-| Luciane Telinski Wiedermann Agner | 1 | 0 | 0 | 1
-| Daniel Ratiu | 1 | 0 | 0 | 1
-| Vaclav Pech | 1 | 0 | 0 | 1
-| Kolja Dummann | 1 | 0 | 0 | 1
-| Alexandr Murashkin | 1 | 0 | 0 | 1
-| Jordan A. Ross | 1 | 0 | 0 | 1
-| Nitzan Pomerantz | 1 | 0 | 0 | 1
-| Rafi Shalom | 1 | 0 | 0 | 1
-| Qusai Ramadan | 1 | 0 | 0 | 1
-| Mattia Salnitri | 1 | 0 | 0 | 1
-| Timur Saglam | 1 | 0 | 0 | 1
-| Ralf H. Reussner | 1 | 0 | 0 | 1
-| Max E. Kramer | 1 | 0 | 0 | 1
-| Michael Langhammer | 1 | 0 | 0 | 1
-| Heiko Klare | 1 | 0 | 0 | 1
-| Francis Bourdeleau | 1 | 0 | 0 | 1
-| Timo Gutjahr | 1 | 0 | 0 | 1
-| Soichiro Hidaka | 1 | 0 | 0 | 1
-| Corrado Motta | 1 | 0 | 0 | 1
-| Darko Durisic | 1 | 0 | 0 | 1
-| Ulyana Tikhonova | 1 | 0 | 0 | 1
-| Diego Vaquero-Melchor | 1 | 0 | 0 | 1
-| Javier Palomares | 1 | 0 | 0 | 1
-| Julia Rubin | 1 | 0 | 0 | 1
-| Thomas Degueule | 1 | 0 | 0 | 1
-| Manuel Leduc | 1 | 0 | 0 | 1
-| Sergey Zverlov | 1 | 0 | 0 | 1
-| St&eacute;phane Duprat | 1 | 0 | 0 | 1
-| Virginie Wiels | 1 | 0 | 0 | 1
-| Qiang Lin | 1 | 0 | 0 | 1
-| Wei Yao | 1 | 0 | 0 | 1
-| Xing Chen | 1 | 0 | 0 | 1
-| Xiaodong Zhang  | 1 | 0 | 0 | 1
-| Patrick Rempel | 1 | 0 | 0 | 1
-| Tobias Kuschke | 1 | 0 | 0 | 1
-| Benjamin A. Mechling | 1 | 0 | 0 | 1
-| Hector Miguel Chavez | 1 | 0 | 0 | 1
-| Wuwei Shen | 1 | 0 | 0 | 1
-| Adrian Fernandez | 1 | 0 | 0 | 1
-| Mark Rouncefield | 1 | 0 | 0 | 1
-| H&aring;kan Burden | 1 | 0 | 0 | 1
-| John Edward Hutchinson | 1 | 0 | 0 | 1
-| Christian Saad | 1 | 0 | 0 | 1
-| Bernhard Bauer | 1 | 0 | 0 | 1
-| Omar Alam | 1 | 0 | 0 | 1
-| Florian Mantz | 1 | 0 | 0 | 1
-| Marc-Florian Wendland | 1 | 0 | 0 | 1
-| Martin A. Schneider | 1 | 0 | 0 | 1
-| Wuliang Sun | 1 | 0 | 0 | 1
-| Shuai Wang  | 1 | 0 | 0 | 1
-| Arnaud Gotlieb | 1 | 0 | 0 | 1
-| Marius Liaaen | 1 | 0 | 0 | 1
-| Fr&eacute;d&eacute;ric Cuppens | 1 | 0 | 0 | 1
-| Nora Cuppens-Boulahia | 1 | 0 | 0 | 1
-| Joaqu&iacute;n Garc&iacute;a-Alfaro | 1 | 0 | 0 | 1
-| Juan Jos&eacute; Cadavid | 1 | 0 | 0 | 1
-| Nikolaos Drivalos Matragkas | 1 | 0 | 0 | 1
-| Martins Francis | 1 | 0 | 0 | 1
-| Adam Neal | 1 | 0 | 0 | 1
-| Kayhan M. Imre | 1 | 0 | 0 | 1
-| Ethem Arkin | 1 | 0 | 0 | 1
-| Bedir Tekinerdogan | 1 | 0 | 0 | 1
-| Laurent Wouters | 1 | 0 | 0 | 1
-| David Lindecker | 1 | 0 | 0 | 1
-| Gabor Simko | 1 | 0 | 0 | 1
-| Laurent Thiry | 1 | 0 | 0 | 1
-| Germain Forestier | 1 | 0 | 0 | 1
-| Brice Wittmann | 1 | 0 | 0 | 1
-| Karolina Zurowska | 1 | 0 | 0 | 1
-| Dominik Holling | 1 | 0 | 0 | 1
-| Robert Eschbach | 1 | 0 | 0 | 1
-| Matthias Gemmar | 1 | 0 | 0 | 1
-| Nicole Alicia Rossini | 1 | 0 | 0 | 1
-| Roberto E. Lopez-Herrejon | 1 | 0 | 0 | 1
-| Andreas Demuth | 1 | 0 | 0 | 1
-| Stephen Barrett | 1 | 0 | 0 | 1
-| Aidan Clarke | 1 | 0 | 0 | 1
-| Mathieu Acher | 1 | 0 | 0 | 1
-| Zhiqiang Fan | 1 | 0 | 0 | 1
-| Li Zhang 0029 | 1 | 0 | 0 | 1
-| Kunming Nie | 1 | 0 | 0 | 1
-| Eric Latimer | 1 | 0 | 0 | 1
-| Florian Stallmann | 1 | 0 | 0 | 1
-| Andreas Seibel | 1 | 0 | 0 | 1
-| Syed Abbas | 1 | 0 | 0 | 1
-| Thomas Hilpold | 1 | 0 | 0 | 1
-| Phani Upadrasta | 1 | 0 | 0 | 1
-| Assia Alexandrova | 1 | 0 | 0 | 1
-| Borislav Iordanov | 1 | 0 | 0 | 1
-| Andrew Fish | 1 | 0 | 0 | 1
-| Faiez Zalila | 1 | 0 | 0 | 1
-| Marc Pantel | 1 | 0 | 0 | 1
-| Hassene Choura | 1 | 0 | 0 | 1
-| Bernhard Sch&auml;tz | 1 | 0 | 0 | 1
-| Benjamin Hummel | 1 | 0 | 0 | 1
-| Bakr Al-Batran | 1 | 0 | 0 | 1
-| Ali Koudri | 1 | 0 | 0 | 1
-| Daichi Kimura | 1 | 0 | 0 | 1
-| Sayaka Izukura | 1 | 0 | 0 | 1
-| Takao Osaki | 1 | 0 | 0 | 1
-| Jianwen Xiang | 1 | 0 | 0 | 1
-| Kazuo Yanoo | 1 | 0 | 0 | 1
-| Hiroshi Sakaki | 1 | 0 | 0 | 1
-| Mark Sagar | 1 | 0 | 0 | 1
-| Robin Drogemuller | 1 | 0 | 0 | 1
-| Brahim Hamid | 1 | 0 | 0 | 1
-| Sigrid G&uuml;rgens | 1 | 0 | 0 | 1
-| Christophe Jouvray | 1 | 0 | 0 | 1
-| Nicolas Desnos | 1 | 0 | 0 | 1
-| Michael Kifer | 1 | 0 | 0 | 1
-| Ingo Feinerer | 1 | 0 | 0 | 1
-| Tanja Sisel | 1 | 0 | 0 | 1
-| Gernot Salzer | 1 | 0 | 0 | 1
-| Sebastian Oster | 1 | 0 | 0 | 1
-| Harald Cichos | 1 | 0 | 0 | 1
-| Weizhong Shao | 1 | 0 | 0 | 1
-| Andrea De Lucia | 1 | 0 | 0 | 1
-| Gabriele Bavota | 1 | 0 | 0 | 1
-| Rocco Oliveto | 1 | 0 | 0 | 1
-| Michael Tschernuth | 1 | 0 | 0 | 1
-| Rene Mayrhofer | 1 | 0 | 0 | 1
-| Michael Lettner | 1 | 0 | 0 | 1
-| Nina Moebius | 1 | 0 | 0 | 1
-| Kurt Stenzel | 1 | 0 | 0 | 1
-| Wolfgang Reif | 1 | 0 | 0 | 1
-| Motohiro Akiyama | 1 | 0 | 0 | 1
-| Takashi Kobayashi | 1 | 0 | 0 | 1
-| Kenneth Lind | 1 | 0 | 0 | 1
-| Mireille Blay-Fornarino | 1 | 0 | 0 | 1
-| Mickael Clavreul | 1 | 0 | 0 | 1
-| Inmaculada Medina-Bulo | 1 | 0 | 0 | 1
-| Axel Legay | 1 | 0 | 0 | 1
-| Uli Fahrenberg | 1 | 0 | 0 | 1
-| Adam C. Jensen | 1 | 0 | 0 | 1
-| Edward C. Nelson | 1 | 0 | 0 | 1
-| Uday Ramteerthkar | 1 | 0 | 0 | 1
-| Ajay Krishnan | 1 | 0 | 0 | 1
-| Rixin Zhang | 1 | 0 | 0 | 1
-| Lionel Roucoules | 1 | 0 | 0 | 1
-| Mehdi Iraqi-Houssaini | 1 | 0 | 0 | 1
-| Francesco Di Cerbo | 1 | 0 | 0 | 1
-| Gabriella Dodero | 1 | 0 | 0 | 1
-| Alain Beaulieu | 1 | 0 | 0 | 1
-| Yann Moffett | 1 | 0 | 0 | 1
-| Javier Espinazo-Pag&aacute;n | 1 | 0 | 0 | 1
-| Silvia E. Gordillo | 1 | 0 | 0 | 1
-| Johan Fabry | 1 | 0 | 0 | 1
-| Arturo Zambrano | 1 | 0 | 0 | 1
-| Sebastian G&ouml;tz | 1 | 0 | 0 | 1
-| Marian Petre | 1 | 0 | 0 | 1
-| Wisam Al Abed | 1 | 0 | 0 | 1
-| Mauro Luigi Drago | 1 | 0 | 0 | 1
-| Raffaela Mirandola | 1 | 0 | 0 | 1
-| Sanjay V. Rajopadhye | 1 | 0 | 0 | 1
-| Tomofumi Yuki | 1 | 0 | 0 | 1
-| Steven Derrien | 1 | 0 | 0 | 1
-| Clement Guy | 1 | 0 | 0 | 1
-| Antoine Floch | 1 | 0 | 0 | 1
-| David Lugato | 1 | 0 | 0 | 1
-| Marc Palyart | 1 | 0 | 0 | 1
-| Matthias Hauswirth | 1 | 0 | 0 | 1
-| Dmitrijs Zaparanuks | 1 | 0 | 0 | 1
-| Thomas A. Henzinger | 1 | 0 | 0 | 1
-| Yaniv Sa'ar | 1 | 0 | 0 | 1
-| C. Albert Thompson | 1 | 0 | 0 | 1
-| Oliver Hofrichter | 1 | 0 | 0 | 1
-| Doo-Hwan Bae | 1 | 0 | 0 | 1
-| Eunkyoung Jee | 1 | 0 | 0 | 1
-| Donghwan Shin  | 1 | 0 | 0 | 1
-| Karlheinz Bulheller | 1 | 0 | 0 | 1
-| Nicolaus von Baillou | 1 | 0 | 0 | 1
-| El Arbi Aboussoror | 1 | 0 | 0 | 1
-| Andrei Varanovich | 1 | 0 | 0 | 1
-| Jean-Marie Favre | 1 | 0 | 0 | 1
-| Anne Grete Eldegard | 1 | 0 | 0 | 1
-| Torbj&oslash;rn Syversen | 1 | 0 | 0 | 1
-| Vincent Aranega | 1 | 0 | 0 | 1
-| Anne Etien | 1 | 0 | 0 | 1
-| Razieh Behjati | 1 | 0 | 0 | 1
-| Davide Falessi | 1 | 0 | 0 | 1
-| Nikolaj Bj&oslash;rner | 1 | 0 | 0 | 1
-| Jim Arlow | 1 | 0 | 0 | 1
-| Gunnar Schulze | 1 | 0 | 0 | 1
-| Wendy MacCaull | 1 | 0 | 0 | 1
-| Vivien Suen | 1 | 0 | 0 | 1
-| Christina Chavez | 1 | 0 | 0 | 1
-| Stefano Di Alesio | 1 | 0 | 0 | 1
-| Xavier Dolques | 1 | 0 | 0 | 1
-| Hajer Saada | 1 | 0 | 0 | 1
-| Gerald Holl | 1 | 0 | 0 | 1
-| Wolfgang Heider | 1 | 0 | 0 | 1
-| Pete Sawyer | 1 | 0 | 0 | 1
-| Xavier Thirioux | 1 | 0 | 0 | 1
-| Heike Wehrheim | 1 | 0 | 0 | 1
-| Galina Besova | 1 | 0 | 0 | 1
-| Steffen Becker  | 1 | 0 | 0 | 1
-| Sven Walther | 1 | 0 | 0 | 1
-| Arber Borici | 1 | 0 | 0 | 1
-| Daniela E. Damian | 1 | 0 | 0 | 1
-| Jorge Aranda | 1 | 0 | 0 | 1
-| Rolf-Helge Pfeiffer | 1 | 0 | 0 | 1
-| Chris Shaver | 1 | 0 | 0 | 1
-| Julia Schroeter | 1 | 0 | 0 | 1
-| Tim Winkelmann | 1 | 0 | 0 | 1
-| &Aacute;bel Heged&uuml;s | 1 | 0 | 0 | 1
-| Frank R. Burton | 1 | 0 | 0 | 1
-| Stefan Kastenholz | 1 | 0 | 0 | 1
-| Konrad Voigt | 1 | 0 | 0 | 1
-| Birgit Grammel | 1 | 0 | 0 | 1
-| Erwan Daubert | 1 | 0 | 0 | 1
-| No&euml;l Plouzeau | 1 | 0 | 0 | 1
-| Michele Risi | 1 | 0 | 0 | 1
-| Alexander Reder | 1 | 0 | 0 | 1
-| Joachim Fischer | 1 | 0 | 0 | 1
-| Markus Scheidgen | 1 | 0 | 0 | 1
-| Thomas H. Kolbe | 1 | 0 | 0 | 1
-| Anatolij Zubow | 1 | 0 | 0 | 1
-| Germ&aacute;n H. Alf&eacute;rez | 1 | 0 | 0 | 1
-| Zille Huma | 1 | 0 | 0 | 1
-| Oliver Juwig | 1 | 0 | 0 | 1
-| Alix Mougenot | 1 | 0 | 0 | 1
-| Jorge Ressia | 1 | 0 | 0 | 1
-| Marcus Denker | 1 | 0 | 0 | 1
-| Markus Luckey | 1 | 0 | 0 | 1
-| Pamela Zave | 1 | 0 | 0 | 1
-| Stefan Berger | 1 | 0 | 0 | 1
-| Mirko Seifert | 1 | 0 | 0 | 1
-| Stephan Sommer | 1 | 0 | 0 | 1
-| Birgit Penzenstadler | 1 | 0 | 0 | 1
-| Manfred Broy | 1 | 0 | 0 | 1
-| Daniel M&eacute;ndez Fern&aacute;ndez | 1 | 0 | 0 | 1
-| Marco Kuhrmann | 1 | 0 | 0 | 1
-| Patrick K&ouml;nemann | 1 | 0 | 0 | 1
-| Hamid Bagheri | 1 | 0 | 0 | 1
-| Kevin J. Sullivan | 1 | 0 | 0 | 1
-| Francisco Jos&eacute; Garc&iacute;a Izquierdo | 1 | 0 | 0 | 1
-| Emilio Rodriguez Priego | 1 | 0 | 0 | 1
-| &Aacute;ngel Luis Rubio | 1 | 0 | 0 | 1
-| Shekoufeh Kolahdouz Rahimi | 1 | 0 | 0 | 1
-| Kevin Lano | 1 | 0 | 0 | 1
-| Jos Warmer | 1 | 0 | 0 | 1
-| Jurgen J. Vinju | 1 | 0 | 0 | 1
-| Vincent Lussenburg | 1 | 0 | 0 | 1
-| Markus Voelter | 1 | 0 | 0 | 1
-| Tirdad Rahmani | 1 | 0 | 0 | 1
-| Daniel Oberle | 1 | 0 | 0 | 1
-| Marco Dahms | 1 | 0 | 0 | 1
-| Harrick M. Vin | 1 | 0 | 0 | 1
-| Taylor L. Rich&eacute; | 1 | 0 | 0 | 1
-| Shahram Esmaeilsabzali | 1 | 0 | 0 | 1
-| Grzegorz Loniewski | 1 | 0 | 0 | 1
-| Saad bin Abid | 1 | 0 | 0 | 1
-| Goetz Botterweck | 1 | 0 | 0 | 1
-| Jane Cleland-Huang | 1 | 0 | 0 | 1
-| Birger M&oslash;ller-Pedersen | 1 | 0 | 0 | 1
-| Ole Lehrmann Madsen | 1 | 0 | 0 | 1
-| Zolt&aacute;n Balogh 0003 | 1 | 0 | 0 | 1
-| Andr&aacute;s Balogh | 1 | 0 | 0 | 1
-| Andr&aacute;s &Ouml;kr&ouml;s | 1 | 0 | 0 | 1
-| Kelly Garc&eacute;s | 1 | 0 | 0 | 1
-| Jo&atilde;o Pascoal Faria | 1 | 0 | 0 | 1
-| Ant&oacute;nio Miguel Rosado da Cruz | 1 | 0 | 0 | 1
-| Michael Thiele | 1 | 0 | 0 | 1
-| Christian Wende | 1 | 0 | 0 | 1
-| Christian Krause  | 1 | 0 | 0 | 1
-| Dirk Reiss | 1 | 0 | 0 | 1
-| Lukman bin A. B. Rahim | 1 | 0 | 0 | 1
-| Osmar Marchi dos Santos | 1 | 0 | 0 | 1
-| Bo Wang | 1 | 0 | 0 | 1
-| Tripti Saxena | 1 | 0 | 0 | 1
-| Matthias Heinrich  | 1 | 0 | 0 | 1
-| Arne Schramm | 1 | 0 | 0 | 1
-| Lars Vogel | 1 | 0 | 0 | 1
-| Andr&eacute; Preu&szlig;ner | 1 | 0 | 0 | 1
-| Bernhard Peischl | 1 | 0 | 0 | 1
-| Christian Schwarzl | 1 | 0 | 0 | 1
-| Hauke Fuhrmann | 1 | 0 | 0 | 1
-| Viviane Torres da Silva | 1 | 0 | 0 | 1
-| Andrew Diniz da Costa | 1 | 0 | 0 | 1
-| Shin'ichi Shiraishi | 1 | 0 | 0 | 1
-| Phu Hong Nguyen | 1 | 0 | 0 | 1
-| Thomas Heyman | 1 | 0 | 0 | 1
-| Koen Yskout | 1 | 0 | 0 | 1
-| Christoph Hilken | 1 | 0 | 0 | 1
-| Jan Peleska  | 1 | 0 | 0 | 1
-| Yosser El Ahmar | 1 | 0 | 0 | 1
-| C&eacute;dric Dumoulin | 1 | 0 | 0 | 1
-| Luigi Alfredo Grieco | 1 | 0 | 0 | 1
-| Thierry Monteil  | 1 | 0 | 0 | 1
-| Patricia Stolf | 1 | 0 | 0 | 1
-| C&eacute;dric Eichler | 1 | 0 | 0 | 1
-| Khalil Drira | 1 | 0 | 0 | 1
-| Christoph Seidl  | 1 | 0 | 0 | 1
-| Jens Schneider | 1 | 0 | 0 | 1
-| Daniel Perovich | 1 | 0 | 0 | 1
-| Jocelyn Simmonds | 1 | 0 | 0 | 1
-| Mar&iacute;a Cecilia Bastarrica | 1 | 0 | 0 | 1
-| Luis Silvestre | 1 | 0 | 0 | 1
-| Valerio Panzica La Manna | 1 | 0 | 0 | 1
-| Itai Segall | 1 | 0 | 0 | 1
-| Nicolas Sannier | 1 | 0 | 0 | 1
-| Sebastian Roidl | 1 | 0 | 0 | 1
-| Markus Look | 1 | 0 | 0 | 1
-| Timo Greifenberg | 1 | 0 | 0 | 1
-| Ralph Gerbig | 1 | 0 | 0 | 1
-| Carlos Moreno 0002 | 1 | 0 | 0 | 1
-| Sebastian Fischmeister | 1 | 0 | 0 | 1
-| Aymen Ketata | 1 | 0 | 0 | 1
-| Juergen Etzlstorfer | 1 | 0 | 0 | 1
-| Michel A. Reniers | 1 | 0 | 0 | 1
-| Jeroen Voeten | 1 | 0 | 0 | 1
-| Marc Geilen | 1 | 0 | 0 | 1
-| Twan Basten | 1 | 0 | 0 | 1
-| Bram van der Sanden | 1 | 0 | 0 | 1
-| Johan Jacobs | 1 | 0 | 0 | 1
-| Ana M. Fern&aacute;ndez-S&aacute;ez | 1 | 0 | 0 | 1
-| Matthew Stephan | 1 | 0 | 0 | 1
-| Herbert Pr&auml;hofer | 1 | 0 | 0 | 1
-| Klaus Eder | 1 | 0 | 0 | 1
-| Romain Rouvoy | 1 | 0 | 0 | 1
-| Lionel Seinturier | 1 | 0 | 0 | 1
-| Sidra Iftikhar | 1 | 0 | 0 | 1
-| Wardah Mahmood | 1 | 0 | 0 | 1
-| Ines Hajri | 1 | 0 | 0 | 1
-| Thierry Stephany | 1 | 0 | 0 | 1
-| Arda Goknil | 1 | 0 | 0 | 1
-| Katrin H&ouml;lldobler | 1 | 0 | 0 | 1
-| Vajih Montaghami | 1 | 0 | 0 | 1
-| Derek Rayside | 1 | 0 | 0 | 1
-| Inge Hanschke | 1 | 0 | 0 | 1
-| Christian M. Schweda | 1 | 0 | 0 | 1
-| Matthias Farwick | 1 | 0 | 0 | 1
-| Ramesh S. | 1 | 0 | 0 | 1
-| Steve M. Easterbrook | 1 | 0 | 0 | 1
-| Balbir S. Barn | 1 | 0 | 0 | 1
-| Jacilane Rabelo | 1 | 0 | 0 | 1
-| Ana Carolina Oran | 1 | 0 | 0 | 1
-| Natasha Malveira Costa Valentim | 1 | 0 | 0 | 1
-| Sabrina Marczak | 1 | 0 | 0 | 1
-| Tayana Conte | 1 | 0 | 0 | 1
-| Amal Khalil | 1 | 0 | 0 | 1
-| Paola Vallejo | 1 | 0 | 0 | 1
-| Kevin J. M. Martin | 1 | 0 | 0 | 1
-| Micka&euml;l Kerboeuf | 1 | 0 | 0 | 1
-| Jean-Philippe Babau | 1 | 0 | 0 | 1
-| Maikel Leemans | 1 | 0 | 0 | 1
-| Philipp Niemann | 1 | 0 | 0 | 1
-| J. Andres Diaz-Pace | 1 | 0 | 0 | 1
-| Claudia A. Marcos | 1 | 0 | 0 | 1
-| Alejandro Rago | 1 | 0 | 0 | 1
-| Jun Sun  | 1 | 0 | 0 | 1
-| Yang Liu 0003 | 1 | 0 | 0 | 1
-| Jin Song Dong | 1 | 0 | 0 | 1
-| Mikhail Auguston | 1 | 0 | 0 | 1
-| Songzheng Song | 1 | 0 | 0 | 1
-| Tieming Chen | 1 | 0 | 0 | 1
-| John C. Grundy | 1 | 0 | 0 | 1
-| Mohamed Almorsy | 1 | 0 | 0 | 1
-| Tuong Huan Nguyen | 1 | 0 | 0 | 1
-| Ana Pescador | 1 | 0 | 0 | 1
-| Bentley James Oakes | 1 | 0 | 0 | 1
-| Matias Ezequiel Vara Larsen | 1 | 0 | 0 | 1
-| Julien DeAntoni | 1 | 0 | 0 | 1
-| G&aacute;bor Ferenc Kov&aacute;cs | 1 | 0 | 0 | 1
-| Tibor Gregorics | 1 | 0 | 0 | 1
-| Gergely D&eacute;vai | 1 | 0 | 0 | 1
-| Andr&aacute;s Dobreff | 1 | 0 | 0 | 1
-| Bal&aacute;zs Gregorics | 1 | 0 | 0 | 1
-| Tuhin Kanti Das | 1 | 0 | 0 | 1
-| Nuno Am&aacute;lio | 1 | 0 | 0 | 1
-| Nima Kaviani | 1 | 0 | 0 | 1
-| Andreas Pleuss | 1 | 0 | 0 | 1
-| Heinrich Hussmann | 1 | 0 | 0 | 1
-| Arnd Vitzthum | 1 | 0 | 0 | 1
-| Alain Nicolas | 1 | 0 | 0 | 1
-| Erwan Breton | 1 | 0 | 0 | 1
-| Fr&eacute;d&eacute;ric Massicotte | 1 | 0 | 0 | 1
-| Mathieu Couture | 1 | 0 | 0 | 1
-| Matthias M. H&ouml;lzl | 1 | 0 | 0 | 1
-| Alexander Knapp | 1 | 0 | 0 | 1
-| Gefei Zhang | 1 | 0 | 0 | 1
-| Gregory Zoughbi | 1 | 0 | 0 | 1
-| Vina Ermagan | 1 | 0 | 0 | 1
-| Ingolf H. Kr&uuml;ger | 1 | 0 | 0 | 1
-| Scott Wallace | 1 | 0 | 0 | 1
-| Orest Pilskalns | 1 | 0 | 0 | 1
-| Filaret Ilas | 1 | 0 | 0 | 1
-| Minmin Han | 1 | 0 | 0 | 1
-| Christine Hofmeister | 1 | 0 | 0 | 1
-| Kurt C. Wallnau | 1 | 0 | 0 | 1
-| Peter Lee  | 1 | 0 | 0 | 1
-| Noam Zeilberger | 1 | 0 | 0 | 1
-| James Ivers | 1 | 0 | 0 | 1
-| Geri Georg | 1 | 0 | 0 | 1
-| Kyriakos Anastasakis | 1 | 0 | 0 | 1
-| Steffen Prochnow | 1 | 0 | 0 | 1
-| Bert Vanhooff | 1 | 0 | 0 | 1
-| Dhouha Ayed | 1 | 0 | 0 | 1
-| Yolande Berbers | 1 | 0 | 0 | 1
-| Stefan Van Baelen | 1 | 0 | 0 | 1
-| Charles Andr&eacute; | 1 | 0 | 0 | 1
-| Robert de Simone | 1 | 0 | 0 | 1
-| Donglin Liang | 1 | 0 | 0 | 1
-| Kai Xu 0002 | 1 | 0 | 0 | 1
-| Rodrigo Ramos | 1 | 0 | 0 | 1
-| Holger Kampffmeyer | 1 | 0 | 0 | 1
-| Brian E. Mastenbrook | 1 | 0 | 0 | 1
-| David Nelson | 1 | 0 | 0 | 1
-| Aswin van den Berg | 1 | 0 | 0 | 1
-| Paul Dietz | 1 | 0 | 0 | 1
-| Chokri Mraidha | 1 | 0 | 0 | 1
-| David A. Basin | 1 | 0 | 0 | 1
-| Sara Comai | 1 | 0 | 0 | 1
-| Mark Hibberd | 1 | 0 | 0 | 1
-| Rasheed Rabbi | 1 | 0 | 0 | 1
-| Lukas Renggli | 1 | 0 | 0 | 1
-| Markku Turunen | 1 | 0 | 0 | 1
-| Sari Lepp&auml;nen | 1 | 0 | 0 | 1
-| Kari Lepp&auml;nen | 1 | 0 | 0 | 1
-| Domonkos Asztalos | 1 | 0 | 0 | 1
-| Gabor Batori | 1 | 0 | 0 | 1
-| Zolt&aacute;n Theisz | 1 | 0 | 0 | 1
-| Cl&aacute;udia Werner | 1 | 0 | 0 | 1
-| M&aacute;rcio de Oliveira Barros | 1 | 0 | 0 | 1
-| Alexandre L. Correa | 1 | 0 | 0 | 1
-| Silvia Mara Abrah&atilde;o | 1 | 0 | 0 | 1
-| Emilia Mendes | 1 | 0 | 0 | 1
-| Thejaswini Ramachandra | 1 | 0 | 0 | 1
-| Noi Sukaviriya | 1 | 0 | 0 | 1
-| Vibha Sinha | 1 | 0 | 0 | 1
-| Alexandre Denault | 1 | 0 | 0 | 1
-| Steven V&ouml;lkel | 1 | 0 | 0 | 1
-| Holger Krahn | 1 | 0 | 0 | 1
-| Marc Delbaere | 1 | 0 | 0 | 1
-| Simon K. Johnston | 1 | 0 | 0 | 1
-| Alan W. Brown | 1 | 0 | 0 | 1
-| Xulin Zhao | 1 | 0 | 0 | 1
-| Jen Hawkins | 1 | 0 | 0 | 1
-| Bhadri Madapusi | 1 | 0 | 0 | 1
-| Ying Zou  | 1 | 0 | 0 | 1
-| Katja Tuma | 1 | 0 | 0 | 1
-| Sam Procter | 1 | 0 | 0 | 1
-| Lutz Wrage | 1 | 0 | 0 | 1
-| Assylbek Jumagaliyev | 1 | 0 | 0 | 1
-| Yehia Elkhatib | 1 | 0 | 0 | 1
-| Ifrah Qaisar | 1 | 0 | 0 | 1
-| Fitash Ul Haq | 1 | 0 | 0 | 1
-| Hassan Sartaj | 1 | 0 | 0 | 1
-| Eric Sax | 1 | 0 | 0 | 1
-| Stefan Kugele | 1 | 0 | 0 | 1
-| Philipp Obergfell | 1 | 0 | 0 | 1
-| Gopi Krishnan Rajbahadur | 1 | 0 | 0 | 1
-| Gustavo Ansaldi Oliva | 1 | 0 | 0 | 1
-| Ahmed E. Hassan | 1 | 0 | 0 | 1
-| Sebastian Nickels | 1 | 0 | 0 | 1
-| Thomas Timmermanns | 1 | 0 | 0 | 1
-| Svetlana Pavlitskaya | 1 | 0 | 0 | 1
-| Amr Hany Saleh | 1 | 0 | 0 | 1
-| Tom Schrijvers | 1 | 0 | 0 | 1
-| Mike Nicolai | 1 | 0 | 0 | 1
-| C&eacute;sar Augusto Ribeiro dos Santos | 1 | 0 | 0 | 1
-| Csaba Hajdu | 1 | 0 | 0 | 1
-| Zolt&aacute;n Micskei | 1 | 0 | 0 | 1
-| Zolt&aacute;n Szatm&aacute;ri | 1 | 0 | 0 | 1
-| Istv&aacute;n Majzik | 1 | 0 | 0 | 1
-| Aren A. Babikian | 1 | 0 | 0 | 1
-| Andr&aacute;s V&ouml;r&ouml;s  | 1 | 0 | 0 | 1
-| Ennio Visconti | 1 | 0 | 0 | 1
-| Christos Tsigkanos | 1 | 0 | 0 | 1
-| Cedric Schockaert | 1 | 0 | 0 | 1
-| Thomas Brand | 1 | 0 | 0 | 1
-| Andre Santos | 1 | 0 | 0 | 1
-| Bj&ouml;rn Kahl | 1 | 0 | 0 | 1
-| Mirko Bordignon | 1 | 0 | 0 | 1
-| Mathias L&uuml;dtke | 1 | 0 | 0 | 1
-| Ludovic Delval | 1 | 0 | 0 | 1
-| Nadia Hammoudeh Garcia | 1 | 0 | 0 | 1
-| Wolf Rost | 1 | 0 | 0 | 1
-| Dennis Priefer | 1 | 0 | 0 | 1
-| Peter Kneisel | 1 | 0 | 0 | 1
-| Stefan John  | 1 | 0 | 0 | 1
-| Alexandru Burdusel | 1 | 0 | 0 | 1
-| Beatriz Sanchez Pi&ntilde;a | 1 | 0 | 0 | 1
-| Juan Marcelo Parra Ullauri | 1 | 0 | 0 | 1
-| M&aacute;rton B&uacute;r | 1 | 0 | 0 | 1
-| Annapaola Marconi | 1 | 0 | 0 | 1
-| Jean-Richard Riccardi | 1 | 0 | 0 | 1
-| Mauricio Alf&eacute;rez | 1 | 0 | 0 | 1
-| Fabrizio Pastore | 1 | 0 | 0 | 1
-| Peter Goes | 1 | 0 | 0 | 1
-| Damiano Torre | 1 | 0 | 0 | 1
-| Yuri Auffinger | 1 | 0 | 0 | 1
-| &Aacute;gnes Sal&aacute;nki | 1 | 0 | 0 | 1
-| Zsolt Kov&aacute;ri | 1 | 0 | 0 | 1
-| Ingrid Chieh Yu | 1 | 0 | 0 | 1
-| Jesper Derehag | 1 | 0 | 0 | 1
-| Katrina E. Falkner | 1 | 0 | 0 | 1
-| Vanea Chiprianov | 1 | 0 | 0 | 1
-| Claudia Szabo | 1 | 0 | 0 | 1
-| Endre T. Somogyi | 1 | 0 | 0 | 1
-| James A. Glazier | 1 | 0 | 0 | 1
-| James P. Sluka | 1 | 0 | 0 | 1
-| Miguel Angel Fern&aacute;ndez | 1 | 0 | 0 | 1
-| Gregorio Robles | 1 | 0 | 0 | 1
-| Andreas Wagner | 1 | 0 | 0 | 1
-| Christian Prehofer | 1 | 0 | 0 | 1
-| Yucheng Jin | 1 | 0 | 0 | 1
-| Suchita Ganesan | 1 | 0 | 0 | 1
-| Leo Jweda | 1 | 0 | 0 | 1
-| Nondini Das | 1 | 0 | 0 | 1
-| Nicolas Hili | 1 | 0 | 0 | 1
-| Valentin Cassano | 1 | 0 | 0 | 1
-| Audris Kalnins | 1 | 0 | 0 | 1
-| Janis Barzdins | 1 | 0 | 0 | 1
-| Chao Liu | 1 | 0 | 0 | 1
-| Huihui Zhang | 1 | 0 | 0 | 1
-| Calypso Barnes | 1 | 0 | 0 | 1
-| Fran&ccedil;ois Verdier | 1 | 0 | 0 | 1
-| Jean-Marie Cottin | 1 | 0 | 0 | 1
-| Alain Pegatoquet | 1 | 0 | 0 | 1
-| Daniel Tuchscherer | 1 | 0 | 0 | 1
-| Frank Tr&auml;nkle | 1 | 0 | 0 | 1
-| Alexander Weibert | 1 | 0 | 0 | 1
-| Gunter Blache | 1 | 0 | 0 | 1
-| Irina A. Lomazova | 1 | 0 | 0 | 1
-| Vladimir A. Rubin | 1 | 0 | 0 | 1
-| Alessandra Bagnato | 1 | 0 | 0 | 1
-| Antonin Abherve | 1 | 0 | 0 | 1
-| Vlad Acretoaie | 1 | 0 | 0 | 1
-| William I. Grosky | 1 | 0 | 0 | 1
-| Bader Alkhazi | 1 | 0 | 0 | 1
-| Terry Ruas | 1 | 0 | 0 | 1
-| Massimo Tivoli | 1 | 0 | 0 | 1
-| Ulf R&uuml;egg | 1 | 0 | 0 | 1
-| Anand Kodaganur | 1 | 0 | 0 | 1
-| Ashwin Prasad | 1 | 0 | 0 | 1
-| Christoph Daniel Schulze | 1 | 0 | 0 | 1
-| Rajneesh Lakkundi | 1 | 0 | 0 | 1
-| Nafiseh Kahani | 1 | 0 | 0 | 1
-| Sylvain Gu&eacute;rin | 1 | 0 | 0 | 1
-| Christophe Guychard | 1 | 0 | 0 | 1
-| Fabien Dagnat | 1 | 0 | 0 | 1
-| Fahad Rafique Golra | 1 | 0 | 0 | 1
-| Antoine Beugnard | 1 | 0 | 0 | 1
-| Knut Eilif Husa | 1 | 0 | 0 | 1
-| Silvia Schreier | 1 | 0 | 0 | 1
-| J&ouml;rg D&ouml;rr | 1 | 0 | 0 | 1
-| Miao Fang | 1 | 0 | 0 | 1
-| Georg Leyh | 1 | 0 | 0 | 1
-| Zengyang Li | 1 | 0 | 0 | 1
-| Peng Liang  | 1 | 0 | 0 | 1
-| Paris Avgeriou | 1 | 0 | 0 | 1
-| Chetan Arora 0002 | 1 | 0 | 0 | 1
-| Alexandre Nabais-Moreno | 1 | 0 | 0 | 1
-| Martial Chabot | 1 | 0 | 0 | 1
-| Laurence Pierre | 1 | 0 | 0 | 1
-| Alexander Raschke | 1 | 0 | 0 | 1
-| Stefan Karg | 1 | 0 | 0 | 1
-| Annerose Braune | 1 | 0 | 0 | 1
-| Matthias Freund | 1 | 0 | 0 | 1
-| Grady Booch | 1 | 0 | 0 | 1
-| Ulrike Prange | 1 | 0 | 0 | 1
-| Naeem Esfahani | 1 | 0 | 0 | 1
-| Jo&atilde;o Pedro Sousa | 1 | 0 | 0 | 1
-| Daniel A. Menasc&eacute; | 1 | 0 | 0 | 1
-| Sam Malek | 1 | 0 | 0 | 1
-| Vahid Garousi | 1 | 0 | 0 | 1
-| Ketil St&oslash;len | 1 | 0 | 0 | 1
-| Ida Hogganvik | 1 | 0 | 0 | 1
-| Robert Wagner | 1 | 0 | 0 | 1
-| Diego Garc&iacute;a | 1 | 0 | 0 | 1
-| Claudia Pons | 1 | 0 | 0 | 1
-| Torbj&ouml;rn Lundkvist | 1 | 0 | 0 | 1
-| Michael von der Beeck | 1 | 0 | 0 | 1
-| Stephane Kamdoum | 1 | 0 | 0 | 1
-| Anders Mattsson | 1 | 0 | 0 | 1
-| Anna Persson | 1 | 0 | 0 | 1
-| Bj&ouml;rn Lundell | 1 | 0 | 0 | 1
-| Brian Lings | 1 | 0 | 0 | 1
-| Ali Taleghani | 1 | 0 | 0 | 1
-| Ximeng Sun | 1 | 0 | 0 | 1
-| Gabriela Ar&eacute;valo | 1 | 0 | 0 | 1
-| R&eacute;mi Schneckenburger | 1 | 0 | 0 | 1
-| Michel Hassenforder | 1 | 0 | 0 | 1
-| Achim D. Brucker | 1 | 0 | 0 | 1
-| Burkhart Wolff | 1 | 0 | 0 | 1
-| Remco van Engelen | 1 | 0 | 0 | 1
-| Teade Punter | 1 | 0 | 0 | 1
-| Louis van Gool | 1 | 0 | 0 | 1
-| Marc Hamilton | 1 | 0 | 0 | 1
-| Santiago Ceria | 1 | 0 | 0 | 1
-| Juan Jos&eacute; Cukier | 1 | 0 | 0 | 1
-| Tom Mens | 1 | 0 | 0 | 1
-| Antonia Bertolino | 1 | 0 | 0 | 1
-| Alvise Bonivento | 1 | 0 | 0 | 1
-| Guglielmo De Angelis | 1 | 0 | 0 | 1
-| Egidio Astesiano | 1 | 0 | 0 | 1
-| Alanna Zito | 1 | 0 | 0 | 1
-| Karin Coninx | 1 | 0 | 0 | 1
-| Jan Van den Bergh  | 1 | 0 | 0 | 1
-| Geoffrey Watson | 1 | 0 | 0 | 1
-| Tim McComb | 1 | 0 | 0 | 1
-| J&ouml;rn Guy S&uuml;&szlig; | 1 | 0 | 0 | 1
-| Soon-Kyeong Kim | 1 | 0 | 0 | 1
-| Luke Wildman | 1 | 0 | 0 | 1
-| Thomas Reiter | 1 | 0 | 0 | 1
-| Gerhard Kramler | 1 | 0 | 0 | 1
-| Horst Kargl | 1 | 0 | 0 | 1
-| David Hearnden | 1 | 0 | 0 | 1
-| Muhammad Alam | 1 | 0 | 0 | 1
-| Andr&eacute; van der Hoek | 1 | 0 | 0 | 1
-| Bryan Jett | 1 | 0 | 0 | 1
-| Scott A. Hendrickson | 1 | 0 | 0 | 1
-| G&uuml;nter Kuhns | 1 | 0 | 0 | 1
-| Christian K&ouml;hler  | 1 | 0 | 0 | 1
-| Eduard Weiss | 1 | 0 | 0 | 1
-| Karsten Ehrig | 1 | 0 | 0 | 1
-| Irun R. Cohen | 1 | 0 | 0 | 1
-| Christian F. J. Lange | 1 | 0 | 0 | 1
-| Serge Demeyer | 1 | 0 | 0 | 1
-| Bart Du Bois | 1 | 0 | 0 | 1
-| Luciano Garc&iacute;a-Ba&ntilde;uelos | 12 | 12 | 0 | 0
-| Ingo Weber | 10 | 10 | 0 | 0
-| Niels Lohmann | 8 | 8 | 0 | 0
-| Irene T. P. Vanderfeesten | 7 | 7 | 0 | 0
-| Kees M. van Hee | 7 | 7 | 0 | 0
-| Arik Senderovich | 6 | 6 | 0 | 0
-| Chiara Di Francescomarino | 6 | 6 | 0 | 0
-| Stefanie Rinderle | 6 | 6 | 0 | 0
-| Natalia Sidorova | 6 | 6 | 0 | 0
-| Frank Leymann | 5 | 5 | 0 | 0
-| Claude Godart | 5 | 5 | 0 | 0
-| Xiaohui Zhao  | 5 | 5 | 0 | 0
-| Marc Voorhoeve | 5 | 5 | 0 | 0
-| Jana Koehler | 5 | 5 | 0 | 0
-| Karsten Wolf | 5 | 5 | 0 | 0
-| J&ouml;rg Desel | 5 | 5 | 0 | 0
-| Richard Hull  | 5 | 5 | 0 | 0
-| Max M&uuml;hlh&auml;user | 4 | 4 | 0 | 0
-| Chiara Ghidini | 4 | 4 | 0 | 0
-| Andreas Rogge-Solti | 4 | 4 | 0 | 0
-| Jordi Cortadella | 4 | 4 | 0 | 0
-| Monique H. Jansen-Vullers | 4 | 4 | 0 | 0
-| Rania Khalaf | 4 | 4 | 0 | 0
-| Frank Puhlmann | 4 | 4 | 0 | 0
-| Rong Liu | 4 | 4 | 0 | 0
-| Mati Golani | 4 | 4 | 0 | 0
-| Christian Stahl | 4 | 4 | 0 | 0
-| Samir Tata | 4 | 4 | 0 | 0
-| Minseok Song  | 4 | 4 | 0 | 0
-| Wasana Bandara | 5 | 5 | 0 | 0
-| Timo Nolle | 3 | 3 | 0 | 0
-| Alexander Seeliger | 4 | 4 | 0 | 0
-| Andrea Burattin | 4 | 4 | 0 | 0
-| Christopher Klinkm&uuml;ller | 3 | 3 | 0 | 0
-| Guido Governatori | 3 | 3 | 0 | 0
-| Michael zur Muehlen | 3 | 3 | 0 | 0
-| Roberto Posenato | 3 | 3 | 0 | 0
-| Riccardo De Masellis | 3 | 3 | 0 | 0
-| Seppe K. L. M. vanden Broucke | 3 | 3 | 0 | 0
-| Chathura C. Ekanayake | 3 | 3 | 0 | 0
-| Abel Armas-Cervantes | 3 | 3 | 0 | 0
-| S&oslash;ren Debois | 3 | 3 | 0 | 0
-| Avishai Mandelbaum | 3 | 3 | 0 | 0
-| Stefano Tranquillini | 3 | 3 | 0 | 0
-| Olivier Perrin  | 3 | 3 | 0 | 0
-| Alexander Serebrenik | 3 | 3 | 0 | 0
-| C&eacute;dric Favre | 3 | 3 | 0 | 0
-| Joachim Herbst | 3 | 3 | 0 | 0
-| Dimka Karastoyanova | 3 | 3 | 0 | 0
-| Diogo R. Ferreira | 3 | 3 | 0 | 0
-| Juliane Siegeris | 3 | 3 | 0 | 0
-| Michael Westergaard | 3 | 3 | 0 | 0
-| R. P. Jagadeesh Chandra Bose | 3 | 3 | 0 | 0
-| Axel Martens | 3 | 3 | 0 | 0
-| Aubrey J. Rembert | 3 | 3 | 0 | 0
-| Christoph Dorn | 3 | 3 | 0 | 0
-| Xixi Lu | 2 | 2 | 0 | 0
-| Kanika Goel 0002 | 2 | 2 | 0 | 0
-| Llu&iacute;s Padr&oacute; | 2 | 2 | 0 | 0
-| Patrick Lohmann | 2 | 2 | 0 | 0
-| Amy Van Looy | 2 | 2 | 0 | 0
-| Massimo Mecella | 2 | 2 | 0 | 0
-| Katharina Stelzl | 2 | 2 | 0 | 0
-| Jan vom Brocke | 2 | 2 | 0 | 0
-| Oscar Gonz&aacute;lez Rojas | 2 | 2 | 0 | 0
-| Fran&ccedil;ois Charoy | 2 | 2 | 0 | 0
-| Robin Bergenthum | 2 | 2 | 0 | 0
-| Jo&atilde;o Carlos de A. R. Gon&ccedil;alves | 2 | 2 | 0 | 0
-| Manuel Lama | 2 | 2 | 0 | 0
-| Manuel Mucientes | 2 | 2 | 0 | 0
-| Alexander Ponomarev | 2 | 2 | 0 | 0
-| Saimir Bala | 2 | 2 | 0 | 0
-| Vincenzo Ferme | 2 | 2 | 0 | 0
-| Werner Nutt | 2 | 2 | 0 | 0
-| Pieter De Koninck | 2 | 2 | 0 | 0
-| Farbod Taymouri | 2 | 2 | 0 | 0
-| Sanjiva Weerawarana | 2 | 2 | 0 | 0
-| Christian Janiesch | 4 | 4 | 0 | 0
-| Daniel Rei&szlig;ner | 2 | 2 | 0 | 0
-| Morten Marquard | 2 | 2 | 0 | 0
-| Cristina Cabanillas | 3 | 3 | 0 | 0
-| Geetika T. Lakshmanan | 2 | 2 | 0 | 0
-| Zhiqiang Yan | 2 | 2 | 0 | 0
-| Javier de San Pedro | 2 | 2 | 0 | 0
-| Jonas Manderscheid | 2 | 2 | 0 | 0
-| Sira Yongchareon | 2 | 2 | 0 | 0
-| Jian Yang  | 2 | 2 | 0 | 0
-| Zoran Milosevic | 2 | 2 | 0 | 0
-| Armin Zimmermann | 2 | 2 | 0 | 0
-| Markus N&uuml;ttgens | 2 | 2 | 0 | 0
-| Rainer Anzb&ouml;ck | 2 | 2 | 0 | 0
-| Alistair P. Barros | 2 | 2 | 0 | 0
-| Xiwei Xu | 2 | 2 | 0 | 0
-| Rami-Habib Eid-Sabbagh | 2 | 2 | 0 | 0
-| Tobias Freudenreich | 2 | 2 | 0 | 0
-| Stefan Appel | 2 | 2 | 0 | 0
-| Sebastian Frischbier | 2 | 2 | 0 | 0
-| Alejandro P. Buchmann | 2 | 2 | 0 | 0
-| Hong Linh Truong  | 2 | 2 | 0 | 0
-| Niko Kleiner | 2 | 2 | 0 | 0
-| Lou J. Somers | 2 | 2 | 0 | 0
-| Suk-Ho Kang | 2 | 2 | 0 | 0
-| Leonid Churilov | 2 | 2 | 0 | 0
-| Dina Neiger | 2 | 2 | 0 | 0
-| Markus Hammori | 2 | 2 | 0 | 0
-| Peter Massuthe | 2 | 2 | 0 | 0
-| J&ouml;rg Nitzsche | 2 | 2 | 0 | 0
-| Robert Lorenz  | 2 | 2 | 0 | 0
-| Anne Rozinat | 2 | 2 | 0 | 0
-| Dominic M&uuml;ller | 2 | 2 | 0 | 0
-| Rama Akkiraju | 2 | 2 | 0 | 0
-| Michael Kishinevsky | 2 | 2 | 0 | 0
-| Yun Yang  | 2 | 2 | 0 | 0
-| Jinjun Chen | 2 | 2 | 0 | 0
-| Jorge Munoz-Gama | 2 | 2 | 0 | 0
-| Yutian Sun | 2 | 2 | 0 | 0
-| Andr&eacute; Ludwig | 2 | 2 | 0 | 0
-| Vinod Muthusamy | 4 | 4 | 0 | 0
-| Renuka Sindhgatta | 2 | 2 | 0 | 0
-| Wasif Gilani | 2 | 2 | 0 | 0
-| Oliver Holschke | 2 | 2 | 0 | 0
-| Kais Klai | 2 | 2 | 0 | 0
-| Francisco Curbera | 2 | 2 | 0 | 0
-| Anil Nigam | 2 | 2 | 0 | 0
-| Frederick Y. Wu | 2 | 2 | 0 | 0
-| Alessandra Agostini | 2 | 2 | 0 | 0
-| Giorgio De Michelis | 2 | 2 | 0 | 0
-| Daniel Moldt | 2 | 2 | 0 | 0
-| Clarence A. Ellis | 2 | 2 | 0 | 0
-| Elio Damaggio | 2 | 2 | 0 | 0
-| Andreas Martin | 2 | 2 | 0 | 0
-| Hans Friedrich Witschel | 2 | 2 | 0 | 0
-| Bo Hu | 2 | 2 | 0 | 0
-| Knut Hinkelmann | 2 | 2 | 0 | 0
-| Uwe V. Riss | 2 | 2 | 0 | 0
-| Barbara Th&ouml;nssen | 2 | 2 | 0 | 0
-| Debdoot Mukherjee | 2 | 2 | 0 | 0
-| Saurabh Sinha | 2 | 2 | 0 | 0
-| Jutta A. M&uuml;lle | 2 | 2 | 0 | 0
-| Irene Teinemaa | 2 | 2 | 0 | 0
 | Philippe Qu&eacute;innec | 1 | 1 | 0 | 0
 | Pascal Poizat | 1 | 1 | 0 | 0
 | Souheib Baarir | 1 | 1 | 0 | 0
@@ -4055,20 +4067,14 @@ The following table lists all authors with the number of contributions to the BP
 | Mahdi Ghasemi | 1 | 1 | 0 | 0
 | Josep S&agrave;nchez-Ferreres | 1 | 1 | 0 | 0
 | Richard M&uuml;ller 0002 | 1 | 1 | 0 | 0
-| Andrey Rivkin | 4 | 4 | 0 | 0
-| Silvio Ghilardi | 2 | 2 | 0 | 0
-| Alessandro Gianola | 4 | 4 | 0 | 0
 | Alisa Kovtunova | 1 | 1 | 0 | 0
 | Silvano Colombo Tosatto | 1 | 1 | 0 | 0
 | Nick van Beest | 1 | 1 | 0 | 0
 | Aygun Shafagatova | 1 | 1 | 0 | 0
 | Francesco Leotta | 1 | 1 | 0 | 0
-| Andrea Marrella | 2 | 2 | 0 | 0
 | Steven Gross | 1 | 1 | 0 | 0
 | Thomas Grisold | 1 | 1 | 0 | 0
 | Manuel Camargo  | 1 | 1 | 0 | 0
-| Inge van de Weerd | 2 | 2 | 0 | 0
-| Iris Beerepoot | 2 | 2 | 0 | 0
 | Guillaume Rosinosky | 1 | 1 | 0 | 0
 | Samir Youcef | 1 | 1 | 0 | 0
 | Kristof B&ouml;hmer | 1 | 1 | 0 | 0
@@ -4107,11 +4113,8 @@ The following table lists all authors with the number of contributions to the BP
 | Flavio Corradini | 1 | 1 | 0 | 0
 | Chiara Muzi | 1 | 1 | 0 | 0
 | Lorenzo Rossi  | 1 | 1 | 0 | 0
-| Francesco Tiezzi | 2 | 2 | 0 | 0
 | Alessio Cecconi | 1 | 1 | 0 | 0
 | Vadim Denisov | 1 | 1 | 0 | 0
-| Erica French | 2 | 2 | 0 | 0
-| Rehan Syed | 2 | 2 | 0 | 0
 | Srinath Perera | 1 | 1 | 0 | 0
 | Volodymyr Leno | 1 | 1 | 0 | 0
 | Theresa Schmiedel | 1 | 1 | 0 | 0
@@ -4121,7 +4124,6 @@ The following table lists all authors with the number of contributions to the BP
 | Axel Winkelmann | 1 | 1 | 0 | 0
 | Florian Imgrund | 1 | 1 | 0 | 0
 | Maolin Pan | 1 | 1 | 0 | 0
-| Jing Yang | 3 | 3 | 0 | 0
 | Muhammad Shahzad | 1 | 1 | 0 | 0
 | Karthikeyan Ponnalagu | 1 | 1 | 0 | 0
 | Nanjangud C. Narendra | 1 | 1 | 0 | 0
@@ -4231,7 +4233,6 @@ The following table lists all authors with the number of contributions to the BP
 | Amador Dur&aacute;n | 1 | 1 | 0 | 0
 | Antonio Ruiz Cort&eacute;s | 1 | 1 | 0 | 0
 | Adela del-R&iacute;o-Ortega | 1 | 1 | 0 | 0
-| Manuel Resinas | 2 | 2 | 0 | 0
 | Marian Benner | 1 | 1 | 0 | 0
 | Matthias Book | 1 | 1 | 0 | 0
 | Thomas Richter | 1 | 1 | 0 | 0
@@ -4362,7 +4363,6 @@ The following table lists all authors with the number of contributions to the BP
 | Szabolcs Rozsnyai | 1 | 1 | 0 | 0
 | Fei Wang | 1 | 1 | 0 | 0
 | Raghava Rao Mukkamala | 1 | 1 | 0 | 0
-| Luise Pufahl | 2 | 2 | 0 | 0
 | Marcin Hewelt | 1 | 1 | 0 | 0
 | Noshir S. Contractor | 1 | 1 | 0 | 0
 | Tom Baeyens | 1 | 1 | 0 | 0
