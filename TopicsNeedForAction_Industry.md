@@ -1,4 +1,4 @@
-The following table lists all mentioned topics with a need for action from rindustrial participants in our survey.
+The following table lists all mentioned topics with a need for action from industrial participants in our survey.
 
 | Topic | Mentions (Total) 
 |-------|:--------:|
