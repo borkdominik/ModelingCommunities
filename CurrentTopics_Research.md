@@ -1,7 +1,7 @@
 The following table lists all mentioned currently most exciting topics from researchers participating in our survey.
 
 | Topic | Mentions (Total) | Mentions (BPM) |  Mentions (ER)  | Mentions (MODELS) 
-|-------|:--------:|:----------|:----------|:----------|
+|-------|:--------:|:--------:|:--------:|:--------:|
 | AI | 21  |5 | 11 | 5
 | conceptual modeling | 12  |1 | 10 | 1
 | DSL | 10  |2 | 3 | 5

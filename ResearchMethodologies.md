@@ -1,7 +1,7 @@
 The following table lists all mentioned research methodologies with their toal number of mentions and their overall share.
 
 | Methodology | Mentions (BPM) |  Mentions (ER)  | Mentions (MODELS) 
-|-------|:--------:|:----------|:----------|
+|-------|:--------:|:--------:|:--------:|
 | Concept implementation (proof of concept)  | 14,6%  | 14,3% | 17,9%
 | Design Science | 13,8% | 14,7% | 8,5%
 | Case Study | 9,2% | 12,4% | 14,2%
