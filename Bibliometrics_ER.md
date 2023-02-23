@@ -106,7 +106,7 @@ The following table lists all authors with the number of contributions to the ER
 | Lidia L&oacute;pez | 5
 | Christoph Quix | 5
 | Silvia Ingolfo | 5
-| Wolfgang Maass 0002 | 5
+| Wolfgang Maass  | 5
 | Yuan An | 5
 | Ivan Jureta | 5
 | A Min Tjoa | 5
@@ -247,7 +247,7 @@ The following table lists all authors with the number of contributions to the ER
 | Wolf-Tilo Balke | 3
 | Haiming Chen | 3
 | Marco Antonio Casanova | 3
-| Lei Jiang 0002 | 3
+| Lei Jiang  | 3
 | Daniele Barone | 3
 | Inma Hern&aacute;ndez | 3
 | Ritu Khare | 3
@@ -284,7 +284,7 @@ The following table lists all authors with the number of contributions to the ER
 | Luiz Tucherman | 3
 | Ewing L. Lusk | 3
 | Stefania Leone | 3
-| Jie Hu 0006 | 3
+| Jie Hu  | 3
 | Roberto De Virgilio | 3
 | Wee Keong Ng | 3
 | Roland R. Wagner | 3
@@ -502,7 +502,7 @@ The following table lists all authors with the number of contributions to the ER
 | Thorsten Weyer | 2
 | Sonia Berman | 2
 | Andreas Jordan | 2
-| Anna Bernasconi 0002 | 2
+| Anna Bernasconi  | 2
 | Dimitris Karagiannis | 2
 | Stephan Mennicke | 2
 | Apostolos V. Zarras | 2
@@ -655,7 +655,7 @@ The following table lists all authors with the number of contributions to the ER
 | Jan Ladleif | 1
 | Ernesto Damiani | 1
 | Stephan K&uuml;hnel | 1
-| Yang Yu 0027 | 1
+| Yang Yu  | 1
 | Alireza Ostovar | 1
 | Abderrahmane Maaradji | 1
 | Peter Loos | 1
@@ -674,8 +674,8 @@ The following table lists all authors with the number of contributions to the ER
 | Joos C. A. M. Buijs | 1
 | Tomer Sagi | 1
 | Mark H. Linehan | 1
-| Chen Li 0012 | 1
-| Sergey Smirnov 0002 | 1
+| Chen Li  | 1
+| Sergey Smirnov  | 1
 | Calton Pu | 1
 | Stefan Jablonski | 1
 | Mike P. Papazoglou | 1
@@ -786,7 +786,7 @@ The following table lists all authors with the number of contributions to the ER
 | Gabriella Bono | 1
 | Paolo Ficorilli | 1
 | Jian Zhou | 1
-| Peter Baumann 0005 | 1
+| Peter Baumann  | 1
 | Reind P. van de Riet | 1
 | Paul Buitelaar | 1
 | William Wei Song | 1
@@ -872,7 +872,7 @@ The following table lists all authors with the number of contributions to the ER
 | Jon Buch-Lorentsen | 1
 | Amine Abbad Andaloussi | 1
 | Hugo A. L&oacute;pez | 1
-| Yifei Zhang 0003 | 1
+| Yifei Zhang  | 1
 | Shi Feng | 1
 | Daling Wang | 1
 | Qiao Liao | 1
@@ -930,7 +930,7 @@ The following table lists all authors with the number of contributions to the ER
 | Emanuele Rabosio | 1
 | Letizia Tanca | 1
 | Patr&iacute;cio de Alencar Silva | 1
-| Qing Wang 0002 | 1
+| Qing Wang  | 1
 | Tobias Kowatsch | 1
 | Ravi Ramdoyal | 1
 | Alexander Nielen | 1
@@ -943,7 +943,7 @@ The following table lists all authors with the number of contributions to the ER
 | Luca Sabatucci | 1
 | Nauman A. Qureshi | 1
 | Alon Y. Halevy | 1
-| Xiang Li 0002 | 1
+| Xiang Li  | 1
 | Sonja Kabicher | 1
 | Michele Missikoff | 1
 | Arne-J&oslash;rgen Berre | 1
@@ -1017,7 +1017,7 @@ The following table lists all authors with the number of contributions to the ER
 | Lianne Bodenstaff | 1
 | Ana M. Moreno | 1
 | Khalid Saleem | 1
-| Ming Li 0008 | 1
+| Ming Li  | 1
 | Davide Lorusso | 1
 | Sara Degani | 1
 | Amit P. Sheth | 1
@@ -1287,7 +1287,7 @@ The following table lists all authors with the number of contributions to the ER
 | Huaikou Miao | 1
 | Xuede Zhan | 1
 | Jernej Kovse | 1
-| Christian Weber 0002 | 1
+| Christian Weber  | 1
 | Theo H&auml;rder | 1
 | Prasad Jayaweera | 1
 | Hector Garcia-Molina | 1
@@ -1295,8 +1295,8 @@ The following table lists all authors with the number of contributions to the ER
 | Baile Shi | 1
 | Dong Huang | 1
 | Jun Tang | 1
-| Wei Wang 0009 | 1
-| Chen Wang 0035 | 1
+| Wei Wang  | 1
+| Chen Wang  | 1
 | Tero Lepp&auml;nen | 1
 | Esko Simpanen | 1
 | Pentti V&auml;nsk&auml; | 1
@@ -1314,7 +1314,7 @@ The following table lists all authors with the number of contributions to the ER
 | Ajay Eppili | 1
 | Xiaocong Fan | 1
 | John Yen | 1
-| Ling Wang 0002 | 1
+| Ling Wang  | 1
 | Sriram Padmanabhan | 1
 | Xiaoyang Sean Wang | 1
 | Like Gao | 1
@@ -1410,13 +1410,13 @@ The following table lists all authors with the number of contributions to the ER
 | Jaelson Brelaz de Castro | 1
 | Robson do Nascimento Fidalgo | 1
 | Elvis Maranh&atilde;o De Souza | 1
-| Jiang Li 0010 | 1
+| Jiang Li  | 1
 | Kewen Wang | 1
 | Matteo Interlandi | 1
 | David Aguilera | 1
 | Mario Cervera | 1
 | Stefan Anderlik | 1
-| Md. Saiful Islam 0003 | 1
+| Md. Saiful Islam  | 1
 | Rui Zhou  | 1
 | Natalia Juristo Juzgado | 1
 | Jos&eacute; Ignacio Panach Navarrete | 1
@@ -1752,7 +1752,7 @@ The following table lists all authors with the number of contributions to the ER
 | Ce Dong | 1
 | Susan Darling Urban | 1
 | Ning Liao | 1
-| Yang Xiao 0003 | 1
+| Yang Xiao  | 1
 | Julian Seidenberg | 1
 | Alan L. Rector | 1
 | Kenneth P. Smith | 1
@@ -1763,7 +1763,7 @@ The following table lists all authors with the number of contributions to the ER
 | Dong Li | 1
 | Komminist Weldemariam | 1
 | Kala Fleming | 1
-| Xin Wang 0030 | 1
+| Xin Wang  | 1
 | Ioannis Chrysakis | 1
 | Giorgos Flouris | 1
 | Feng-Lin Li | 1
@@ -1806,7 +1806,7 @@ The following table lists all authors with the number of contributions to the ER
 | Karen C. Davis | 1
 | Prudhvi Janga | 1
 | Antonio Maccioni | 1
-| Ye Tian 0011 | 1
+| Ye Tian  | 1
 | Guoray Cai | 1
 | Marija Bjekovic | 1
 | Jean-S&eacute;bastien Sottet | 1
@@ -1893,7 +1893,7 @@ The following table lists all authors with the number of contributions to the ER
 | Frederik Hogenboom | 1
 | Uzay Kaymak | 1
 | Otto van der Meer | 1
-| Jun Liu 0027 | 1
+| Jun Liu  | 1
 | Adi Unnithan | 1
 | Manuel Carro | 1
 | Martin Treiber | 1
@@ -1935,7 +1935,7 @@ The following table lists all authors with the number of contributions to the ER
 | Stephan Erdtmann | 1
 | Petru Nicolaescu | 1
 | Ralf Klamma | 1
-| Liwei Wang 0011 | 1
+| Liwei Wang  | 1
 | Liang Wang | 1
 | Fabiano Borges Ruy | 1
 | C&aacute;ssio Chaves Reginato | 1
@@ -2003,7 +2003,7 @@ The following table lists all authors with the number of contributions to the ER
 | Joachim Hammer | 1
 | Mingxi Wu | 1
 | Chisu Wu | 1
-| Seungjin Lee 0002 | 1
+| Seungjin Lee  | 1
 | Junho Shim | 1
 | Zuyan Wang | 1
 | Boleslaw Mikolajczak | 1
@@ -2385,7 +2385,7 @@ The following table lists all authors with the number of contributions to the ER
 | Kenneth Wai-Ting Leung | 1
 | Dik Lun Lee | 1
 | Liping Zhao  | 1
-| Jie Sun 0017 | 1
+| Jie Sun  | 1
 | Audun Vennesland | 1
 | Daniela S. Cruzes | 1
 | Marit Kj&oslash;snes Natvig | 1

@@ -149,7 +149,7 @@ The following table lists all authors with the number of contributions to the BP
 | Christian Gerth | 2
 | Ana Ivanchikj | 2
 | Xixi Lu | 2
-| Kanika Goel 0002 | 2
+| Kanika Goel  | 2
 | Llu&iacute;s Padr&oacute; | 2
 | Patrick Lohmann | 2
 | Amy Van Looy | 2
@@ -279,7 +279,7 @@ The following table lists all authors with the number of contributions to the BP
 | Jan Ladleif | 1
 | Ernesto Damiani | 1
 | Stephan K&uuml;hnel | 1
-| Yang Yu 0027 | 1
+| Yang Yu  | 1
 | Alireza Ostovar | 1
 | Abderrahmane Maaradji | 1
 | Peter Loos | 1
@@ -298,8 +298,8 @@ The following table lists all authors with the number of contributions to the BP
 | Joos C. A. M. Buijs | 1
 | Tomer Sagi | 1
 | Mark H. Linehan | 1
-| Chen Li 0012 | 1
-| Sergey Smirnov 0002 | 1
+| Chen Li  | 1
+| Sergey Smirnov  | 1
 | Calton Pu | 1
 | Stefan Jablonski | 1
 | Mike P. Papazoglou | 1
@@ -329,7 +329,7 @@ The following table lists all authors with the number of contributions to the BP
 | Pascal Poizat | 1
 | Souheib Baarir | 1
 | Sara Houhou | 1
-| Martin Bauer 0006 | 1
+| Martin Bauer  | 1
 | Mark Hoogendoorn | 1
 | Seyed Amin Tabatabaei | 1
 | Bastian Wurm | 1
@@ -346,7 +346,7 @@ The following table lists all authors with the number of contributions to the BP
 | Alejandro S&aacute;nchez Guinea | 1
 | Mahdi Ghasemi | 1
 | Josep S&agrave;nchez-Ferreres | 1
-| Richard M&uuml;ller 0002 | 1
+| Richard M&uuml;ller  | 1
 | Alisa Kovtunova | 1
 | Silvano Colombo Tosatto | 1
 | Nick van Beest | 1
@@ -417,7 +417,7 @@ The following table lists all authors with the number of contributions to the BP
 | Nirmal Mukhi | 1
 | Haifeng Liu | 1
 | Yiqin Yu | 1
-| Xiang Li 0013 | 1
+| Xiang Li  | 1
 | Vatche Ishakian | 1
 | Mike Marin | 1
 | Eduardo Gonz&aacute;lez L&oacute;pez de Murillas | 1
@@ -500,7 +500,7 @@ The following table lists all authors with the number of contributions to the BP
 | Yikai Ren | 1
 | Adnene Guabtni | 1
 | Richard Lenz | 1
-| Karsten Schmidt 0004 | 1
+| Karsten Schmidt  | 1
 | Sebastian Hinz | 1
 | Raju N. Gottumukkala | 1
 | Tong Sun | 1
@@ -628,12 +628,12 @@ The following table lists all authors with the number of contributions to the BP
 | Sven Feja | 1
 | Stefan K&uuml;hne | 1
 | Werner Rotzoll | 1
-| Sebastian Stein 0002 | 1
+| Sebastian Stein  | 1
 | Felix Flentge | 1
 | Todor Stoitsev | 1
 | Stefan Scheidl | 1
 | Yudistira Asnar | 1
-| Xiao Liu 0004 | 1
+| Xiao Liu  | 1
 | Ksenia Wahler | 1
 | Jussi Vanhatalo | 1
 | Dominic A. P. Greenwood | 1
@@ -736,7 +736,7 @@ The following table lists all authors with the number of contributions to the BP
 | Frank Dengler | 1
 | Denny Vrandecic | 1
 | Simon Brander | 1
-| Monika Gupta 0002 | 1
+| Monika Gupta  | 1
 | Vibha Singhal Sinha | 1
 | Harald Psaier | 1
 | Daniel Schall  | 1
@@ -780,7 +780,7 @@ The following table lists all authors with the number of contributions to the BP
 | Michiharu Kudo | 1
 | Dennis Bokermann | 1
 | Richard Mrasek | 1
-| Michael Becker 0002 | 1
+| Michael Becker  | 1
 | Christian Allmann | 1
 | Klemens B&ouml;hm | 1
 | Li Yan | 1
@@ -821,7 +821,7 @@ The following table lists all authors with the number of contributions to the BP
 | M. J. Stegeman | 1
 | Daniel Wutke | 1
 | Branimir Wetzstein | 1
-| Kenneth Wang 0002 | 1
+| Kenneth Wang  | 1
 | Mathieu Braem | 1
 | Kris Verlaenen | 1
 | Eddy Truyen | 1

@@ -33,7 +33,7 @@ The following table lists all authors with the number of contributions to the MO
 | Marsha Chechik | 9
 | Gregor Engels | 8
 | &Oslash;ystein Haugen | 8
-| Tao Yue 0002 | 8
+| Tao Yue  | 8
 | Yvan Labiche | 8
 | J&uuml;rgen Dingel | 8
 | Jes&uacute;s S&aacute;nchez Cuadrado | 8
@@ -160,7 +160,7 @@ The following table lists all authors with the number of contributions to the MO
 | Tihamer Levendovszky | 3
 | Philippe Collet | 3
 | Sebastien Gerard | 3
-| Wei Zhang 0004 | 3
+| Wei Zhang  | 3
 | Joanna Chimiak-Opoka | 3
 | Dennis Wagelaar | 3
 | Hartmut Ehrig | 3
@@ -171,7 +171,7 @@ The following table lists all authors with the number of contributions to the MO
 | Gerd Kainz | 3
 | Alois C. Knoll | 3
 | Christian Buckl | 3
-| Yu Sun 0002 | 3
+| Yu Sun  | 3
 | Jeff Gray | 3
 | Paul Gr&uuml;nbacher | 3
 | Fiona A. C. Polack | 3
@@ -283,7 +283,7 @@ The following table lists all authors with the number of contributions to the MO
 | Johannes Eder | 2
 | Carolina Dania | 2
 | Yihan Wu | 2
-| Ying Zhang 0012 | 2
+| Ying Zhang  | 2
 | Patrick M&auml;der | 2
 | Shige Wang | 2
 | Javier Gonzalez-Huerta | 2
@@ -311,7 +311,7 @@ The following table lists all authors with the number of contributions to the MO
 | Mathias Kleiner | 2
 | Filippo Ricca | 2
 | Claas Wilke | 2
-| Jan Reimann 0002 | 2
+| Jan Reimann  | 2
 | Olivier Beaudoux | 2
 | Arnaud Blouin | 2
 | Carlo Ghezzi | 2
@@ -482,7 +482,7 @@ The following table lists all authors with the number of contributions to the MO
 | Ben Lickly | 1
 | Man-Kit Leung | 1
 | Elizabeth Latronico | 1
-| Thomas Mandl 0002 | 1
+| Thomas Mandl  | 1
 | Charles P. Shelton | 1
 | Pau Giner | 1
 | Stephan Wei&szlig;leder | 1
@@ -676,7 +676,7 @@ The following table lists all authors with the number of contributions to the MO
 | Hiroshi Wada | 1
 | Junichi Suzuki | 1
 | Jeffrey G. Gray | 1
-| Jing Zhang 0003 | 1
+| Jing Zhang  | 1
 | Steven Nordstrom | 1
 | Swapna S. Gokhale | 1
 | Yuehua Lin | 1
@@ -703,7 +703,7 @@ The following table lists all authors with the number of contributions to the MO
 | Anca Daniela Ionita | 1
 | Germ&aacute;n Vega | 1
 | Jacky Estublier | 1
-| Jie Yang 0014 | 1
+| Jie Yang  | 1
 | M. J. Evans | 1
 | Klaus D. McDonald-Maier | 1
 | David H. Akehurst | 1
@@ -722,11 +722,11 @@ The following table lists all authors with the number of contributions to the MO
 | Laurence Duchien | 1
 | Anne-Fran&ccedil;oise Le Meur | 1
 | Guillaume Waignier | 1
-| Pedro Ramos 0004 | 1
+| Pedro Ramos  | 1
 | Denis Hatebur | 1
 | Holger Schmidt  | 1
 | Javier J. Guti&eacute;rrez  | 1
-| Isabel Ramos 0002 | 1
+| Isabel Ramos  | 1
 | Mar&iacute;a Jos&eacute; Escalona | 1
 | Manuel Mej&iacute;as | 1
 | Sahar Kayhani | 1
@@ -770,7 +770,7 @@ The following table lists all authors with the number of contributions to the MO
 | Lidia Fuentes | 1
 | Rainer Unland | 1
 | Hongzhi Liang | 1
-| Qin Ma 0002 | 1
+| Qin Ma  | 1
 | Pierre Kelsen | 1
 | Kjell-Joar Alme | 1
 | G&oslash;ran K. Olsen | 1
@@ -816,7 +816,7 @@ The following table lists all authors with the number of contributions to the MO
 | Stuart Hutchesson | 1
 | Vincent Bertram | 1
 | Vanessa N. Michalke | 1
-| Martin Beckmann 0002 | 1
+| Martin Beckmann  | 1
 | Aaron Schlutter | 1
 | Dominique Ernadote | 1
 | Alexander Diewald | 1
@@ -913,7 +913,7 @@ The following table lists all authors with the number of contributions to the MO
 | Aidan Clarke | 1
 | Mathieu Acher | 1
 | Zhiqiang Fan | 1
-| Li Zhang 0029 | 1
+| Li Zhang  | 1
 | Kunming Nie | 1
 | Eric Latimer | 1
 | Florian Stallmann | 1
@@ -1090,7 +1090,7 @@ The following table lists all authors with the number of contributions to the MO
 | Jane Cleland-Huang | 1
 | Birger M&oslash;ller-Pedersen | 1
 | Ole Lehrmann Madsen | 1
-| Zolt&aacute;n Balogh 0003 | 1
+| Zolt&aacute;n Balogh  | 1
 | Andr&aacute;s Balogh | 1
 | Andr&aacute;s &Ouml;kr&ouml;s | 1
 | Kelly Garc&eacute;s | 1
@@ -1139,7 +1139,7 @@ The following table lists all authors with the number of contributions to the MO
 | Markus Look | 1
 | Timo Greifenberg | 1
 | Ralph Gerbig | 1
-| Carlos Moreno 0002 | 1
+| Carlos Moreno  | 1
 | Sebastian Fischmeister | 1
 | Aymen Ketata | 1
 | Juergen Etzlstorfer | 1
@@ -1185,7 +1185,7 @@ The following table lists all authors with the number of contributions to the MO
 | Claudia A. Marcos | 1
 | Alejandro Rago | 1
 | Jun Sun  | 1
-| Yang Liu 0003 | 1
+| Yang Liu  | 1
 | Jin Song Dong | 1
 | Mikhail Auguston | 1
 | Songzheng Song | 1
@@ -1237,7 +1237,7 @@ The following table lists all authors with the number of contributions to the MO
 | Charles Andr&eacute; | 1
 | Robert de Simone | 1
 | Donglin Liang | 1
-| Kai Xu 0002 | 1
+| Kai Xu  | 1
 | Rodrigo Ramos | 1
 | Holger Kampffmeyer | 1
 | Brian E. Mastenbrook | 1
@@ -1386,7 +1386,7 @@ The following table lists all authors with the number of contributions to the MO
 | Zengyang Li | 1
 | Peng Liang  | 1
 | Paris Avgeriou | 1
-| Chetan Arora 0002 | 1
+| Chetan Arora  | 1
 | Alexandre Nabais-Moreno | 1
 | Martial Chabot | 1
 | Laurence Pierre | 1
