@@ -1,4 +1,4 @@
-The following table lists all mentioned currently most exciting topics from rindustrial participants in our survey.
+The following table lists all mentioned current most exciting topics from industrial participants in our survey.
 
 | Topic | Mentions (Total) 
 |-------|:--------:|
